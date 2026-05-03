@@ -1,0 +1,13 @@
+# Root .gitignore
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+.next/
+.vercel/
+*.log
+.gemini/
+.venv/
+venv/
+__pycache__/
