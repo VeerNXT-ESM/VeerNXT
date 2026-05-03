@@ -491,12 +491,12 @@ export const CommunitySupport = () => {
 
             <div className="grid md:grid-cols-4 gap-8">
                {[
-                 { title: 'Agniveer Alumni T-Shirts', desc: 'Premium cotton with custom insignia', img: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=2680&auto=format&fit=crop' },
-                 { title: 'Battalion Hoodies', desc: 'Heavyweight with battalion designs', img: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=2574&auto=format&fit=crop' },
-                 { title: 'Military Duffle Bags', desc: 'Rugged and water-resistant', img: 'https://images.unsplash.com/photo-1547949003-9792a18a2601?q=80&w=2670&auto=format&fit=crop' },
-                 { title: 'Caps & Badges', desc: 'Official military accessories', img: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=2574&auto=format&fit=crop' },
-                 { title: 'Desk Flags & Posters', desc: 'Display your pride', img: 'https://images.unsplash.com/photo-1493612276216-ee3925520721?q=80&w=2648&auto=format&fit=crop' },
-                 { title: 'Tactical Notebooks', desc: 'Field-tested stationery', img: 'https://images.unsplash.com/photo-1531346878377-a5be20888e57?q=80&w=2574&auto=format&fit=crop' }
+                 { title: 'Agniveer Alumni T-Shirts', desc: 'Premium cotton with custom insignia', img: '/hero/merchandise.png' },
+                 { title: 'Battalion Hoodies', desc: 'Heavyweight with battalion designs', img: '/hero/merchandise.png' },
+                 { title: 'Military Duffle Bags', desc: 'Rugged and water-resistant', img: '/hero/merchandise.png' },
+                 { title: 'Caps & Badges', desc: 'Official military accessories', img: '/hero/merchandise.png' },
+                 { title: 'Desk Flags & Posters', desc: 'Display your pride', img: '/hero/merchandise.png' },
+                 { title: 'Tactical Notebooks', desc: 'Field-tested stationery', img: '/hero/merchandise.png' }
                ].map((product, idx) => (
                   <div key={idx} className="ios-card bg-ios-secondary p-4 flex flex-col group">
                      <div className="rounded-2xl overflow-hidden mb-6 aspect-square">

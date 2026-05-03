@@ -71,7 +71,7 @@ export const FinancialGuidance = () => {
           <div className="flex-1">
              <div className="ios-card bg-ios-secondary p-4 overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=2671&auto=format&fit=crop" 
+                  src="/hero/financial_guidance.png" 
                   className="w-full h-auto rounded-3xl" 
                   alt="Coins and growth"
                   referrerPolicy="no-referrer"
@@ -110,7 +110,7 @@ export const FinancialGuidance = () => {
       {/* Offerings Section */}
       <section className="py-24 bg-white relative">
         <div className="absolute top-0 left-0 w-full h-[60%] bg-[#111] z-0">
-          <img src="https://images.unsplash.com/photo-1454165833772-d99628a5ffa0?q=80&w=2670&auto=format&fit=crop" className="w-full h-full object-cover opacity-40 grayscale" alt="" referrerPolicy="no-referrer" />
+          <img src="/hero/hero_image.png" className="w-full h-full object-cover opacity-40 grayscale" alt="" referrerPolicy="no-referrer" />
         </div>
         <div className="max-w-7xl mx-auto px-6 relative z-10">
           <div className="mb-16">
@@ -353,7 +353,7 @@ export const FinancialGuidance = () => {
              </div>
              <div className="flex flex-col md:flex-row gap-12 items-center relative z-10">
                 <img 
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=2576&auto=format&fit=crop" 
+                  src="/hero/hero_image.png" 
                   className="w-24 h-24 rounded-full border-4 border-white shadow-xl" 
                   alt="Col Rajiv Verma"
                   referrerPolicy="no-referrer"

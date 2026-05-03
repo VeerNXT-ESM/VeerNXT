@@ -245,7 +245,7 @@ const WhyVeerNXT = () => {
         <div className="relative">
           <div className="aspect-square rounded-[40px] overflow-hidden shadow-2xl">
             <img 
-              src="https://images.unsplash.com/photo-1621245749070-e4088998394b?q=80&w=2670&auto=format&fit=crop" 
+              src="/hero/about.png" 
               alt="Military Professionals"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
@@ -301,7 +301,7 @@ const Offerings = () => {
       title: t('offerings.career.title'),
       desc: t('offerings.career.desc'),
       icon: Briefcase,
-      img: "https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=2574&auto=format&fit=crop",
+      img: "/hero/career_mapping.png",
       btn: t('offerings.career.btn'),
       link: "/services/career-guidance"
     },
@@ -309,7 +309,7 @@ const Offerings = () => {
       title: t('offerings.financial.title'),
       desc: t('offerings.financial.desc'),
       icon: TrendingUp,
-      img: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?q=80&w=2671&auto=format&fit=crop",
+      img: "/hero/financial_guidance.png",
       btn: t('offerings.financial.btn'),
       link: "/services/financial-guidance"
     },
@@ -317,7 +317,7 @@ const Offerings = () => {
       title: t('offerings.community.title'),
       desc: t('offerings.community.desc'),
       icon: Users,
-      img: "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=2664&auto=format&fit=crop",
+      img: "/hero/community_support.png",
       btn: t('offerings.community.btn'),
       link: "/services/community-support"
     }
@@ -485,6 +485,8 @@ export default function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/about" element={<AboutUs />} />
+          <Route path="/community" element={<CommunitySupport />} />
           <Route path="/services/career-guidance" element={<CareerGuidance />} />
           <Route path="/services/financial-guidance" element={<FinancialGuidance />} />
           <Route path="/services/community-support" element={<CommunitySupport />} />

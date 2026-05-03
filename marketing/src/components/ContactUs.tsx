@@ -9,7 +9,7 @@ export const ContactUs = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0 scale-105"
           style={{ 
-            backgroundImage: "url('https://images.unsplash.com/photo-1579389083046-e3df9c2b3325?q=80&w=2070&auto=format&fit=crop')",
+            backgroundImage: "url('/hero/hero_image.png')",
             filter: "brightness(0.3)"
           }}
         />

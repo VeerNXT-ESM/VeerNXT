@@ -91,12 +91,12 @@ export const Profile = () => {
         );
       case 'courses':
         const courses = [
-          { id: 1, title: 'Ssc Gd Complete Batch 2024', instructor: 'Capt. Rajesh Sharma', progress: 65, lessonsLearned: 32, totalLessons: 50, duration: '3 Months', lastAccessed: '2 days ago', type: 'In Progress', img: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2670&auto=format&fit=crop' },
-          { id: 2, title: 'Reasoning Masterclass', instructor: 'Maj. Priya Singh', progress: 100, lessonsLearned: 40, totalLessons: 40, duration: '2 Months', lastAccessed: '2 days ago', type: 'Completed', img: 'https://images.unsplash.com/photo-1513258496099-48168024aec0?q=80&w=2670&auto=format&fit=crop' },
-          { id: 3, title: 'Mathematics Foundation', instructor: 'Col. Amit Kumar', progress: 45, lessonsLearned: 18, totalLessons: 40, duration: '2.5 Months', lastAccessed: '2 days ago', type: 'In Progress', img: 'https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=2670&auto=format&fit=crop' },
-          { id: 4, title: 'English For Competitive Exams', instructor: 'Lt. Neha Gupta', progress: 30, lessonsLearned: 12, totalLessons: 40, duration: '2 Months', lastAccessed: '2 days ago', type: 'In Progress', img: 'https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=2573&auto=format&fit=crop' },
-          { id: 5, title: 'Static Gk Crash Course', instructor: 'Dr. Anil Verma', progress: 0, lessonsLearned: 0, totalLessons: 30, duration: '1 Month', lastAccessed: '2 days ago', type: 'Upcoming', img: 'https://images.unsplash.com/photo-1532012197267-da84d127e765?q=80&w=2574&auto=format&fit=crop' },
-          { id: 6, title: 'Current Affairs Monthly', instructor: 'News Analysis Team', progress: 100, lessonsLearned: 12, totalLessons: 12, duration: 'Monthly', lastAccessed: '2 days ago', type: 'Completed', img: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=2670&auto=format&fit=crop' },
+          { id: 1, title: 'Ssc Gd Complete Batch 2024', instructor: 'Capt. Rajesh Sharma', progress: 65, lessonsLearned: 32, totalLessons: 50, duration: '3 Months', lastAccessed: '2 days ago', type: 'In Progress', img: '/hero/hero_image.png' },
+          { id: 2, title: 'Reasoning Masterclass', instructor: 'Maj. Priya Singh', progress: 100, lessonsLearned: 40, totalLessons: 40, duration: '2 Months', lastAccessed: '2 days ago', type: 'Completed', img: '/hero/hero_image.png' },
+          { id: 3, title: 'Mathematics Foundation', instructor: 'Col. Amit Kumar', progress: 45, lessonsLearned: 18, totalLessons: 40, duration: '2.5 Months', lastAccessed: '2 days ago', type: 'In Progress', img: '/hero/hero_image.png' },
+          { id: 4, title: 'English For Competitive Exams', instructor: 'Lt. Neha Gupta', progress: 30, lessonsLearned: 12, totalLessons: 40, duration: '2 Months', lastAccessed: '2 days ago', type: 'In Progress', img: '/hero/hero_image.png' },
+          { id: 5, title: 'Static Gk Crash Course', instructor: 'Dr. Anil Verma', progress: 0, lessonsLearned: 0, totalLessons: 30, duration: '1 Month', lastAccessed: '2 days ago', type: 'Upcoming', img: '/hero/hero_image.png' },
+          { id: 6, title: 'Current Affairs Monthly', instructor: 'News Analysis Team', progress: 100, lessonsLearned: 12, totalLessons: 12, duration: 'Monthly', lastAccessed: '2 days ago', type: 'Completed', img: '/hero/hero_image.png' },
         ];
 
         const filteredCourses = courses.filter(c => 
@@ -880,7 +880,7 @@ export const Profile = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0 scale-105"
           style={{ 
-            backgroundImage: "url('https://images.unsplash.com/photo-1590633743991-da5049971916?q=80&w=2070&auto=format&fit=crop')",
+            backgroundImage: "url('/hero/hero_image.png')",
             filter: "brightness(0.3)"
           }}
         />

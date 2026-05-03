@@ -12,7 +12,7 @@ export const StudentLogin = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center z-0 scale-105"
           style={{ 
-            backgroundImage: "url('https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=2070&auto=format&fit=crop')",
+            backgroundImage: "url('/hero/hero_image.png')",
             filter: "brightness(0.4)"
           }}
         />
