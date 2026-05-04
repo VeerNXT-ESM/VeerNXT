@@ -18,37 +18,13 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/auth/callback" element={<AuthCallback />} />
         
-        {/* Protected Routes with Global Header */}
+        {/* Routes with Global Header */}
         <Route element={<Layout />}>
-          <Route path="/profiling" element={
-            <AuthGuard>
-              <Profiling />
-            </AuthGuard>
-          } />
-          
-          <Route path="/dashboard" element={
-            <AuthGuard>
-              <Dashboard />
-            </AuthGuard>
-          } />
-          
-          <Route path="/learning-center" element={
-            <AuthGuard>
-              <LearningCenter />
-            </AuthGuard>
-          } />
-
-          <Route path="/reader/:id" element={
-            <AuthGuard>
-              <SecureReader />
-            </AuthGuard>
-          } />
-
-          <Route path="/quiz/:id" element={
-            <AuthGuard>
-              <InteractiveQuiz />
-            </AuthGuard>
-          } />
+          <Route path="/profiling" element={<Profiling />} />
+          <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/learning-center" element={<LearningCenter />} />
+          <Route path="/reader/:id" element={<SecureReader />} />
+          <Route path="/quiz/:id" element={<InteractiveQuiz />} />
         </Route>
 
         {/* Redirect root to dashboard */}

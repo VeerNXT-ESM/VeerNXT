@@ -1,6 +1,6 @@
-# Root .gitignore
 node_modules/
 .env
+.env.local
 .DS_Store
 dist/
 build/
@@ -11,3 +11,10 @@ build/
 .venv/
 venv/
 __pycache__/
+
+# Content Engine
+master_payload.json
+Example Resources/
+
+# Web
+public/hero/

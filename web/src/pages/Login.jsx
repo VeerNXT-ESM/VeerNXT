@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { supabase } from '../lib/supabase';
 import { ShieldCheck } from 'lucide-react';
 
@@ -7,24 +8,16 @@ const Login = () => {
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState('');
 
-  const handleLogin = async (e) => {
+  const navigate = useNavigate();
+
+  const handleLogin = (e) => {
     e.preventDefault();
     setLoading(true);
-    setMessage('');
-
-    const { error } = await supabase.auth.signInWithOtp({
-      email,
-      options: {
-        emailRedirectTo: `${window.location.origin}/auth/callback`,
-      },
-    });
-
-    if (error) {
-      setMessage(error.message);
-    } else {
-      setMessage('Check your email for the login link!');
-    }
-    setLoading(false);
+    // Dummy login
+    setTimeout(() => {
+      navigate('/profiling');
+      setLoading(false);
+    }, 800);
   };
 
   return (

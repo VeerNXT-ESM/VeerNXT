@@ -1,0 +1,6716 @@
+{
+  "APPSC Group 1": {
+    "state_or_ut": "Andhra Pradesh",
+    "category": "Group I Services",
+    "conducting_body": "Andhra Pradesh Public Service Commission",
+    "website": "https://psc.ap.gov.in"
+  },
+  "APPSC Group 2": {
+    "state_or_ut": "",
+    "category": "Group II Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Group 3": {
+    "state_or_ut": "",
+    "category": "Group III Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Group 4": {
+    "state_or_ut": "",
+    "category": "Group IV Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC AE": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC VRO": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Panchayat Secretary": {
+    "state_or_ut": "",
+    "category": "Panchayat Raj Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Divisional Accounts Officer": {
+    "state_or_ut": "",
+    "category": "Accounts Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Forest Beat Officer": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "AP Police SI": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Andhra Pradesh Police",
+    "website": "https://slprb.ap.gov.in"
+  },
+  "AP Animal Husbandry Assistant": {
+    "state_or_ut": "",
+    "category": "Animal Husbandry",
+    "conducting_body": "Animal Husbandry Dept",
+    "website": "https://psc.ap.gov.in"
+  },
+  "AP DSC School Assistant": {
+    "state_or_ut": "",
+    "category": "School Education",
+    "conducting_body": "School Education Dept.",
+    "website": "https://apdsc.apcfss.in"
+  },
+  "AP High Court Junior Assistant": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "AP High Court",
+    "website": "https://hc.ap.nic.in"
+  },
+  "AP High Court Process Server": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "AP High Court Office Subordinate": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "AP High Court Assistant Examiner": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "AP High Court Typist Copyist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "AP High Court Field Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "AP High Court Stenographer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Combined Competitive Examination (CCE)": {
+    "state_or_ut": "Arunachal Pradesh",
+    "category": "Civil Services",
+    "conducting_body": "Arunachal Pradesh Public Service Commission",
+    "website": "https://appsc.gov.in"
+  },
+  "APPSC Assistant Commissioner (via CCE)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Arunachal Pradesh Police Service": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC CDPO": {
+    "state_or_ut": "",
+    "category": "Social Welfare Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC General Duty Medical Officer": {
+    "state_or_ut": "",
+    "category": "Medical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Assistant System Manager": {
+    "state_or_ut": "",
+    "category": "IT Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Laboratory Assistant": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Drug Inspector": {
+    "state_or_ut": "",
+    "category": "Pharma Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Inspector (Legal Metrology)": {
+    "state_or_ut": "",
+    "category": "Legal Metrology",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Junior Engineer (Civil/Electrical/Mechanical)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Post Graduate Teacher (PGT)": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Trained Graduate Teacher (TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Lecturer (DIET/Polytechnic)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Combined Graduate Level (CGL)": {
+    "state_or_ut": "",
+    "category": "Group B Services",
+    "conducting_body": "Arunachal Pradesh Staff Selection Board",
+    "website": "https://apssb.nic.in"
+  },
+  "APSSB Combined Higher Secondary Level (CHSL)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Combined Secondary Level (CSLE)": {
+    "state_or_ut": "",
+    "category": "Group C Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Multi Tasking Staff (MTS)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Lower Division Clerk (LDC)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Upper Division Clerk (UDC)": {
+    "state_or_ut": "",
+    "category": "Group B Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Junior Secretariat Assistant": {
+    "state_or_ut": "",
+    "category": "Group C Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Personal Assistant / Stenographer": {
+    "state_or_ut": "",
+    "category": "Group B Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Forest Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Fireman": {
+    "state_or_ut": "",
+    "category": "Fire Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSSB Driver": {
+    "state_or_ut": "",
+    "category": "Transport Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Arunachal Pradesh Teacher Eligibility Test (APTET)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Education Dept., Arunachal",
+    "website": "https://appsc.gov.in"
+  },
+  "Arunachal Pradesh B.Ed Entrance / CET": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Arunachal Pradesh D.El.Ed Selection": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Arunachal Pradesh Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Arunachal Pradesh Police",
+    "website": "https://apssb.nic.in"
+  },
+  "Arunachal Pradesh Police Sub Inspector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Arunachal Pradesh Home Guard": {
+    "state_or_ut": "",
+    "category": "Home Guard Services",
+    "conducting_body": "Home Guards Dept.",
+    "website": ""
+  },
+  "Arunachal Pradesh Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "High Court / State PSC",
+    "website": "https://aphc.nic.in"
+  },
+  "Gauhati High Court – Arunachal Bench (Clerk/LDA/Steno)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Gauhati High Court",
+    "website": "https://ghconline.gov.in or https://aphc.nic.in"
+  },
+  "APSC Combined Competitive Examination (CCE)": {
+    "state_or_ut": "Assam",
+    "category": "State Civil Services",
+    "conducting_body": "Assam Public Service Commission",
+    "website": "https://apsc.nic.in apsc"
+  },
+  "APSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": "https://apsc.nic.in"
+  },
+  "APSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSC ACS (Mamlatdar)": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSC Block Development Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "APSC Civil Judge (Jr Division)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Assam Judicial Service",
+    "website": ""
+  },
+  "ADRE Grade III (Clerk/Steno)": {
+    "state_or_ut": "",
+    "category": "Grade III/IV Posts",
+    "conducting_body": "Assam Direct Recruitment (ADRE)",
+    "website": "https://assam.gov.in assam"
+  },
+  "ADRE Grade IV (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": "https://assam.gov.in"
+  },
+  "Assam Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "State Level Police Recruitment Board",
+    "website": "https://slprbassam.in slprbassam"
+  },
+  "Assam Police Sub-Inspector": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": "https://slprbassam.in"
+  },
+  "ABUB (Armed Branch UB)": {
+    "state_or_ut": "",
+    "category": "Armed Police",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Assam Jail Warder": {
+    "state_or_ut": "",
+    "category": "Jail Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Assam TET (Paper I & II)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "SEBA/AHSEC",
+    "website": "https://sebaonline.org"
+  },
+  "Assam LP/UP Teacher (TET+CTET)": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Directorate of Elementary Education",
+    "website": "http://slrcg3.sebaonline.org slrcg3.sebaonline"
+  },
+  "Assam Post Graduate Teacher (PGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Directorate of Secondary Education",
+    "website": "https://madhyamik.assam.gov.in"
+  },
+  "Assam Lecturer/Assistant Professor": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Directorate of Higher Education",
+    "website": "https://dhe.assam.gov.in"
+  },
+  "Agriculture Extension Assistant": {
+    "state_or_ut": "",
+    "category": "Agriculture Department",
+    "conducting_body": "Directorate of Agriculture",
+    "website": "https://diragri.assam.gov.in diragri.assam"
+  },
+  "Deputy Project Director (Agriculture)": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "",
+    "website": "https://diragri.assam.gov.in"
+  },
+  "AAU Jorhat Technical Posts": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Assam Agricultural University",
+    "website": "https://www.aau.ac.in aau"
+  },
+  "AGVB Officer Scale I/II/III": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "Assam Gramin Vikash Bank",
+    "website": "https://agvbank.in"
+  },
+  "AGVB Office Assistant (Multipurpose)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Assam Co-op Bank Clerk/Asst Manager": {
+    "state_or_ut": "",
+    "category": "Cooperative Banking",
+    "conducting_body": "Assam Cooperative Apex Bank",
+    "website": "https://apcocopbank.in"
+  },
+  "DME Grade III (Technical)": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "DME Assam",
+    "website": "https://dme.assam.gov.in jobassam+1"
+  },
+  "DME Grade III (Non-Technical)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": "https://dme.assam.gov.in"
+  },
+  "DME Technician/Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Assam Staff Nurse/MTS": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "DHS Assam/NHM",
+    "website": "https://nhm.assam.gov.in"
+  },
+  "Assam CHO (Community Health Officer)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "DHS Assam",
+    "website": ""
+  },
+  "Assam Lab Technician/Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gauhati HC Assam Judicial Service": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Gauhati High Court",
+    "website": "https://ghconline.gov.in"
+  },
+  "Gauhati HC LDA/Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gauhati HC Stenographer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Assam District Court Peon/Group D": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "District Judiciary",
+    "website": ""
+  },
+  "APSC Junior Engineer": {
+    "state_or_ut": "",
+    "category": "Other Technical Posts",
+    "conducting_body": "Assam Engineering Service",
+    "website": "https://apsc.nic.in"
+  },
+  "Assam Junior Revenue Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "Assam Revenue Department",
+    "website": ""
+  },
+  "BPSC Combined Competitive Examination (CCE)": {
+    "state_or_ut": "Bihar",
+    "category": "State Civil Services",
+    "conducting_body": "Bihar Public Service Commission",
+    "website": "https://bpsc.bihar.gov.in"
+  },
+  "BPSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BPSC Revenue Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BPSC Block Development Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BPSC Judicial Magistrate": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BSSC CGL (Inter Level)": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "Bihar Staff Selection Commission",
+    "website": "https://bssc.bihar.gov.in"
+  },
+  "BSSC Clerk/LDC": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BSSC Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BSSC Panchayat Secretary": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Bihar Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Bihar Police Sub-ordinate Services Commission",
+    "website": "https://bpssc.bihar.gov.in"
+  },
+  "Bihar Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Bihar Police Home Guard": {
+    "state_or_ut": "",
+    "category": "Armed Police",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Bihar Jail Warder": {
+    "state_or_ut": "",
+    "category": "Jail Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "BTET (Paper I & II)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Bihar School Examination Board",
+    "website": "https://secondary.biharboardonline.com"
+  },
+  "Bihar Primary Teacher (PRT)": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Bihar Education Department",
+    "website": "https://state.bihar.gov.in/education"
+  },
+  "Bihar TGT (Trained Graduate Teacher)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Bihar PGT (Post Graduate Teacher)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Agriculture Technical Service": {
+    "state_or_ut": "",
+    "category": "Agriculture Department",
+    "conducting_body": "Jharkhand Agriculture Department",
+    "website": "https://jpsc.gov.in"
+  },
+  "Agriculture Coordinator": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "Jharkhand Staff Selection Commission",
+    "website": "https://jssc.nic.in"
+  },
+  "Bihar Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "Bihar Health Department",
+    "website": "https://health.bihar.gov.in"
+  },
+  "Bihar Community Health Officer (CHO)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Bihar Pharmacist/Lab Technician": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Bihar Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Patna High Court",
+    "website": "https://patnahighcourt.gov.in"
+  },
+  "High Court Assistant/Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Kerala High Court",
+    "website": ""
+  },
+  "High Court Stenographer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "District Court Clerk/Peon": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "District Judiciary",
+    "website": "https://goadistrictcourts.com"
+  },
+  "BPSC Junior Engineer": {
+    "state_or_ut": "",
+    "category": "Other Technical Posts",
+    "conducting_body": "Bihar Engineering Service",
+    "website": "https://bpsc.bihar.gov.in"
+  },
+  "BSSC Group D (Peon/Sweeper)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Bihar Staff Selection Commission",
+    "website": "https://bssc.bihar.gov.in"
+  },
+  "CGPSC State Service Examination (SSE)": {
+    "state_or_ut": "Chhattisgarh",
+    "category": "State Civil Services",
+    "conducting_body": "Chhattisgarh PSC",
+    "website": "https://psc.cg.gov.in"
+  },
+  "CGPSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CGPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CGPSC Excise Sub Inspector": {
+    "state_or_ut": "",
+    "category": "Excise Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CGPSC Cooperative Inspector": {
+    "state_or_ut": "",
+    "category": "Cooperative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CGPSC Assistant Director": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CGPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CGPSC Civil Judge": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "CGPSC / High Court",
+    "website": ""
+  },
+  "CG SET": {
+    "state_or_ut": "",
+    "category": "Higher Education",
+    "conducting_body": "CGPSC / Higher Education",
+    "website": ""
+  },
+  "CGPSC Peon": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "CGPSC",
+    "website": ""
+  },
+  "CG Vyapam Sub Engineer (Civil/Electrical/Mechanical)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "CG Vyapam",
+    "website": "https://vyapam.cgstate.gov.in"
+  },
+  "CG Vyapam Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam ADEO": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Patwari": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Forest Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Laboratory Assistant": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Assistant Grade 3": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Hostel Superintendent": {
+    "state_or_ut": "",
+    "category": "Hostel Management",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Assistant Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Middle School Teacher": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Hostel Warden": {
+    "state_or_ut": "",
+    "category": "Hostel Management",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Lab Technician": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Pharmacist": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "CG Vyapam Group 4": {
+    "state_or_ut": "",
+    "category": "Group IV Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Chhattisgarh Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "CG Police",
+    "website": "https://cgpolice.gov.in"
+  },
+  "Chhattisgarh Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "CG Police/CGPSC",
+    "website": ""
+  },
+  "CG Home Guard": {
+    "state_or_ut": "",
+    "category": "Home Guard Services",
+    "conducting_body": "Home Guard Dept., CG",
+    "website": ""
+  },
+  "CG Excise Constable": {
+    "state_or_ut": "",
+    "category": "Excise Services",
+    "conducting_body": "CG Excise",
+    "website": "https://excise.cg.gov.in"
+  },
+  "CG TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Chhattisgarh Professional Examination Board",
+    "website": "https://cgtet.co.in"
+  },
+  "NHM Chhattisgarh CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM CG",
+    "website": "https://nhm.cghealth.nic.in"
+  },
+  "Chhattisgarh High Court Assistant": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "CG High Court",
+    "website": "https://highcourt.cg.gov.in"
+  },
+  "Chhattisgarh High Court Stenographer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "District Court CG (Clerk / Peon)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "District Judiciary",
+    "website": ""
+  },
+  "GPSC Class I & II (Combined)": {
+    "state_or_ut": "Goa",
+    "category": "State Civil Services",
+    "conducting_body": "Goa Public Service Commission",
+    "website": "https://gpsc.goa.gov.in"
+  },
+  "GPSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GPSC Mamlatdar": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GPSC Assistant Director": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GPSC Medical Officer": {
+    "state_or_ut": "",
+    "category": "Medical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GPSC Civil Judge": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GPSC Junior Scale Officer": {
+    "state_or_ut": "",
+    "category": "Junior Scale Officer",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSC Clerk/LDC": {
+    "state_or_ut": "",
+    "category": "Class III Posts",
+    "conducting_body": "Goa Staff Selection Commission",
+    "website": "https://gssc.goa.gov.in"
+  },
+  "GSSC Talati,": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSC Junior Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSC Lab Assistant": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSC Fireman": {
+    "state_or_ut": "",
+    "category": "Fire Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSC UDC/Head Clerk": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Goa Police",
+    "website": "https://citizen.goapolice.in"
+  },
+  "Goa Police Sub-Inspector": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Police Driver": {
+    "state_or_ut": "",
+    "category": "Transport Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Home Guard": {
+    "state_or_ut": "",
+    "category": "Home Guard Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Teacher Eligibility Test (GTET)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Directorate of Education",
+    "website": "https://www.goa.gov.in/department/director-of-education"
+  },
+  "Goa Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Secondary Teacher": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "Directorate of Health Services",
+    "website": "https://www.goa.gov.in/department/director-health-services"
+  },
+  "Goa ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Goa Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Bombay High Court (Goa Bench)",
+    "website": "https://bombayhighcourt.nic.in"
+  },
+  "High Court Clerk/LDA": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Bombay High Court Goa Bench",
+    "website": ""
+  },
+  "Goa MTS/Group D": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Goa Public Service Commission",
+    "website": "https://gpsc.goa.gov.in"
+  },
+  "GPSC Class 1 & 2 (State Service Exam)": {
+    "state_or_ut": "Gujarat",
+    "category": "State Civil Services",
+    "conducting_body": "Gujarat Public Service Commission",
+    "website": "https://gpsc.gujarat.gov.in"
+  },
+  "GSSSB Clerk": {
+    "state_or_ut": "",
+    "category": "Class III Posts",
+    "conducting_body": "Gujarat Subordinate Service Selection Board",
+    "website": "https://gsssb.gujarat.gov.in"
+  },
+  "GSSSB Revenue Talati": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSSB Additional Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSSB Municipal Engineer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSSB Fireman": {
+    "state_or_ut": "",
+    "category": "Fire Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "GSSSB Head Clerk": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gujarat Police Constable (LRB)": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Gujarat Police (LRB)",
+    "website": "https://ojas.gujarat.gov.in"
+  },
+  "Gujarat Police ASI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "Gujarat Police",
+    "website": ""
+  },
+  "Gujarat Police PSI": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gujarat Police Jail Sepoy": {
+    "state_or_ut": "",
+    "category": "Jail Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gujarat TET (TAT/TET)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Gujarat Education Department",
+    "website": "https://www.gujarat-education.gov.in"
+  },
+  "Gujarat Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "",
+    "website": "https://ojas.gujarat.gov.in"
+  },
+  "Gujarat Secondary Teacher": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gujarat Vidya Sahayak": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Agriculture Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "UK Agriculture Department",
+    "website": "https://psc.uk.gov.in"
+  },
+  "Agriculture Assistant": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "Maharashtra State Exam Authority",
+    "website": ""
+  },
+  "Gujarat Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Gujarat Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Gujarat Gramin Bank Clerk (Office Assistant)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Gujarat CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Gujarat",
+    "website": "https://nhm.gujarat.gov.in"
+  },
+  "Gujarat Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Gujarat Health Department",
+    "website": ""
+  },
+  "Gujarat ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gujarat Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gujarat Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Gujarat High Court",
+    "website": "https://gujarathighcourt.nic.in"
+  },
+  "Gujarat High Court Assistant / Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "District Court Gujarat (Clerk / Peon)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Gujarat Group D / Peon": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Gujarat Subordinate Service Selection Board",
+    "website": "https://gsssb.gujarat.gov.in"
+  },
+  "Haryana Civil Services (HCS)": {
+    "state_or_ut": "Haryana",
+    "category": "State Civil Services",
+    "conducting_body": "Haryana Public Service Commission",
+    "website": "https://hpsc.gov.in"
+  },
+  "HPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSC Deputy Superintendent of Police (DSP)": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSC Civil Judge": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Haryana CET Group C": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "Haryana Staff Selection Commission",
+    "website": "https://hssc.gov.in"
+  },
+  "Haryana CET Group D": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HSSC Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HSSC Gram Sachiv": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HSSC Patwari": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HSSC TGT": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HSSC PGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HSSC JBT Teacher": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Haryana Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Haryana Police",
+    "website": "https://haryanapolice.gov.in"
+  },
+  "Haryana Police Sub Inspector": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Haryana Police Commando": {
+    "state_or_ut": "",
+    "category": "Armed Police",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Board of School Educ8ation, Haryana",
+    "website": "https://bseh.org.in"
+  },
+  "Haryana Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Haryana Education Department",
+    "website": "https://hssc.gov.in"
+  },
+  "Haryana Secondary Teacher": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Agriculture Development Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Department",
+    "conducting_body": "Mizoram PSC/Agriculture Dept",
+    "website": "https://mpsc.mizoram.gov.in"
+  },
+  "Agriculture Supervisor": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "WB Agriculture Marketing Board",
+    "website": "https://wbagrimarketingboard.gov.in"
+  },
+  "Haryana Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Haryana Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Haryana Gramin Bank Clerk (Office Assistant)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Haryana CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Haryana",
+    "website": "https://nrhmharyana.gov.in"
+  },
+  "Haryana Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Haryana Health Department",
+    "website": ""
+  },
+  "Haryana ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Punjab & Haryana High Court Clerk / Steno": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Punjab & Haryana High Court",
+    "website": "https://highcourtchd.gov.in"
+  },
+  "District Court Haryana (Clerk / Peon)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Haryana Group D / Peon": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Haryana Staff Selection Commission",
+    "website": "https://hssc.gov.in"
+  },
+  "HP Administrative Services (HAS)": {
+    "state_or_ut": "Himachal Pradesh",
+    "category": "State Civil Services",
+    "conducting_body": "Himachal Pradesh Public Service Commission",
+    "website": "https://hppsc.hp.gov.in"
+  },
+  "HPPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPPSC Civil Judge": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPPSC Assistant Director": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPPSC Deputy Superintendent of Police (DSP)": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSSSB Clerk": {
+    "state_or_ut": "",
+    "category": "Class III Posts",
+    "conducting_body": "Himachal Pradesh Staff Selection Commission",
+    "website": "https://hpsssb.hp.gov.in"
+  },
+  "HPSSSB JBT Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSSSB TGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSSSB PGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSSSB Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSSSB Lab Assistant": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSSSB Conductor": {
+    "state_or_ut": "",
+    "category": "Transport Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HPSSSB ALM": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Himachal Pradesh Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Himachal Pradesh Police",
+    "website": "https://hppolice.gov.in"
+  },
+  "Himachal Pradesh Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HP Police Jail Warder": {
+    "state_or_ut": "",
+    "category": "Jail Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HP TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Himachal Pradesh Board of School Education",
+    "website": "https://hpbose.org"
+  },
+  "HP Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Himachal Pradesh Education Department",
+    "website": "https://hpsssb.hp.gov.in"
+  },
+  "HP Secondary Teacher": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Agriculture Supervisor/Extension Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "Himachal Pradesh Staff Selection Commission",
+    "website": "https://hpsssb.hp.gov.in"
+  },
+  "Himachal Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Himachal Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Himachal Gramin Bank Clerk (Office Assistant)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Himachal Pradesh CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Himachal Pradesh",
+    "website": "https://nrhm.hp.gov.in"
+  },
+  "HP Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Himachal Pradesh Health Department",
+    "website": ""
+  },
+  "HP ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Himachal Pradesh High Court Clerk / Steno": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Himachal Pradesh High Court",
+    "website": "https://hphighcourt.nic.in"
+  },
+  "District Court HP (Clerk / Peon)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "HP Group D / Peon": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Himachal Pradesh Staff Selection Commission",
+    "website": "https://hpsssb.hp.gov.in"
+  },
+  "Jharkhand Civil Services (JPSC CSE)": {
+    "state_or_ut": "Jharkhand",
+    "category": "State Civil Services",
+    "conducting_body": "Jharkhand Public Service Commission",
+    "website": "https://jpsc.gov.in"
+  },
+  "JPSC Deputy Superintendent of Police (DSP)": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JPSC Assistant Commissioner": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JPSC Assistant Director": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JPSC Civil Judge": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC CGL": {
+    "state_or_ut": "",
+    "category": "Group B/C Posts",
+    "conducting_body": "Jharkhand Staff Selection Commission",
+    "website": "https://jssc.nic.in"
+  },
+  "JSSC Inter Level": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC Matric Level": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC Graduate Level": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC Lab Assistant": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC Excise Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC Assistant Jailor": {
+    "state_or_ut": "",
+    "category": "Jail Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Jharkhand Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Jharkhand Police",
+    "website": "https://jhapolice.gov.in"
+  },
+  "Jharkhand Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Jharkhand Police Home Guard": {
+    "state_or_ut": "",
+    "category": "Home Guard Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Jharkhand Staff Selection Commission",
+    "website": "https://jssc.nic.in"
+  },
+  "JSSC Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "",
+    "website": "https://jssc.nic.in"
+  },
+  "JSSC Trained Graduate Teacher (TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "JSSC PGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Jharkhand Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Jharkhand Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Jharkhand Gramin Bank Clerk (Office Assistant)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Jharkhand CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Jharkhand",
+    "website": "https://health.jharkhand.gov.in"
+  },
+  "Jharkhand Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Jharkhand Health Department",
+    "website": ""
+  },
+  "Jharkhand ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Jharkhand High Court Assistant / Clerk": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Jharkhand High Court",
+    "website": "https://jharkhandhighcourt.nic.in"
+  },
+  "Jharkhand High Court Stenographer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "District Court Jharkhand (Clerk / Peon)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Jharkhand Group D / Peon": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Jharkhand Staff Selection Commission",
+    "website": "https://jssc.nic.in"
+  },
+  "KPSC KAS (Group A & B)": {
+    "state_or_ut": "Karnataka",
+    "category": "State Civil Services",
+    "conducting_body": "Karnataka Public Service Commission",
+    "website": "https://kpsc.kar.nic.in"
+  },
+  "KPSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC Tahsildar": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC Assistant Commissioner": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC Assistant Engineer (AE)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "FDA/SDA (First/Second Division Assistant)": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "Karnataka State Government",
+    "website": ""
+  },
+  "KPSC Group C Clerk": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Karnataka Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Karnataka State Police",
+    "website": "https://ksp-recruitment.in"
+  },
+  "Karnataka Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KFD Forest Guard/Range Officer": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "Karnataka Forest Department",
+    "website": "https://aranya.karnataka.gov.in"
+  },
+  "Karnataka TET (KTET)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Karnataka School Education",
+    "website": "https://schooleducation.kar.nic.in"
+  },
+  "Karnataka Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Karnataka Education Department",
+    "website": ""
+  },
+  "Karnataka TGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Karnataka PGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Karnataka Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Karnataka Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Karnataka Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Karnataka CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Karnataka",
+    "website": "https://nhm.karnataka.gov.in"
+  },
+  "Karnataka Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Karnataka Health Department",
+    "website": ""
+  },
+  "Karnataka ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Karnataka Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PDO (Panchayat Development Officer)": {
+    "state_or_ut": "",
+    "category": "Panchayat/Rural Development",
+    "conducting_body": "RDPR Department",
+    "website": "https://rdpr.karnataka.gov.in"
+  },
+  "Gram Panchayat Secretary": {
+    "state_or_ut": "",
+    "category": "Rural Development",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Karnataka Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "High Court of Karnataka",
+    "website": "https://karnatakajudiciary.kar.nic.in"
+  },
+  "Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "TPSC/TSSSC",
+    "website": "https://tpsc.tripura.gov.in"
+  },
+  "Kerala Administrative Service (KAS)": {
+    "state_or_ut": "Kerala",
+    "category": "State Civil Services",
+    "conducting_body": "Kerala Public Service Commission",
+    "website": "https://www.keralapsc.gov.in"
+  },
+  "KPSC Deputy Superintendent of Police": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC Block Development Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "LDC (Lower Division Clerk)": {
+    "state_or_ut": "",
+    "category": "Group B/C Posts",
+    "conducting_body": "Kerala PSC",
+    "website": ""
+  },
+  "UDC (Upper Division Clerk)": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Kerala Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Kerala Police",
+    "website": "https://keralapolice.gov.in"
+  },
+  "Kerala Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "KTET (Kerala Teacher Eligibility Test)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Kerala Pareeksha Bhavan",
+    "website": "https://ktet.kerala.gov.in"
+  },
+  "Kerala Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Kerala Education Department",
+    "website": "https://www.keralapsc.gov.in"
+  },
+  "Kerala HSST (Higher Secondary School Teacher)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Agricultural Assistant": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Kerala Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Kerala Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Kerala Gramin Bank Clerk (Office Assistant)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "Kerala Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "Kerala Health Services",
+    "website": "https://www.keralapsc.gov.in"
+  },
+  "Kerala CHO (Community Health Officer)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Kerala Health Department",
+    "website": ""
+  },
+  "Kerala Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Panchayat Secretary": {
+    "state_or_ut": "",
+    "category": "Panchayat Services",
+    "conducting_body": "Kerala Panchayat Raj",
+    "website": ""
+  },
+  "Kerala Judicial Service (Munsiff)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Kerala Judicial Service",
+    "website": "https://hckerala.gov.in"
+  },
+  "Last Grade Servants (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Kerala PSC",
+    "website": "https://www.keralapsc.gov.in"
+  },
+  "MPPSC State Service Exam (SSE)": {
+    "state_or_ut": "Madhya Pradesh",
+    "category": "State Civil Services",
+    "conducting_body": "Madhya Pradesh Public Service Commission",
+    "website": "https://mppsc.mp.gov.in"
+  },
+  "MPPSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPPSC Commercial Tax Inspector": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPPSC Block Development Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Vyapam Group 2 (Sub Engineer)": {
+    "state_or_ut": "",
+    "category": "Group Posts",
+    "conducting_body": "MPESB (MP Vyapam)",
+    "website": "https://esb.mp.gov.in"
+  },
+  "MP Vyapam Patwari": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Vyapam Forest Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Vyapam ANM/Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Vyapam Clerk/Assistant Grade III": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Vyapam Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "MP Police",
+    "website": ""
+  },
+  "MP Police Head Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Police SI": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPTET Varg 1 (PGT)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "MP Board of Secondary Education",
+    "website": ""
+  },
+  "MPTET Varg 2 (TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPTET Varg 3 (PRT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Agriculture Technical Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "UPSSSC",
+    "website": "https://upsssc.gov.in"
+  },
+  "Madhya Pradesh Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (MP Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Madhya Pradesh Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM MP CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Madhya Pradesh",
+    "website": "https://nhmmp.gov.in"
+  },
+  "MP Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "MP Health Department",
+    "website": "https://esb.mp.gov.in"
+  },
+  "MP Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "MP High Court",
+    "website": "https://mphc.gov.in"
+  },
+  "High Court Assistant Grade II": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "High Court Stenographer Grade II": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MP Vyapam Group 5 (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "MPESB (MP Vyapam)",
+    "website": "https://esb.mp.gov.in"
+  },
+  "MPSC State Services Exam (Rajyaseva)": {
+    "state_or_ut": "Maharashtra",
+    "category": "State Civil Services",
+    "conducting_body": "Maharashtra Public Service Commission",
+    "website": "https://mpsc.gov.in"
+  },
+  "MPSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Deputy Superintendent of Police (DSP)": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Assistant Sales Tax Officer (TAS)": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Block Development Officer (BDO)": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Assistant Professor (Group B)": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Assistant Engineer (Civil/Mechanical)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Subordinate Services (Group B)": {
+    "state_or_ut": "",
+    "category": "Group Posts",
+    "conducting_body": "MPSC",
+    "website": ""
+  },
+  "Maharashtra Talathi": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "Maharashtra Revenue Department",
+    "website": "https://mahabhumi.gov.in"
+  },
+  "Maharashtra Forest Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "Maharashtra Forest Department",
+    "website": "https://mahaforest.gov.in"
+  },
+  "Maharashtra ANM/Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "Maharashtra Nursing Council",
+    "website": "https://www.maharashtranursingcouncil.org"
+  },
+  "MPSC Clerk/Typist": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "Maharashtra Subordinate Services",
+    "website": "https://mpsc.gov.in"
+  },
+  "MPSC Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "Mizoram Public Service Commission",
+    "website": ""
+  },
+  "Maharashtra Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Maharashtra Police",
+    "website": "https://www.mahapolice.gov.in"
+  },
+  "Maharashtra Police Head Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Maharashtra Police Sub-Inspector (SI)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MAHA TET Paper 1 (PRT)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Maharashtra State Council of Examination",
+    "website": "https://mahacet.org"
+  },
+  "MAHA TET Paper 2 (TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MAHA TET for PGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Agriculture Officer (AO)": {
+    "state_or_ut": "",
+    "category": "Agriculture Department",
+    "conducting_body": "Maharashtra PSC/Agriculture Dept",
+    "website": "https://mpsc.gov.in"
+  },
+  "Maharashtra Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Maharashtra Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Maharashtra Gramin Bank Clerk (Office Assistant)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Maharashtra CHO (Community Health Officer)": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "National Health Mission Maharashtra",
+    "website": "https://www.nhm.maharashtra.gov.in"
+  },
+  "Maharashtra Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Maharashtra Health Dept/ESB",
+    "website": "https://med-edu.in"
+  },
+  "Maharashtra Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Maharashtra Health Dept",
+    "website": ""
+  },
+  "Maharashtra Judicial Service (Civil Judge Junior Division)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Bombay High Court",
+    "website": "https://bombayhighcourt.nic.in"
+  },
+  "Bombay High Court Assistant (English/Shorthand)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Bombay High Court Stenographer Grade II": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Maharashtra Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Maharashtra State Exam Authority",
+    "website": "https://mpsc.gov.in"
+  },
+  "MPSC Civil Services Combined Competitive Exam (MCSCCE)": {
+    "state_or_ut": "Manipur",
+    "category": "State Civil Services",
+    "conducting_body": "Manipur Public Service Commission",
+    "website": "https://mpscmanipur.gov.in"
+  },
+  "MPSC Revenue Officer/Inspector": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Lecturer/Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Subordinate Services (Group B/C)": {
+    "state_or_ut": "",
+    "category": "Group Posts",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Manipur Revenue Inspector (RI)/Patwari": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "Manipur Revenue Department",
+    "website": ""
+  },
+  "Manipur Forest Ranger/Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "Manipur Forest Department",
+    "website": "https://forest.manipurforest.gov.in"
+  },
+  "Manipur ANM/Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "Manipur Health Department",
+    "website": "https://manipurhealthdirectorate.mn.gov.in"
+  },
+  "MSSC Clerk/Assistant Grade III": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "Meghalaya Staff Selection",
+    "website": "https://megrecruitment.nic.in"
+  },
+  "MPSC Stenographer Grade I/II": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "Meghalaya Public Service Commission",
+    "website": "https://mpsc.meghalaya.gov.in"
+  },
+  "Manipur Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Manipur Police",
+    "website": "https://manipurpolice.gov.in"
+  },
+  "Manipur Police Head Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Manipur Police Sub-Inspector (SI)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Manipur TET Varg 1 (PGT)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Manipur Board of Secondary Education",
+    "website": "http://manipureducation.gov.in"
+  },
+  "Manipur TET Varg 2 (TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Manipur TET Varg 3 (PRT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Manipur Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Manipur Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Manipur Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Manipur CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Manipur",
+    "website": "https://manipurhealthdirectorate.mn.gov.in/"
+  },
+  "Manipur Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Manipur Health Department",
+    "website": ""
+  },
+  "Manipur Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Manipur Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Manipur High Court",
+    "website": "https://hcmimphal.nic.in"
+  },
+  "MSSC Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Manipur Staff Selection Commission",
+    "website": "https://manipurssc.mn.gov.in"
+  },
+  "MPSC Combined Competitive Exam (CCE)": {
+    "state_or_ut": "Meghalaya",
+    "category": "State Civil Services",
+    "conducting_body": "Meghalaya Public Service Commission",
+    "website": "https://mpsc.meghalaya.gov.in"
+  },
+  "Meghalaya Revenue Inspector (RI)": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "Meghalaya Revenue Department",
+    "website": ""
+  },
+  "Meghalaya Forest Ranger/Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "Meghalaya Forest Department",
+    "website": "https://megforest.gov.in"
+  },
+  "Meghalaya ANM/Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "Meghalaya Health Department",
+    "website": "https://meghealth.gov.in"
+  },
+  "Meghalaya Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Meghalaya Police",
+    "website": "https://megpolice.gov.in"
+  },
+  "Meghalaya Police Head Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Meghalaya Police Sub-Inspector (SI)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Meghalaya TET Varg 1 (PGT)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Meghalaya Board of School Education",
+    "website": "https://megeducation.gov.in"
+  },
+  "Meghalaya TET Varg 2 (TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Meghalaya TET Varg 3 (PRT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Meghalaya Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Meghalaya Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Meghalaya Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Meghalaya CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Meghalaya",
+    "website": "https://nhmmeghalaya.nic.in"
+  },
+  "Meghalaya Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Meghalaya Health Department",
+    "website": "https://meghealth.gov.in"
+  },
+  "Meghalaya Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Meghalaya Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Meghalaya High Court",
+    "website": "https://meghalayahighcourt.nic.in"
+  },
+  "MERB Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Meghalaya Recruitment Board",
+    "website": "https://megrecruitment.nic.in"
+  },
+  "MPSC State Services Exam (SSE)": {
+    "state_or_ut": "Mizoram",
+    "category": "State Civil Services",
+    "conducting_body": "Mizoram Public Service Commission",
+    "website": "https://mpsc.mizoram.gov.in"
+  },
+  "MPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Commercial Tax Inspector": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Block Development Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "MPSC Group 2 (Sub Engineer)": {
+    "state_or_ut": "",
+    "category": "Group Posts",
+    "conducting_body": "Mizoram PSC",
+    "website": ""
+  },
+  "Mizoram Patwari/Revenue Inspector": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "Mizoram Revenue Department",
+    "website": ""
+  },
+  "Mizoram Forest Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "Mizoram Forest Department",
+    "website": "https://forest.mizoram.gov.in"
+  },
+  "Mizoram ANM/Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "Mizoram Health Department",
+    "website": "https://health.mizoram.gov.in"
+  },
+  "Mizoram Clerk/Assistant Grade III": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "Mizoram Staff Selection",
+    "website": "https://mpsc.mizoram.gov.in"
+  },
+  "Mizoram Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Mizoram Police",
+    "website": "https://police.mizoram.gov.in"
+  },
+  "Mizoram Police Head Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Mizoram Police SI": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Mizoram TET Varg 1 (PGT)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Mizoram Board of School Education",
+    "website": "https://mbse.edu.in"
+  },
+  "Mizoram TET Varg 2 (TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Mizoram TET Varg 3 (PRT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Mizoram Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Mizoram Gramin Banks)",
+    "website": "www.ibps.in"
+  },
+  "Mizoram Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Mizoram CHO": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Mizoram",
+    "website": "https://health.mizoram.gov.in"
+  },
+  "Mizoram Staff Nurse": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Mizoram Health Department",
+    "website": ""
+  },
+  "Mizoram Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Mizoram Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Gauhati High Court (Mizoram Bench)",
+    "website": "https://ghcazlbench.nic.in"
+  },
+  "MPSC Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Mizoram PSC",
+    "website": "https://mpsc.mizoram.gov.in"
+  },
+  "NPSC Civil Services Exam (NCS/NPS CSE)": {
+    "state_or_ut": "Nagaland",
+    "category": "State Civil Services",
+    "conducting_body": "Nagaland Public Service Commission",
+    "website": "https://npsc.nagaland.gov.in"
+  },
+  "NPSC Extra Assistant Commissioner": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "NPSC Deputy Superintendent of Police": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "NPSC Commercial Tax Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "NPSC Block Development Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "NPSC Assistant Research Officer/Lecturer": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "NPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "NPSC Allied Services (Group B)": {
+    "state_or_ut": "",
+    "category": "Group Posts",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Nagaland Village Council Election Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "Nagaland Village Council Election Dept",
+    "website": ""
+  },
+  "Nagaland Forest Guard/Ranger": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "Nagaland Forest Department",
+    "website": "https://forest.nagaland.gov.in"
+  },
+  "Nagaland Staff Nurse/ANM": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "Nagaland Health & Family Welfare",
+    "website": "https://nssb.nagaland.gov.in"
+  },
+  "NPSC Secretariat Assistant": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "Nagaland Information Commission",
+    "website": "https://npsc.nagaland.gov.in"
+  },
+  "NPSC Stenographer Grade C/B": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "Nagaland Public Service Commission",
+    "website": ""
+  },
+  "Nagaland Police Constable (AB/JGR)": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Nagaland Police",
+    "website": "https://nagalandpolicerecruitment.in"
+  },
+  "Nagaland Police Head Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Nagaland Police Sub-Inspector": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Nagaland TET (Graduate Trained Teacher)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Nagaland Board of School Education",
+    "website": "https://nbsenl.edu.in"
+  },
+  "Nagaland TET (Post Graduate Teacher)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Nagaland Graduate Teacher Recruitment": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Directorate of School Education",
+    "website": "https://education.nagaland.gov.in"
+  },
+  "Agriculture Field Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Department",
+    "conducting_body": "Nagaland PSC/Agriculture Dept",
+    "website": "https://agriculture.nagaland.gov.in"
+  },
+  "Nagaland Rural Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB (Nagaland Rural Bank)",
+    "website": "www.ibps.in"
+  },
+  "Nagaland Rural Bank Office Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "NHM Nagaland CHO (Community Health)": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "NHM Nagaland",
+    "website": "https://www.nhmnagaland.in"
+  },
+  "Nagaland Staff Nurse Recruitment": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Nagaland Health Department",
+    "website": ""
+  },
+  "Nagaland Pharmacist Grade III/IV": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Nagaland Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Gauhati High Court Kohima Bench",
+    "website": "https://ghconline.gov.in"
+  },
+  "High Court LDA/Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Nagaland Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Nagaland PSC/NSSB",
+    "website": "https://npsc.nagaland.gov.in"
+  },
+  "Labour Inspector": {
+    "state_or_ut": "",
+    "category": "Labour Services",
+    "conducting_body": "Nagaland Labour Department",
+    "website": "https://labour.nagaland.gov.in"
+  },
+  "Inspector of Cooperative Societies": {
+    "state_or_ut": "",
+    "category": "Cooperative Services",
+    "conducting_body": "Nagaland Registrar Cooperative",
+    "website": "https://npsc.nagaland.gov.in"
+  },
+  "Odisha Civil Services (OCS/OCS Allied)": {
+    "state_or_ut": "Odisha",
+    "category": "State Civil Services",
+    "conducting_body": "OPSC",
+    "website": "opsc.gov.in"
+  },
+  "OPSC DSP/OPS": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OPSC Odisha Finance Service": {
+    "state_or_ut": "",
+    "category": "Finance Service",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OPSC Assistant Executive Engineer (AEE)": {
+    "state_or_ut": "",
+    "category": "Engineering",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OPSC Medical Officer": {
+    "state_or_ut": "",
+    "category": "Medical Officer",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OPSC Assistant Law Officer": {
+    "state_or_ut": "",
+    "category": "Law Service",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OSSC CGLRE (Combined Graduate Level)": {
+    "state_or_ut": "",
+    "category": "Group B/C",
+    "conducting_body": "OSSC",
+    "website": "ossc.gov.in"
+  },
+  "OSSC Revenue Inspector/ARSI/AMIN": {
+    "state_or_ut": "",
+    "category": "Revenue Land",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OSSC Junior Engineer (JE Civil/Mech/Elect)": {
+    "state_or_ut": "",
+    "category": "Engineering",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OSSC Enforcement Inspector/SI": {
+    "state_or_ut": "",
+    "category": "Enforcement",
+    "conducting_body": "",
+    "website": ""
+  },
+  "OSSSC CHSL (Clerk/Stenographer/Data Entry)": {
+    "state_or_ut": "",
+    "category": "Group C",
+    "conducting_body": "OSSSC",
+    "website": "osssc.gov.in"
+  },
+  "Odisha Police Constable (Sepoy)": {
+    "state_or_ut": "",
+    "category": "Police Constable",
+    "conducting_body": "Odisha Police",
+    "website": "https://police.odisha.gov.in"
+  },
+  "Odisha Police SI": {
+    "state_or_ut": "",
+    "category": "Police SI",
+    "conducting_body": "Odisha Police/State Selection Board",
+    "website": ""
+  },
+  "Odisha ABHAD Constable": {
+    "state_or_ut": "",
+    "category": "ABHAD Constable",
+    "conducting_body": "SSB Odisha",
+    "website": "ssbodisha.ac.in"
+  },
+  "OTET Paper 1 (Level 1 - PRT)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "BSE Odisha",
+    "website": "bseodisha.ac.in"
+  },
+  "OTET Paper 2 (Level 2 - TGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Odisha Forest Guard/Forester": {
+    "state_or_ut": "",
+    "category": "Forest Service",
+    "conducting_body": "OSSSC",
+    "website": "ossc.gov.in"
+  },
+  "OSSSC Staff Nurse/Nursing Officer": {
+    "state_or_ut": "",
+    "category": "Health Nursing",
+    "conducting_body": "",
+    "website": "health.odisha.gov.in"
+  },
+  "OSSSC Pharmacist Allopathy/Ayurveda": {
+    "state_or_ut": "",
+    "category": "Health Pharma",
+    "conducting_body": "",
+    "website": ""
+  },
+  "NHM Odisha CHO (Community Health Officer)": {
+    "state_or_ut": "",
+    "category": "Health CHO",
+    "conducting_body": "NHM Odisha",
+    "website": "nhmodisha.gov.in"
+  },
+  "OSSSC Panchayat Executive Officer (PEO)": {
+    "state_or_ut": "",
+    "category": "Panchayat",
+    "conducting_body": "OSSSC",
+    "website": "osssc.gov.in"
+  },
+  "Odisha Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Service",
+    "conducting_body": "Odisha High Court",
+    "website": "orissahighcourt.nic.in"
+  },
+  "Odisha High Court Junior Clerk": {
+    "state_or_ut": "",
+    "category": "High Court Clerk",
+    "conducting_body": "",
+    "website": ""
+  },
+  "High Court Junior Assistant": {
+    "state_or_ut": "",
+    "category": "High Court Jr Asst",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Odisha Agriculture Services (ASO/AO)": {
+    "state_or_ut": "",
+    "category": "Agriculture",
+    "conducting_body": "OPSC",
+    "website": "opsc.gov.in"
+  },
+  "Soil Conservation Extension Worker": {
+    "state_or_ut": "",
+    "category": "Soil Conservation",
+    "conducting_body": "OSSSC",
+    "website": "ossc.gov.in"
+  },
+  "Fisheries Technical Assistant": {
+    "state_or_ut": "",
+    "category": "Fisheries",
+    "conducting_body": "OSSC",
+    "website": ""
+  },
+  "Odisha Gramin Bank Officer Scale I/II/Clerk": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB",
+    "website": "ibps.in"
+  },
+  "Excise Constable": {
+    "state_or_ut": "",
+    "category": "Excise",
+    "conducting_body": "OPRB",
+    "website": "osssc.gov.in"
+  },
+  "OSSSC Group D (Sweeper/Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D",
+    "conducting_body": "OSSSC",
+    "website": ""
+  },
+  "Odisha GDS (Gramin Dak Sevak)": {
+    "state_or_ut": "",
+    "category": "Postal GDS",
+    "conducting_body": "Odisha Postal Circle",
+    "website": "indiapost.gov.in"
+  },
+  "PPSC PCS (Civil Services - Tehsildar/BDPO)": {
+    "state_or_ut": "Punjab",
+    "category": "State Civil Services",
+    "conducting_body": "Punjab Public Service Commission",
+    "website": "ppsc.gov.in"
+  },
+  "PPSC DSP (Deputy Superintendent Police)": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "PPSC",
+    "website": ""
+  },
+  "PPSC Assistant Engineer (AE PWD/Irrigation)": {
+    "state_or_ut": "",
+    "category": "Engineering",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PPSC Agriculture Development Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PPSC Drug Inspector": {
+    "state_or_ut": "",
+    "category": "Drug Control",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PPSC School Lecturer": {
+    "state_or_ut": "",
+    "category": "Lecturer",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PSSSB Clerk (LDC/UDC)": {
+    "state_or_ut": "",
+    "category": "Group B/C Clerk",
+    "conducting_body": "Punjab Subordinate Services",
+    "website": "sssb.punjab.gov.in"
+  },
+  "PSSSB Patwari/Canal Patwari": {
+    "state_or_ut": "",
+    "category": "Revenue",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PSSSB Excise Inspector": {
+    "state_or_ut": "",
+    "category": "Excise",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PSSSB Storekeeper": {
+    "state_or_ut": "",
+    "category": "Storekeeper",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PSSSB Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Punjab Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Constable",
+    "conducting_body": "Punjab Police",
+    "website": "punjabpolice.gov.in"
+  },
+  "Punjab Police Sub-Inspector": {
+    "state_or_ut": "",
+    "category": "Police SI",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Punjab Police Intelligence Cadre SI": {
+    "state_or_ut": "",
+    "category": "Intelligence SI",
+    "conducting_body": "",
+    "website": ""
+  },
+  "PSTET Paper 1 (PRT/JBT)": {
+    "state_or_ut": "",
+    "category": "TET Primary",
+    "conducting_body": "PSEB",
+    "website": "pseb.ac.in"
+  },
+  "PSTET Paper 2 (TGT)": {
+    "state_or_ut": "",
+    "category": "TET Upper Primary",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Punjab Master Cadre Teacher": {
+    "state_or_ut": "",
+    "category": "Master Cadre",
+    "conducting_body": "Education Dept",
+    "website": "https://educationrecruitmentboard.com"
+  },
+  "PSSSB Junior Engineer (Civil/Mech)": {
+    "state_or_ut": "",
+    "category": "JE Engineering",
+    "conducting_body": "Punjab SSSB",
+    "website": "sssb.punjab.gov.in"
+  },
+  "Punjab Forest Guard": {
+    "state_or_ut": "",
+    "category": "Forest Guard",
+    "conducting_body": "Punjab Forest & Wildlife",
+    "website": "ppsc.gov.in"
+  },
+  "Punjab Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Nursing",
+    "conducting_body": "BFUHS/NHSRNC",
+    "website": "bfuhs.ac.in"
+  },
+  "Punjab Multipurpose Health Worker": {
+    "state_or_ut": "",
+    "category": "MPW",
+    "conducting_body": "Health Dept",
+    "website": "health.punjab.gov.in"
+  },
+  "Punjab Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Service",
+    "conducting_body": "Punjab & Haryana HC",
+    "website": "highcourtchd.gov.in"
+  },
+  "High Court Clerk": {
+    "state_or_ut": "",
+    "category": "High Court Clerk",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Punjab Agriculture Supervisor": {
+    "state_or_ut": "",
+    "category": "Agriculture Supervisor",
+    "conducting_body": "Agriculture Dept",
+    "website": "agri.punjab.gov.in"
+  },
+  "Punjab Gramin Bank Officer/Clerk": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB",
+    "website": "ibps.in"
+  },
+  "Punjab Panchayat Secretary": {
+    "state_or_ut": "",
+    "category": "Panchayat",
+    "conducting_body": "Rural Development",
+    "website": "sssb.punjab.gov.in"
+  },
+  "Punjab Veterinary Inspector": {
+    "state_or_ut": "",
+    "category": "Veterinary",
+    "conducting_body": "Animal Husbandry",
+    "website": "https://sssb.punjab.gov.in"
+  },
+  "Punjab Horticulture Development Officer": {
+    "state_or_ut": "",
+    "category": "Horticulture",
+    "conducting_body": "Horticulture Dept",
+    "website": "https://ppsc.gov.in"
+  },
+  "NHM Punjab CHO": {
+    "state_or_ut": "",
+    "category": "NHM Health",
+    "conducting_body": "NHM Punjab",
+    "website": "nhmpunjab.in"
+  },
+  "Punjab Gramin Dak Sevak": {
+    "state_or_ut": "",
+    "category": "Postal GDS",
+    "conducting_body": "India Post",
+    "website": "indiapost.gov.in"
+  },
+  "RPSC RAS": {
+    "state_or_ut": "Rajasthan",
+    "category": "State Civil Services",
+    "conducting_body": "RPSC",
+    "website": "https://rpsc.rajasthan.gov.in"
+  },
+  "RPSC AEN": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC APO": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC 1st Grade": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC 2nd Grade": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Senior Teacher Grade II": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC School Lecturer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Librarian": {
+    "state_or_ut": "",
+    "category": "Library Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC AAE": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Veterinary Officer": {
+    "state_or_ut": "",
+    "category": "Veterinary Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Revenue Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Executive Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan SET": {
+    "state_or_ut": "",
+    "category": "Higher Education",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Food Safety Officer": {
+    "state_or_ut": "",
+    "category": "Food Safety",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Agriculture Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RPSC Programmer": {
+    "state_or_ut": "",
+    "category": "IT Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan CET Graduates": {
+    "state_or_ut": "",
+    "category": "Group C/D Posts",
+    "conducting_body": "RSMSSB",
+    "website": "https://rsmssb.rajasthan.gov.in"
+  },
+  "Rajasthan CET Senior Secondary": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Patwari": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB LDC": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB JE": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Lab Assistant": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Informatics Assistant": {
+    "state_or_ut": "",
+    "category": "IT Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Forest Guard": {
+    "state_or_ut": "",
+    "category": "Forest Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Agriculture Supervisor": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Junior Accountant": {
+    "state_or_ut": "",
+    "category": "Accounts Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Junior Assistant": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Personal Assistant": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Hostel Superintendent": {
+    "state_or_ut": "",
+    "category": "Hostel Management",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB TRA": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Sanganak": {
+    "state_or_ut": "",
+    "category": "IT Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Mahila Supervisor": {
+    "state_or_ut": "",
+    "category": "Social Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Fireman": {
+    "state_or_ut": "",
+    "category": "Emergency Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Driver": {
+    "state_or_ut": "",
+    "category": "Transport Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "RSMSSB Grade 4": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Gram Vikas Adhikari": {
+    "state_or_ut": "",
+    "category": "Panchayat Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan 3rd Grade Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Rajasthan Education",
+    "website": "https://rajeduboard.rajasthan.gov.in"
+  },
+  "Rajasthan Computer Teacher": {
+    "state_or_ut": "",
+    "category": "IT Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Marudhara Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB",
+    "website": "www.ibps.in"
+  },
+  "Rajasthan Marudhara Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Rajasthan Police",
+    "website": "https://police.rajasthan.gov.in"
+  },
+  "Rajasthan Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Jail Prahari": {
+    "state_or_ut": "",
+    "category": "Jail Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan Home Guard": {
+    "state_or_ut": "",
+    "category": "Home Guard",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Rajasthan High Court Clerk": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Rajasthan High Court",
+    "website": "https://hcraj.nic.in"
+  },
+  "Rajasthan High Court Stenographer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "SPSC Combined Civil Service (CCS)": {
+    "state_or_ut": "Sikkim",
+    "category": "State Civil Services",
+    "conducting_body": "Sikkim Public Service Commission",
+    "website": "https://spsc.sikkim.gov.in"
+  },
+  "SPSC Deputy Superintendent of Police (DSP)": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "SPSC",
+    "website": ""
+  },
+  "SPSC Under Secretary": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "SPSC Accounts Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "SPSC Taxation Officer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "SPSC Junior Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "SPSC Assistant Professor/Lecturer": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Sikkim Police Sub-Inspector (SI)": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Sikkim Police",
+    "website": "https://sikkimpolice.nic.in"
+  },
+  "Sikkim Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Sikkim SSSCBE (Common Recruitment)": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "Sikkim State Services",
+    "website": "https://spsc.sikkim.gov.in"
+  },
+  "Sikkim Clerk/LDC": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "Sikkim SSSC",
+    "website": ""
+  },
+  "Sikkim Lab Assistant": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "STET (Sikkim Teacher Eligibility Test)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Sikkim Education Department",
+    "website": "https://sikkimhrdd.org"
+  },
+  "Sikkim Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Sikkim Education",
+    "website": ""
+  },
+  "Sikkim TGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Sikkim Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "Sikkim Health Department",
+    "website": "https://health.sikkim.gov.in"
+  },
+  "Sikkim ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Sikkim Health Dept",
+    "website": ""
+  },
+  "Sikkim Central Cooperative Bank Officer": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB Sikkim",
+    "website": "www.ibps.in"
+  },
+  "Sikkim Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "Sikkim Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "High Court of Sikkim",
+    "website": "https://hcs.gov.in"
+  },
+  "High Court Clerk/Stenographer": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "High Court Sikkim",
+    "website": ""
+  },
+  "Sikkim Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "Sikkim PSC",
+    "website": "https://spsc.sikkim.gov.in"
+  },
+  "TNPSC Group 1 (Combined Civil Services-I)": {
+    "state_or_ut": "Tamil Nadu",
+    "category": "State Civil Services",
+    "conducting_body": "TNPSC",
+    "website": "https://tnpsc.gov.in"
+  },
+  "TNPSC Group 2 (Combined Civil Services-II)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Group 2A (Interview Posts)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Deputy Collector": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Revenue Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Assistant Engineer (AE)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Group 4 (Combined Civil Services-IV)": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Village Administrative Officer (VAO)": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Junior Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Typist": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Steno Typist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Combined Technical Services (Degree Level)": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Combined Technical Services (Diploma Level)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Combined Technical Services (ITI Level)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNUSRB Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Tamil Nadu Uniformed Services",
+    "website": "https://tnusrb.tn.gov.in"
+  },
+  "TNUSRB Police Sub-Inspector": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "TNUSRB",
+    "website": ""
+  },
+  "TNTET (Paper I & II)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Teachers Recruitment Board",
+    "website": "https://trb.tn.gov.in"
+  },
+  "TRB TET Paper I (Primary)": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "TRB",
+    "website": ""
+  },
+  "TRB TET Paper II (Upper Primary)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TN TRB PG Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TN MRB Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "Tamil Nadu Medical Services",
+    "website": "https://mrb.tn.gov.in"
+  },
+  "TN Health CHO": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "TN MRB",
+    "website": ""
+  },
+  "TN Pharmacist": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Agriculture Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "TN Agriculture Department",
+    "website": "https://tnpsc.gov.in"
+  },
+  "TN Agriculture Supervisor": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "TN Agri Dept",
+    "website": "https://tnagriculture.gov.in"
+  },
+  "Tamil Nadu Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB Tamil Nadu",
+    "website": "www.ibps.in"
+  },
+  "Tamil Nadu Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "TN Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Madras High Court",
+    "website": "https://hcmadras.tn.nic.in"
+  },
+  "High Court Assistant": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Madras HC",
+    "website": ""
+  },
+  "High Court Typist/Steno": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TNPSC Group 4 MTS/Peon": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "TNPSC",
+    "website": "https://tnpsc.gov.in"
+  },
+  "TSPSC Group 1 (Civil Services)": {
+    "state_or_ut": "Telangana",
+    "category": "State Civil Services",
+    "conducting_body": "TSPSC",
+    "website": "https://tspsc.gov.in"
+  },
+  "TSPSC Group 2": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC Assistant Section Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC Municipal Commissioner Grade-III": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC Assistant Engineer (AE)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC Group 3 (Panchayat Secretary)": {
+    "state_or_ut": "",
+    "category": "Group III Posts",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC Junior Assistant": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC Group 4 (Junior Accountant/Steno)": {
+    "state_or_ut": "",
+    "category": "Group IV Posts",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSPSC Typist": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Telangana Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "TSLPRB",
+    "website": "https://tslprb.in"
+  },
+  "Telangana Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TS TET": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "DST Telangana",
+    "website": "https://tstet.aptonline.in"
+  },
+  "TS DSC School Assistant (SA)": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "DSC Telangana",
+    "website": "https://tsds.telangana.gov.in"
+  },
+  "TS DSC Secondary Grade Teacher (SGT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TS DSC Language Pandit": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TS Health Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "DMHO Telangana",
+    "website": "https://treirb.telangana.gov.in"
+  },
+  "TS CHO (Community Health Officer)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Telangana Medical",
+    "website": ""
+  },
+  "TSPSC Agriculture Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "TS Agriculture Department",
+    "website": "https://tspsc.gov.in"
+  },
+  "Telangana State Cooperative Apex Bank Officer": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB Telangana",
+    "website": "www.ibps.in"
+  },
+  "Telangana Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "Telangana Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Telangana High Court",
+    "website": "https://tshc.gov.in"
+  },
+  "High Court Junior Assistant/Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Telangana HC",
+    "website": ""
+  },
+  "TSPSC Group 4 MTS/Peon": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "TSPSC",
+    "website": "https://tspsc.gov.in"
+  },
+  "TPSC Combined Civil Service (CCS)": {
+    "state_or_ut": "Tripura",
+    "category": "State Civil Services",
+    "conducting_body": "Tripura Public Service Commission",
+    "website": "https://tpsc.tripura.gov.in"
+  },
+  "TPSP DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "TPSC",
+    "website": ""
+  },
+  "TPSC Revenue Officer": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TPSC Block Development Officer": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TPSC Assistant Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TSSCLDC/Clerk": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "Tripura Staff Selection Commission",
+    "website": "https://trssc.nic.in"
+  },
+  "TSSSC Junior Assistant": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "TSSSC",
+    "website": ""
+  },
+  "TSSSC Lab Technician": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Tripura Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Tripura Police",
+    "website": "https://police.tripura.gov.in"
+  },
+  "Tripura Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "TTET (Tripura Teacher Eligibility Test)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "Tripura Education Department",
+    "website": "https://trb.tripura.gov.in"
+  },
+  "Tripura Primary Teacher (PRT)": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "TRBT",
+    "website": ""
+  },
+  "Tripura TGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Tripura PGT": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Tripura Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "Tripura Health Department",
+    "website": "https://health.tripura.gov.in"
+  },
+  "Tripura ANM": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Tripura Health",
+    "website": ""
+  },
+  "Tripura Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB Tripura",
+    "website": "www.ibps.in"
+  },
+  "Tripura Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "Tripura Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Tripura High Court",
+    "website": "https://hc.tripura.gov.in"
+  },
+  "High Court Clerk/Steno": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Tripura HC",
+    "website": ""
+  },
+  "UPPSC PCS (Provincial Civil Services)": {
+    "state_or_ut": "Uttar Pradesh",
+    "category": "State Civil Services",
+    "conducting_body": "UPPSC",
+    "website": "https://uppsc.up.nic.in"
+  },
+  "UPPSC DSP": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UPPSC AE (Assistant Engineer)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UPPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UPPCS-J (Judicial Services)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UPSSSC PET (Preliminary Eligibility Test)": {
+    "state_or_ut": "",
+    "category": "Group B/C Posts",
+    "conducting_body": "UPSSSC",
+    "website": "https://upsssc.gov.in"
+  },
+  "UP Lekhpal": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UPSSSC Group C (Clerk/Steno)": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UPSSSC Junior Engineer": {
+    "state_or_ut": "",
+    "category": "Technical Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UP Agriculture Technical Assistant": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UP Police Constable": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Uttar Pradesh Police",
+    "website": "https://uppbpb.gov.in"
+  },
+  "UP Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UP Jail Warder": {
+    "state_or_ut": "",
+    "category": "Jail Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UPTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "UTTAR PRADESH SECONDARY EDUCATION SERVICES SELECTION BOARD",
+    "website": "https://updeled.gov.in"
+  },
+  "UP TGT (Trained Graduate Teacher)": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "UPSESSB",
+    "website": "https://upsessb.org"
+  },
+  "UP PGT (Post Graduate Teacher)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UP Assistant Teacher (AT)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "UP Basic Education",
+    "website": "https://upbasiceduboard.gov.in"
+  },
+  "UP Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "UP Health Department",
+    "website": "https://dgme.up.gov.in"
+  },
+  "UP Community Health Officer (CHO)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "UP Health",
+    "website": ""
+  },
+  "UPPSC Agriculture Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "UP Agriculture Department",
+    "website": "https://uppsc.up.nic.in"
+  },
+  "UP Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB UP",
+    "website": "www.ibps.in"
+  },
+  "UP Gramin Bank Clerk (Office Assistant)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "UP Higher Judicial Service": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Allahabad High Court",
+    "website": "https://allahabadhighcourt.in"
+  },
+  "UP Lower Judicial Service (RO/CA)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Allahabad HC",
+    "website": ""
+  },
+  "High Court Group C (Clerk/Steno)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Uttarakhand HC",
+    "website": ""
+  },
+  "UPSSSC Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "UPSSSC",
+    "website": "https://upsssc.gov.in"
+  },
+  "UKPSC Upper PCS (Combined State/Upper Subordinate)": {
+    "state_or_ut": "Uttarakhand",
+    "category": "State Civil Services",
+    "conducting_body": "UKPSC",
+    "website": "https://psc.uk.gov.in"
+  },
+  "UKPSC Judicial Service Civil Judge": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UKPSC Lower PCS (Combined State Civil/Lower Subordinate)": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UKPSC Lecturer (School/Inter College)": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UKSSSC VDO (Village Development Officer)": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "UKSSSC",
+    "website": "https://sssc.uk.gov.in"
+  },
+  "UKSSSC Patwari/Lekhpal": {
+    "state_or_ut": "",
+    "category": "Revenue Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UKSSSC Junior Assistant": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UKSSSC Stenographer": {
+    "state_or_ut": "",
+    "category": "Secretarial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UKSSSC Junior Engineer": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "Uttarakhand Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "Uttarakhand Police",
+    "website": "https://uttarakhandpolice.uk.gov.in"
+  },
+  "Uttarakhand Police SI": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "UKTET": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "UBSE",
+    "website": "https://ubse.uk.gov.in"
+  },
+  "LT Grade Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "Uttarakhand Education",
+    "website": "https://sainikschoolglby.org"
+  },
+  "Primary Teacher": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "",
+    "website": "https://ubse.uk.gov.in"
+  },
+  "UK Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "UK Health Department",
+    "website": "https://health.uk.gov.in"
+  },
+  "UK ANM/CHO": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "UK Health Dept",
+    "website": ""
+  },
+  "Uttarakhand Gramin Bank Officer Scale I/II": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB Uttarakhand",
+    "website": "www.ibps.in"
+  },
+  "Uttarakhand Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "High Court RO/ARO": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Uttarakhand High Court",
+    "website": "https://highcourtofuttarakhand.gov.in"
+  },
+  "UKSSSC Group C/D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "UKSSSC",
+    "website": "https://sssc.uk.gov.in"
+  },
+  "WBCS (West Bengal Civil Service)": {
+    "state_or_ut": "West Bengal",
+    "category": "State Civil Services",
+    "conducting_body": "WBPSC",
+    "website": "https://psc.wb.gov.in"
+  },
+  "WBPSC WBSI (West Bengal Police SI)": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "WB Judicial Service (Civil Judge)": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "WBPSC Assistant Engineer (AE)": {
+    "state_or_ut": "",
+    "category": "Engineering Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "WBPSC Assistant Professor": {
+    "state_or_ut": "",
+    "category": "Education Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "WBSSC SLST (Secondary Level)": {
+    "state_or_ut": "",
+    "category": "Group C Posts",
+    "conducting_body": "WBSSC",
+    "website": "https://westbengalssc.com"
+  },
+  "WBSSC Clerk": {
+    "state_or_ut": "",
+    "category": "Administrative Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "WB Police Constable": {
+    "state_or_ut": "",
+    "category": "Police Recruitment",
+    "conducting_body": "WBPRB",
+    "website": "https://prb.wb.gov.in"
+  },
+  "WB Police Sub-Inspector": {
+    "state_or_ut": "",
+    "category": "Police Services",
+    "conducting_body": "",
+    "website": ""
+  },
+  "WB TET (Teacher Eligibility Test)": {
+    "state_or_ut": "",
+    "category": "Teacher Eligibility",
+    "conducting_body": "WBBPE/WBBSE",
+    "website": "https://wbbpe.org"
+  },
+  "WB Primary Teacher": {
+    "state_or_ut": "",
+    "category": "Teacher Recruitment",
+    "conducting_body": "WB Primary Education",
+    "website": "https://wbbprimaryeducation.org"
+  },
+  "WB Assistant Teacher (Upper Primary)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "WB Secondary Education",
+    "website": "https://wbbse.org"
+  },
+  "WB 2nd SLST (PGT/Assistant Teacher)": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "WB School Service Commission",
+    "website": "https://westbengalssc.com"
+  },
+  "WB Staff Nurse": {
+    "state_or_ut": "",
+    "category": "Health Services",
+    "conducting_body": "WB Health Department",
+    "website": "https://www.wbhealth.gov.in"
+  },
+  "WBHRB CHO": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "WB Health Recruitment Board",
+    "website": ""
+  },
+  "WBPSC Agriculture Officer": {
+    "state_or_ut": "",
+    "category": "Agriculture Services",
+    "conducting_body": "WB Agriculture Department",
+    "website": "https://psc.wb.gov.in"
+  },
+  "WB Gramin Bank/Paschim Banga Gramin Bank Officer": {
+    "state_or_ut": "",
+    "category": "Rural Banking",
+    "conducting_body": "IBPS RRB West Bengal",
+    "website": "www.ibps.in"
+  },
+  "WB Gramin Bank Clerk": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "IBPS RRB",
+    "website": ""
+  },
+  "Calcutta HC Judicial Service": {
+    "state_or_ut": "",
+    "category": "Judicial Services",
+    "conducting_body": "Calcutta High Court",
+    "website": "https://calcuttahighcourt.gov.in"
+  },
+  "Calcutta HC Clerk/Stenographer Grade I/II": {
+    "state_or_ut": "",
+    "category": "",
+    "conducting_body": "Calcutta HC",
+    "website": ""
+  },
+  "WBSSC Group D (Peon/MTS)": {
+    "state_or_ut": "",
+    "category": "Group D Services",
+    "conducting_body": "WBSSC",
+    "website": "https://westbengalssc.com"
+  },
+  "SSC CGL (Combined Graduate Level)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC CHSL (Combined Higher Secondary Level)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC MTS (Multi-Tasking Staff) & Havaldar (CBIC & CBN)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC GD Constable (General Duty)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC JE (Junior Engineer)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC JHT (Junior Hindi Translator / Senior Hindi Translator)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC Stenographer Grade ‘C’ & ‘D’": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC Selection Post (Phase I, II, III, etc.)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC CPO": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC Delhi Police Constable": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC Delhi Police MTS / Head Constable / Ministerial Exams": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC Scientific Assistant (IMD)": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC Constable (Driver) in Delhi Police": {
+    "state_or_ut": "Central",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "IBPS RRB PO": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "IBPS RRB SO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection\n(IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "IBPS RRB Clerk": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection\n(IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "IBPS PO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection\n(IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "IBPS SO IT Officer": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection\n(IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "IBPS Clerk": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection\n(IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "IBPS RRB GBO (Scale-II)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection\n(IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "IBPS SO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Institute of Banking Personnel Selection\n(IBPS)",
+    "website": "https://www.ibps.in"
+  },
+  "SBI Clerk": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "State Bank of India\n(SBI)",
+    "website": "https://sbi.co.in/web/careers"
+  },
+  "SBI SO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "State Bank of India\n(SBI)",
+    "website": "https://sbi.co.in/web/careers"
+  },
+  "SBI PO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "State Bank of India\n(SBI)",
+    "website": "https://sbi.co.in/web/careers"
+  },
+  "SBI CBO (Circle Based Officer)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "State Bank of India\n(SBI)",
+    "website": "https://sbi.co.in/web/careers"
+  },
+  "SEBI Grade A Officer (Assistant Manager)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Securities and Exchange Board of India (SEBI)",
+    "website": "https://www.sebi.gov.in"
+  },
+  "ECGC  PO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Export Credit Guarantee Corporation of India Ltd (ECGC)",
+    "website": "https://www.ecgc.in"
+  },
+  "RBI Grade B Officers": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Reserve Bank of India",
+    "website": "https://www.rbi.org.in"
+  },
+  "RBI Assistant": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "RBI",
+    "website": "https://opportunities.rbi.org.in"
+  },
+  "NABARD Grade A (Assistant Manager)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "National Bank for Agriculture and Rural Development (NABARD)",
+    "website": "https://www.nabard.org"
+  },
+  "NABARD Grade B (Assistant Manager)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "National Bank for Agriculture and Rural Development (NABARD)",
+    "website": ""
+  },
+  "Probationary Officers (PO)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Bank of Baroda",
+    "website": "https://www.bankofbaroda.in/careers"
+  },
+  "Specialist Officers (SO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Bank of Baroda",
+    "website": "https://www.bankofbaroda.in/careers"
+  },
+  "Local Bank Officers (LBO)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Bank of Baroda",
+    "website": "https://www.bankofbaroda.in/careers"
+  },
+  "Office Assistants (Peon)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Bank of Baroda",
+    "website": "https://www.bankofbaroda.in/careers"
+  },
+  "Specialist Officer (SO)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Indian Bank",
+    "website": "https://www.indianbank.in/careers"
+  },
+  "Local Bank Officer (LBO)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Indian Bank",
+    "website": "https://www.indianbank.in/careers"
+  },
+  "IOB Local Bank Officer (LBO)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Indian Overseas Bank",
+    "website": "https://www.iob.in/careers"
+  },
+  "Indian Overseas Bank Apprentice": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Indian Overseas Bank",
+    "website": "https://www.iob.in/careers"
+  },
+  "Union Bank Apprentice exam": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Union Bank of India",
+    "website": ""
+  },
+  "Union Bank SO": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Union Bank of India",
+    "website": ""
+  },
+  "Credit Officer (PGDBF)": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Central Bank of India",
+    "website": "https://www.centralbankofindia.co.in"
+  },
+  "Clerk": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Bihar State Co-operative Bank (BSCB)",
+    "website": "https://www.biharscb.co.in"
+  },
+  "Assistant": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "ICAR IARI",
+    "website": "https://iari.res.in"
+  },
+  "Manager": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Food Corporation Of India",
+    "website": "https://fci.gov.in"
+  },
+  "Senior Manager": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Rajasthan State Cooperative Bank (RSCB)",
+    "website": "https://rajcrb.rajasthan.gov.in"
+  },
+  "Computer Programmer": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Rajasthan State Cooperative Bank (RSCB)",
+    "website": "https://rajcrb.rajasthan.gov.in"
+  },
+  "Banking Assistant": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Rajasthan State Cooperative Bank (RSCB)",
+    "website": "https://rajcrb.rajasthan.gov.in"
+  },
+  "Assistant Manager": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "Insurance Regulatory and Development Authority (IRDA)",
+    "website": "https://irdai.gov.in"
+  },
+  "Junior Clerk": {
+    "state_or_ut": "Central",
+    "category": "BANKING",
+    "conducting_body": "Himachal Pradesh State Cooperative Bank",
+    "website": "https://www.hpscb.com"
+  },
+  "Assistant Commissioner": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "NAVODAYA VIDYALAYA\nSAMITI",
+    "website": "https://navodaya.gov.in"
+  },
+  "KVS  PGT (Post Graduate Teacher)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "KENDRIYA VIDYALAYA SANGATHAN",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "KVS  TGT (Trained Graduate Teacher)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "KENDRIYA VIDYALAYA SANGATHAN",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "KVS  PRT (Primary Teacher)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "KENDRIYA VIDYALAYA SANGATHAN",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "KVS  Principal": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "KENDRIYA VIDYALAYA SANGATHAN",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "KVS  Vice-Principal": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "KENDRIYA VIDYALAYA SANGATHAN",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "KVS  Librarian,": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "KENDRIYA VIDYALAYA SANGATHAN",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "Principal": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "NAVODAYA VIDYALAYA\nSAMITI",
+    "website": "https://navodaya.gov.in"
+  },
+  "Vice-Principal": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "NAVODAYA VIDYALAYA\nSAMITI",
+    "website": "https://navodaya.gov.in"
+  },
+  "PGT (Post Graduate Teacher)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Samagra Shiksha Abhiyan (SSA), Chandigarh",
+    "website": "https://ssachd.nic.in/"
+  },
+  "TGT (Trained Graduate Teacher": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "NAVODAYA VIDYALAYA\nSAMITI",
+    "website": "https://navodaya.gov.in"
+  },
+  "PGT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "BPSC TRE",
+    "website": "https://bpsc.bihar.gov.in/"
+  },
+  "TGT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "BPSC TRE",
+    "website": "https://bpsc.bihar.gov.in/"
+  },
+  "PRT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "BPSC TRE",
+    "website": "https://bpsc.bihar.gov.in/"
+  },
+  "UPTGT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "UTTAR PRADESH SECONDARY EDUCATION SERVICES SELECTION BOARD",
+    "website": "https://updeled.gov.in"
+  },
+  "SUPER TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "UTTAR PRADESH SECONDARY EDUCATION SERVICES SELECTION BOARD",
+    "website": "https://updeled.gov.in"
+  },
+  "UP PGT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "UTTAR PRADESH SECONDARY EDUCATION SERVICES SELECTION BOARD",
+    "website": "https://updeled.gov.in"
+  },
+  "UP LT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "UTTAR PRADESH SECONDARY EDUCATION SERVICES SELECTION BOARD",
+    "website": "https://updeled.gov.in"
+  },
+  "UP GIC Lecturer": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "UTTAR PRADESH SECONDARY EDUCATION SERVICES SELECTION BOARD",
+    "website": "https://updeled.gov.in"
+  },
+  "MP TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Madhya Pradesh Professional Examination Board",
+    "website": "https://mpbse.nic.in"
+  },
+  "PSTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Punjab State Council of Educational Research and Training",
+    "website": "https://pstet.pseb.ac.in"
+  },
+  "UTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Uttarakhand Board of School Education",
+    "website": "https://ubse.uk.gov.in"
+  },
+  "JKSSB": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Jammu Kashmir Public Service Commission",
+    "website": "https://jkssb.nic.in"
+  },
+  "JKPSC": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Jammu Kashmir Public Service Commission",
+    "website": "https://jkssb.nic.in"
+  },
+  "JKTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Jammu Kashmir Public Service Commission",
+    "website": "https://jkssb.nic.in"
+  },
+  "REET Grade I": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Rajasthan Public Service Commission",
+    "website": "https://rajeduboard.rajasthan.gov.in"
+  },
+  "REET Grade II": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Rajasthan Public Service Commission",
+    "website": "https://rajeduboard.rajasthan.gov.in"
+  },
+  "Gujarat TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Gujarat State Education Board",
+    "website": "https://gsebservice.gujarat.gov.in"
+  },
+  "Gujarat GSET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Gujarat State Education Board",
+    "website": "https://gsebservice.gujarat.gov.in"
+  },
+  "Gujarat TAT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Gujarat State Education Board",
+    "website": "https://gsebservice.gujarat.gov.in"
+  },
+  "MAHATET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Maharashtra State Council of Examination",
+    "website": "https://mahatef.in"
+  },
+  "JSSC": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Jharkhand Staff Selection Commission",
+    "website": "https://jssc.nic.in"
+  },
+  "WBTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "West Bengal Board of Primary Education",
+    "website": "https://wbbpe.org"
+  },
+  "WBSSC SLST": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "West Bengal School Service Commission",
+    "website": "https://wbbpe.org"
+  },
+  "Assam Teacher Eligibility Test": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Directorate of Secondary Education, Assam",
+    "website": "https://scert.assam.gov.in"
+  },
+  "Arunachal Pradesh TET/ PGT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Arunachal Pradesh Public Service Commission",
+    "website": "https://apsc.gov.in"
+  },
+  "Arunachal Pradesh TET / TGT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Arunachal Pradesh Public Service Commission",
+    "website": "https://apsc.gov.in"
+  },
+  "Meghalaya TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Meghalaya Education Department",
+    "website": "https://megeducation.gov.in"
+  },
+  "Nagaland Teacher Eligibility Test": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "State Council of Educational Research and Training, Nagaland",
+    "website": "https://npsc.co.in"
+  },
+  "Manipur TET (MTET)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Department of Education, Manipur",
+    "website": "https://manipur.gov.in"
+  },
+  "Contract Lecturers/GTs": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Department of Education, Manipur",
+    "website": "https://manipur.gov.in"
+  },
+  "Primary Teachers (PTs)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Department of Education, Manipur",
+    "website": "https://manipur.gov.in"
+  },
+  "Tripura-TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Teacher's Recruitment Board Tripura",
+    "website": "https://trb.tripura.gov.in"
+  },
+  "Mizoram TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Mizoram Board of School Education",
+    "website": "https://mzu.edu.in"
+  },
+  "OTET (Odisha Teacher Eligibility Test)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Board of Secondary Education (BSE), Odisha",
+    "website": "https://bseodisha.ac.in"
+  },
+  "OSSTET (Odisha Secondary School Teacher Eligibility Test)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Board of Secondary Education (BSE), Odisha",
+    "website": "https://bseodisha.ac.in"
+  },
+  "Andhra Pradesh TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Department of School Education, Government of Andhra Pradesh",
+    "website": "https://apteachers.in"
+  },
+  "Telangana TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "School Education Department, Government of Telangana",
+    "website": "https://tstet.aptonline.in"
+  },
+  "TNTET (Tamil Nadu Teacher Eligibility Test)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Teachers Recruitment Board, Tamil Nadu government",
+    "website": "https://trb.tn.gov.in"
+  },
+  "PG TRB (Post Graduate Teacher Recruitment)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Teachers Recruitment Board, Tamil Nadu government",
+    "website": "https://trb.tn.gov.in"
+  },
+  "UG TRB (Graduate Teacher Recruitment)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Teachers Recruitment Board, Tamil Nadu government",
+    "website": "https://trb.tn.gov.in"
+  },
+  "KTET Category 1 (Classes 1-5)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Kerala Pareeksha Bhavan",
+    "website": "https://ktet.kerala.gov.in"
+  },
+  "KTET Category 2 (Classes 6-8)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Kerala Pareeksha Bhavan",
+    "website": "https://ktet.kerala.gov.in"
+  },
+  "KTET Category 3 (Classes 9-10)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Kerala Pareeksha Bhavan",
+    "website": "https://ktet.kerala.gov.in"
+  },
+  "KTET Category 4 (Language Teachers, Special Teachers and Physical Education Teachers)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Kerala Pareeksha Bhavan",
+    "website": "https://ktet.kerala.gov.in"
+  },
+  "KPSC Teacher Recruitment Exam": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Department of School Education & Literacy, Karnataka",
+    "website": "https://kpsc.kar.nic.in"
+  },
+  "KARTET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Department of School Education & Literacy, Karnataka",
+    "website": "https://schooleducation.kar.nic.in"
+  },
+  "Goa TET": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Goa Board of Secondary and Higher Secondary Education",
+    "website": "https://goa.gov.in"
+  },
+  "PRT (Primary)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Delhi Subordinate Services Selection Board",
+    "website": "https://dsssb.delhi.gov.in/"
+  },
+  "TGT (Trained Graduate)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Delhi Subordinate Services Selection Board",
+    "website": "https://dsssb.delhi.gov.in/"
+  },
+  "PGT (Post Graduate).": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Delhi Subordinate Services Selection Board",
+    "website": "https://dsssb.delhi.gov.in/"
+  },
+  "JBT (Junior Basic Teacher/Primary Teacher)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Samagra Shiksha Abhiyan (SSA), Chandigarh",
+    "website": "https://ssachd.nic.in/"
+  },
+  "TGT (Trained Graduate Teacher)": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Samagra Shiksha Abhiyan (SSA), Chandigarh",
+    "website": "https://ssachd.nic.in/"
+  },
+  "RRB Railway Teacher Recruitment": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Railway Recruitment Board",
+    "website": "https://indianrailways.gov.in"
+  },
+  "Andaman and Nicobar TGT": {
+    "state_or_ut": "Central",
+    "category": "TEACHING",
+    "conducting_body": "Andaman and Nicobar Administration",
+    "website": "https://dge.gov.in"
+  },
+  "RRB NTPC": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "RRB Section Controller": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "Railways Group D": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "RRB ALP": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "RRB Technician Grade 3": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "RRB Nursing Superintendent": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "RRB Jr. Engineer": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "RPF Sub Inspector": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "RPF Constable": {
+    "state_or_ut": "Central",
+    "category": "INDIAN RAILWAYS",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://rrbapply.gov.in"
+  },
+  "Assistant Professor": {
+    "state_or_ut": "Central",
+    "category": "UNIVERSITY GRANTS COMMISSION NATIONAL ELIGIBILITY TEST",
+    "conducting_body": "National Testing Agency",
+    "website": "https://ugcnet.nta.ac.in"
+  },
+  "JRF ( Junior Research Fellowship)": {
+    "state_or_ut": "Central",
+    "category": "UNIVERSITY GRANTS COMMISSION NATIONAL ELIGIBILITY TEST",
+    "conducting_body": "National Testing Agency",
+    "website": "https://ugcnet.nta.ac.in"
+  },
+  "PHD": {
+    "state_or_ut": "Central",
+    "category": "UNIVERSITY GRANTS COMMISSION NATIONAL ELIGIBILITY TEST",
+    "conducting_body": "National Testing Agency",
+    "website": "https://ugcnet.nta.ac.in"
+  },
+  "Nursing Superintendent": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "RRB\n(Railway Recruitment Board)",
+    "website": "https://indianrailways.gov.in/rrb"
+  },
+  "Staff Nurse": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services, Goa",
+    "website": "https://dhsgoa.gov.in"
+  },
+  "Pharmacist": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Health & Medical Education Department, Jammu & Kashmir",
+    "website": "https://dhsjammu.jk.gov.in"
+  },
+  "Medical Superintendent": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "AIIMS Common Recruitment Examination (CRE)",
+    "website": "https://aiimsexams.ac.in"
+  },
+  "NORCET (Nursing Officers)": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "AIIMS Common Recruitment Examination (CRE)",
+    "website": "https://aiimsexams.ac.in"
+  },
+  "CRE-4 (Senior Nursing Officer)": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "AIIMS Common Recruitment Examination (CRE)",
+    "website": "https://aiimsexams.ac.in"
+  },
+  "Nursing Officer": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Kerala Public Service Commission",
+    "website": "https://kerala.psc.gov.in"
+  },
+  "GNM & ANM": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Uttarakhand Medical Service Selection Board",
+    "website": "https://ukmssb.org"
+  },
+  "3.\tPharmacist": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Uttarakhand Medical Service Selection Board",
+    "website": "https://ukmssb.org"
+  },
+  "Female Multipurpose Health Worker (FMPHW)": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Health & Medical Education Department, Jammu & Kashmir",
+    "website": "https://dhsjammu.jk.gov.in"
+  },
+  "Nursing Aid": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Health & Medical Education Department, Jammu & Kashmir",
+    "website": "https://dhsjammu.jk.gov.in"
+  },
+  "DSSSB Nursing Officer": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Delhi Subordinate Services Selection Board",
+    "website": "https://dsssb.delhi.gov.in"
+  },
+  "Delhi NHM Staff Nurse": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Delhi Health & Family Welfare Department",
+    "website": ""
+  },
+  "Community Health Officer": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Gujarat Public Service Commission, & Arogyasathi",
+    "website": "https://gpsc.gujarat.gov.in"
+  },
+  "Nursing Tutors": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Rajasthan Staff Selection Board",
+    "website": "https://rsmssb.rajasthan.gov.in"
+  },
+  "Staff Nurses": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services Andaman",
+    "website": "https://db.and.nic.in"
+  },
+  "Sister Grade II": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Chandigarh Administration",
+    "website": "https://chandigarh.gov.in"
+  },
+  "PGIMER Chandigarh": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Chandigarh Administration",
+    "website": "https://chandigarh.gov.in"
+  },
+  "PPSC Medical Officer": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Punjab Health & Family Welfare Department",
+    "website": "https://ppsc.gov.in"
+  },
+  "ANM": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Medical Services Recruitment Board, Tamil Nadu",
+    "website": "https://mrb.tn.gov.in"
+  },
+  "KGMU/SGPGI  for Nursing Officer": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Uttar Pradesh Government",
+    "website": "https://kgmu.org / https://sgpgims.org.in"
+  },
+  "Directorate General of Medical Education & Training": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Uttar Pradesh Government",
+    "website": "https://dgme.up.gov.in"
+  },
+  "Staff Nurse/Nursing Office": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Bihar Technical Service Commission",
+    "website": "https://btsc.bihar.gov.in"
+  },
+  "Staff Nurse Grade II": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "West Bengal Health Recruitment Board",
+    "website": "https://hfw.wbhealth.gov.in"
+  },
+  "Sister Grade-II": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Sikkim Public Service Commission",
+    "website": "https://spsc.sikkim.gov.in"
+  },
+  "Grade-III (Non-Technical)": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Medical Education, Assam",
+    "website": "https://dme.assam.gov.in"
+  },
+  "staff Nurse": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Meghalaya Medical Services Recruitment Board",
+    "website": "https://meghealth.gov.in"
+  },
+  "Nursing Tutors/Lecturers": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services, Arunachal Pradesh",
+    "website": "https://health.arunachal.gov.in"
+  },
+  "Staff Nurse (Class-III)": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Department of Health & Family Welfare, Nagaland",
+    "website": "https://health.nagaland.gov.in"
+  },
+  "Medical Officer": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Department of Health & Family Welfare, Nagaland",
+    "website": "https://health.nagaland.gov.in"
+  },
+  "Nursing Sister, Tutor, etc": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services , Manipur",
+    "website": "https://dhsmanipur.nic.in"
+  },
+  "ANMs": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services Andaman",
+    "website": "https://db.and.nic.in"
+  },
+  "GNM": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Health & Family Welfare Department, Tripura",
+    "website": "https://health.tripura.gov.in"
+  },
+  "CG Staff Nurse Exam": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Chhattisgarh Vyapam",
+    "website": "https://vyapam.nic.in"
+  },
+  "Nursing Officer Exam": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Odisha Subordinate Staff Selection Commission",
+    "website": "https://osssc.gov.in"
+  },
+  "Staff Nurse/Nursing Officer": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services, Maharashtra",
+    "website": "https://arogya.maharashtra.gov.in"
+  },
+  "Staff Nursing": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Madhya Pradesh Employees Selection Board (Vyapam)",
+    "website": "https://esb.mp.gov.in"
+  },
+  "Nursing Superintendent, Tutor": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Gujarat Public Service Commission, & Arogyasathi",
+    "website": "https://gpsc.gujarat.gov.in"
+  },
+  "Staff Nurse Grade-II": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Kerala Public Service Commission",
+    "website": "https://kerala.psc.gov.in"
+  },
+  "Community Health Officers": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Karnataka Public Service Commission",
+    "website": "https://kpsc.karnataka.gov.in"
+  },
+  "Matron": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services, Goa",
+    "website": "https://dhsgoa.gov.in"
+  },
+  "Walk-in Interviews for specific posts": {
+    "state_or_ut": "Central",
+    "category": "NURSING",
+    "conducting_body": "Directorate of Health Services, Goa",
+    "website": "https://dhsgoa.gov.in"
+  },
+  "Civil Service examination": {
+    "state_or_ut": "Central",
+    "category": "CIVIL SERVICES",
+    "conducting_body": "Union Public Service Commission",
+    "website": "https://upsc.gov.in"
+  },
+  "Indian Economic Service": {
+    "state_or_ut": "Central",
+    "category": "CIVIL SERVICES",
+    "conducting_body": "Union Public Service Commission",
+    "website": "https://upsc.gov.in"
+  },
+  "GATE (Graduate Aptitude Test in Engineering)": {
+    "state_or_ut": "Central",
+    "category": "Engineering Recruitment",
+    "conducting_body": "IITs",
+    "website": "https://gate2026.iitr.ac.in"
+  },
+  "ESE (Engineering Services Examination)": {
+    "state_or_ut": "Central",
+    "category": "Engineering Recruitment",
+    "conducting_body": "Union Public Service Commission",
+    "website": "https://upsc.gov.in"
+  },
+  "Staff Selection Commission Junior Engineer": {
+    "state_or_ut": "Central",
+    "category": "Engineering Recruitment",
+    "conducting_body": "SSC",
+    "website": "https://ssc.gov.in"
+  },
+  "Railway Recruitment Board Junior Engineer": {
+    "state_or_ut": "Central",
+    "category": "Engineering Recruitment",
+    "conducting_body": "RRB",
+    "website": "https://indianrailways.gov.in/rrb"
+  },
+  "Scientist/Engineer\nTechnical Assistant": {
+    "state_or_ut": "Central",
+    "category": "Engineering Recruitment",
+    "conducting_body": "ISRO",
+    "website": "https://www.isro.gov.in"
+  },
+  "CAPF – Central Armed Police Force": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Union Public Service Commission",
+    "website": "https://upsc.gov.in"
+  },
+  "CDS – Combined Defense Services": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Union Public Service Commission",
+    "website": "https://upsc.gov.in"
+  },
+  "NDA – National Defence Academy/ Naval Academy": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Union Public Service Commission",
+    "website": "https://upsc.gov.in"
+  },
+  "AFCAT – Air Force Common Admission Test": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Air Force (IAF)",
+    "website": "https://afcat.cdac.in"
+  },
+  "Indian Air Force Airmen": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Air Force (IAF)",
+    "website": "https://indianairforce.nic.in"
+  },
+  "Indian Air Force Group C": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Air Force (IAF)",
+    "website": "https://indianairforce.nic.in"
+  },
+  "Indian Coast Guard Assistant commandant": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Coast Guard",
+    "website": ""
+  },
+  "Indian Coast Guard Navik": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Coast Guard",
+    "website": ""
+  },
+  "INET (Indian Navy Entrance Test)": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Navy",
+    "website": "https://inet.navy.gov.in"
+  },
+  "Navy's 10+2 B.Tech": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Navy",
+    "website": "https://joinindiannavy.gov.in"
+  },
+  "Technical Entry Schemes  (SSC Tech)": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://joinindianarmy.nic.in"
+  },
+  "Judge Advocate General": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://joinindianarmy.nic.in"
+  },
+  "Technical Entry Schemes (TGC)": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://joinindianarmy.nic.in"
+  },
+  "Indian Army Junior Commissioned Office": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://joinindianarmy.nic.in"
+  },
+  "Indian Army Teacher": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://awesindia.com"
+  },
+  "Army ordinance corps": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://joinindianarmy.nic.in"
+  },
+  "Indian Army NCC": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://indianarmy.nic.in"
+  },
+  "Territorial Army": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Indian Army",
+    "website": "https://territorialarmy.in"
+  },
+  "SSB Constable": {
+    "state_or_ut": "Central",
+    "category": "Defence Exams",
+    "conducting_body": "Sashastra Seema Bal",
+    "website": "https://ssb.gov.in"
+  },
+  "Delhi Judiciary (DJS)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Delhi",
+    "website": "https://delhihighcourt.nic.in"
+  },
+  "Haryana Public Service Commission (HPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Haryana Judiciary",
+    "website": "https://hpsc.gov.in"
+  },
+  "Punjab Public Service Commission (PPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Punjab Judiciary (PCS-J)",
+    "website": "https://highcourtchd.gov.in"
+  },
+  "Uttar Pradesh Public Service Commission (UPPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "UP Judiciary (UP PCS J)",
+    "website": "https://uppsc.up.nic.in"
+  },
+  "Uttarakhand Public Service Commission (UKPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Uttarakhand Judiciary (UKPSC-J)",
+    "website": "https://ukpsc.gov.in"
+  },
+  "Himachal Pradesh Public Service Commission (HPPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Himachal Pradesh Judiciary",
+    "website": "https://hphighcourt.nic.in"
+  },
+  "Jammu & Kashmir High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "JKPSC Civil Judge",
+    "website": "https://jkhighcourt.nic.in"
+  },
+  "MP Judiciary": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Madhya Pradesh",
+    "website": "https://mphc.gov.in"
+  },
+  "Chhattisgarh Public Service Commission (CGPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Chhattisgarh Judiciary",
+    "website": "https://highcourt.cg.gov.in"
+  },
+  "Rajasthan Judiciary": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Rajasthan",
+    "website": "https://hcraj.nic.in"
+  },
+  "Gujarat High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Gujarat Judiciary",
+    "website": "https://gujarathighcourt.nic.in"
+  },
+  "Maharashtra Public Service Commission (MPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Maharashtra Judiciary (MPSC-J)",
+    "website": "https://mpsc.gov.in"
+  },
+  "Bihar Judiciary (BPSC Judicial Service)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Bihar",
+    "website": "https://bpsc.bihar.gov.in"
+  },
+  "Jharkhand Public Service Commission (JPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Jharkhand Judiciary Exam (JPSC-J)",
+    "website": "https://jpsc.gov.in"
+  },
+  "West Bengal Public Service Commission (WBPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "West Bengal Judiciary",
+    "website": "https://wbpsc.gov.in"
+  },
+  "Odisha Public Service Commission (OPSC)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Odisha Judicial Services Exam",
+    "website": "https://opsc.gov.in"
+  },
+  "TNPSC Civil judge Exam (TNPSC-J)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Tamil Nadu",
+    "website": "https://tnpsc.gov.in"
+  },
+  "Karnataka High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Karnataka Judiciary",
+    "website": "https://karnatakajudiciary.kar.nic.in"
+  },
+  "Andhra Pradesh High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Andhra Pradesh Judiciary (APJS)",
+    "website": "https://aphc.gov.in"
+  },
+  "Telangana High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Telangana Judiciary Exams (TSJS)",
+    "website": "https://tshc.gov.in"
+  },
+  "Assam Judicial Services Exams (AJS)": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Assam",
+    "website": "https://ghconline.gov.in"
+  },
+  "Tripura High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Tripura Judiciary (TJS)",
+    "website": "https://hc.tripura.gov.in"
+  },
+  "Meghalaya High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Meghalaya Higher Judicial Services Exams (MJS)",
+    "website": "https://meghalayahighcourt.nic.in"
+  },
+  "Manipur High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Manipur Judicial Service Exams (MPSC-J)",
+    "website": "https://hcmimipur.gov.in"
+  },
+  "Nagaland High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Nagaland Judicial Services Exams (NJS)",
+    "website": "https://nagalandhighcourt.nic.in"
+  },
+  "Mizoram High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Mizoram Judicial Service Exams (MZJS)",
+    "website": "https://mizoramhighcourt.nic.in"
+  },
+  "Sikkim High Court": {
+    "state_or_ut": "Central",
+    "category": "Judiciary Exams",
+    "conducting_body": "Sikkim Judicial Services Exams (SJS)",
+    "website": "https://highcourtofsikkim.nic.in"
+  },
+  "LIC ADO": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "Life Insurance Corporation Limited (LIC)",
+    "website": "https://licindia.in"
+  },
+  "LIC AAO": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "Life Insurance Corporation Limited (LIC)",
+    "website": "https://licindia.in"
+  },
+  "LIC HFL": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "Life Insurance Corporation Limited (LIC)",
+    "website": "https://lichousing.com"
+  },
+  "Administrative Officer": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Kendriya Vidyalaya \nSangathan",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "1. Clerical: \nUDC (Upper Division Clerk),\nStenographer.": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "ESIC",
+    "website": "https://esic.gov.in"
+  },
+  "2. Technical & Medical\nJunior Engineer (JE), \nNursing Officer/Staff Nurse, Doctors": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "ESIC",
+    "website": "https://esic.gov.in"
+  },
+  "GIC Assistant Manager\nSO officer": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "General Insurance Corporation of India",
+    "website": "https://gicofindia.com"
+  },
+  "Administrative Officer (AO)": {
+    "state_or_ut": "Central",
+    "category": "INSURANCE EXAMS",
+    "conducting_body": "United India Insurance Company Limited",
+    "website": "https://uiic.co.in"
+  },
+  "Grade B Officers": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "RBI",
+    "website": "https://opportunities.rbi.org.in"
+  },
+  "Assistant Central Intelligence Officer": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Intelligence Bureau",
+    "website": "https://mha.gov.in"
+  },
+  "Security Assistant": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Intelligence Bureau",
+    "website": "https://mha.gov.in"
+  },
+  "MTS": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Arunachal Pradesh Police",
+    "website": "https://arunpol.nic.in"
+  },
+  "Assistant Grade lII": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Food Corporation Of India",
+    "website": "https://fci.gov.in"
+  },
+  "Junior Engineer (JE)": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Food Corporation Of India",
+    "website": "https://fci.gov.in"
+  },
+  "Stenographer Grade-II": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Food Corporation Of India",
+    "website": "https://fci.gov.in"
+  },
+  "Typist": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Food Corporation Of India",
+    "website": "https://fci.gov.in"
+  },
+  "Watchman": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Food Corporation Of India",
+    "website": "https://fci.gov.in"
+  },
+  "Jr. Secretariat Assistant (HQ/RO Cadre)": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Navodaya Vidyalaya\nSamiti",
+    "website": "https://navodaya.gov.in"
+  },
+  "Jr. Secretariat Assistant": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Navodaya Vidyalaya\nSamiti",
+    "website": "https://navodaya.gov.in"
+  },
+  "Lab Attendant": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Navodaya Vidyalaya\nSamiti",
+    "website": "https://navodaya.gov.in"
+  },
+  "Multi-Tasking Staff": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Navodaya Vidyalaya\nSamiti",
+    "website": "https://navodaya.gov.in"
+  },
+  "Assistant Section Officer (ASO)": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Kendriya Vidyalaya \nSangathan",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "Finance Officer": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Kendriya Vidyalaya \nSangathan",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "Assistant Engineer": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Kendriya Vidyalaya \nSangathan",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "Secretariat Assistant (Sr. & Jr)": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Kendriya Vidyalaya \nSangathan",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "Stenographer": {
+    "state_or_ut": "Central",
+    "category": "Other Government Exams",
+    "conducting_body": "Kendriya Vidyalaya \nSangathan",
+    "website": "https://kvsangathan.nic.in"
+  },
+  "Assistant Branch Postmaster (ABPM)": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "India Post",
+    "website": "https://indiapostgdsonline.cept.gov.in"
+  },
+  "Dak Sevak": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "India Post",
+    "website": "https://indiapostgdsonline.cept.gov.in"
+  },
+  "Branch Postmaster (BPM)": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "India Post",
+    "website": "https://indiapostgdsonline.cept.gov.in"
+  },
+  "Scientific Officer": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "Bhabha Atomic Research Centre (BARC)",
+    "website": "https://www.barconline.cept.gov.in"
+  },
+  "Administration": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "Bhabha Atomic Research Centre (BARC)",
+    "website": "https://www.barc.gov.in/careers"
+  },
+  "Accountant,": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "Bhabha Atomic Research Centre (BARC)",
+    "website": "https://www.barc.gov.in/careers"
+  },
+  "Security": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "Bhabha Atomic Research Centre (BARC)",
+    "website": "https://www.barc.gov.in/careers"
+  },
+  "Assistants": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "Bhabha Atomic Research Centre (BARC)",
+    "website": "https://www.barc.gov.in/careers"
+  },
+  "Scientist.": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "National Informatics Centre (NIC)",
+    "website": "https://www.nic.in/careers"
+  },
+  "Engineer": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "National Informatics Centre (NIC)",
+    "website": "https://www.nic.in/careers"
+  },
+  "Technical Assistant": {
+    "state_or_ut": "Central",
+    "category": "",
+    "conducting_body": "National Informatics Centre (NIC)",
+    "website": "https://www.nic.in/careers"
+  },
+  "Chartered Accountancy (CA)": {
+    "state_or_ut": "Central",
+    "category": "Accounting & Commerce",
+    "conducting_body": "Institute of Chartered Accountants of India",
+    "website": "https://www.icai.org"
+  },
+  "Association of Chartered Certified Accountants": {
+    "state_or_ut": "Central",
+    "category": "Accounting & Commerce",
+    "conducting_body": "",
+    "website": "https://www.accaglobal.com"
+  },
+  "Company Secretary": {
+    "state_or_ut": "Central",
+    "category": "Accounting & Commerce",
+    "conducting_body": "Institute Of Company Secretaries Of India",
+    "website": "https://www.icsi.edu"
+  },
+  "Chartered Financial Analyst": {
+    "state_or_ut": "Central",
+    "category": "Accounting & Commerce",
+    "conducting_body": "The Chartered Financial Analyst",
+    "website": "https://www.cfainstitute.org"
+  },
+  "Certified Public Accountant (CPA)": {
+    "state_or_ut": "Central",
+    "category": "Accounting & Commerce",
+    "conducting_body": "American Institute of Certified Public Accountants (AICPA)",
+    "website": "https://www.aicpa.org"
+  },
+  "Delhi Police Constable": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Staff Selection Commission (ssc)",
+    "website": "https://ssc.gov.in"
+  },
+  "Delhi Police Head Constable": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Staff Selection Commission (ssc)",
+    "website": "https://ssc.gov.in"
+  },
+  "Delhi Police Driver": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Staff Selection Commission (ssc)",
+    "website": "https://ssc.gov.in"
+  },
+  "Delhi Police MTS": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Staff Selection Commission (ssc)",
+    "website": "https://ssc.gov.in"
+  },
+  "UPSI": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Uttar Pradesh Police",
+    "website": "https://uppbpb.gov.in"
+  },
+  "UP Police ASI": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Uttar Pradesh Police",
+    "website": "https://uppbpb.gov.in"
+  },
+  "Sub-Inspector (SI).": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Bihar Police",
+    "website": "https://csbc.bih.nic.in"
+  },
+  "Constable": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Mizoram Police",
+    "website": "https://police.mizoram.gov.in"
+  },
+  "Sub-Inspector (SI)": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Sikkim Police",
+    "website": "https://sikkimpolice.nic.in"
+  },
+  "other posts technical post": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "West Bengal Police",
+    "website": "https://wbpolice.gov.in"
+  },
+  "Sub-Inspector": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Goa Police",
+    "website": "https://goapolice.gov.in"
+  },
+  "MPRO Operator": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Meghalaya Police",
+    "website": "https://megpolice.gov.in"
+  },
+  "Driver Posts": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Meghalaya Police",
+    "website": "https://megpolice.gov.in"
+  },
+  "Constables": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Arunachal Pradesh Police",
+    "website": "https://arunpol.nic.in"
+  },
+  "Specialized Constable": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Manipur Police",
+    "website": "https://police.manipur.gov.in"
+  },
+  "constables": {
+    "state_or_ut": "Central",
+    "category": "POLICE EXAMS",
+    "conducting_body": "Goa Police",
+    "website": "https://goapolice.gov.in"
+  },
+  "ONGC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Oil and Natural Gas Corporation (ONGC)",
+    "website": "https://ongcindia.com/web/eng/career"
+  },
+  "BHEL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Bharat Heavy Electricals Limited (BHEL)",
+    "website": "https://careers.bhel.in"
+  },
+  "BPCL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Bharat Petroleum Corporation Limited (BPCL)",
+    "website": "https://www.bharatpetroleum.in/Careers.aspx"
+  },
+  "CIL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Coal India Limited (CIL)",
+    "website": "https://www.coalindia.in/career"
+  },
+  "GAIL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Gas Authority of India Limited (GAIL)",
+    "website": "https://www.gailonline.com/Careers.html"
+  },
+  "HPCL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Hindustan Petroleum Corporation Limited (HPCL)",
+    "website": "https://www.hindustanpetroleum.com/hpcareers"
+  },
+  "IOCL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Indian Oil Corporation Limited (IOCL)",
+    "website": "https://www.iocl.com/PeopleCareers/job.aspx"
+  },
+  "NTPC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "National Thermal Power Corporation (NTPC)",
+    "website": "https://careers.ntpc.co.in"
+  },
+  "PGCIL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Power Grid Corporation of India (PGCIL)",
+    "website": "https://www.powergrid.in/career"
+  },
+  "PFCL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Power Finance Corporation Limited (PFCL)",
+    "website": "https://www.pfcindia.com/Career"
+  },
+  "REC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Rural Electrification Corporation Limited (REC)",
+    "website": "https://www.recindia.nic.in/careers"
+  },
+  "SAIL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Steel Authority of India Limited (SAIL)",
+    "website": "https://www.sail.co.in/en/careers"
+  },
+  "OIL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Oil India Limited (OIL)",
+    "website": "https://www.oil-india.com/oilrecruit1.html"
+  },
+  "HAL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nMAHARATNA",
+    "conducting_body": "Hindustan Aeronautics Limited (HAL )",
+    "website": "https://hal-india.co.in/Careers"
+  },
+  "BEL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Bharat Electronics Limited (BEL)",
+    "website": "https://bel-india.in/Careers"
+  },
+  "CONCOR Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Container Corporation of India (CONCOR)",
+    "website": "https://concorindia.co.in/careers"
+  },
+  "EIL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Engineers India Limited (EIL)",
+    "website": "https://engineersindia.com/career"
+  },
+  "NALCO Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "National Aluminium Company (NALCO)",
+    "website": "https://nalcoindia.co.in/careers"
+  },
+  "NBCC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "NBCC (India) Limited",
+    "website": "https://nbccindia.in/careers"
+  },
+  "NMDC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "National Mineral Development Corporation (NMDC)",
+    "website": "https://www.nmdc.co.in/careers"
+  },
+  "NLC  Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "NLC India Limited (Neyveli Lignite)",
+    "website": "https://www.nlcindia.in/careers"
+  },
+  "RINL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Rashtriya Ispat Nigam Limited (RINL)",
+    "website": "https://www.rinl.in/Careers"
+  },
+  "SCI Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Shipping Corporation of India (SCI)",
+    "website": "https://shipindia.com/careers"
+  },
+  "RVNL  Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Rail Vikas Nigam Limited (RVNL)",
+    "website": "https://www.rvnl.org/Career"
+  },
+  "RCF Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Rashtriya Chemicals & Fertilizers Limited (RCF)",
+    "website": "https://www.rcfltd.com/careers"
+  },
+  "IRCON Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "IRCON International",
+    "website": "https://www.ircon.org/vacancy"
+  },
+  "RITES  Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "RITES Limited",
+    "website": "https://www.rites.com/Careers"
+  },
+  "NFL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "National Fertilizers Limited (NFL)",
+    "website": "https://nationalfertilizers.com/careers"
+  },
+  "HUDCO Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Housing And Urban Development Corporation Limited (HUDCO)",
+    "website": "https://www.hudco.org/careers"
+  },
+  "IREDA Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Indian Renewable Energy Development Agency (IREDA)",
+    "website": "https://www.ireda.in/careers"
+  },
+  "CWC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Central Warehousing Corporation (CWC)",
+    "website": "https://cwcindia.com/careers"
+  },
+  "Mazagon Dockyard  Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Mazagon Dockyard Limited",
+    "website": "https://mazagondock.in/careers"
+  },
+  "RCIL  Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "RailTel Corporation of India Limited (RCIL)",
+    "website": "https://www.railtelindia.com/careers"
+  },
+  "SJVN Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "SJVN Limited",
+    "website": "https://www.sjvn.nic.in/careers"
+  },
+  "NHPC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "NHPC Limited",
+    "website": "https://www.nhpcindia.com/careers"
+  },
+  "SECI Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Solar Energy Corporation of India (SECI)",
+    "website": "https://www.seci.co.in/careers"
+  },
+  "IRCTC Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Indian Railway Catering and Tourism Corporation (IRCTC)",
+    "website": "https://www.irctc.co.in/career.html"
+  },
+  "IRFCRecruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Indian Railway Finance Corporation (IRFC)",
+    "website": "https://www.irfc.co.in/careers"
+  },
+  "NRL Recruitment": {
+    "state_or_ut": "Central",
+    "category": "PUBLIC SECTOR UNDERTAKING\n\n\nNAVRATNA",
+    "conducting_body": "Numaligarh Refinery (NRL)",
+    "website": "https://www.nrl.co.in"
+  },
+  "Patna Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "PMRC",
+    "website": "https://patnmetrorail.com/career"
+  },
+  "Indore Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "MPMRCL",
+    "website": "https://mpmetrorail.com/career"
+  },
+  "Agra Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "UPMRCL",
+    "website": "https://upmrc.com/career"
+  },
+  "Kanpur Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "UPMRCL",
+    "website": "https://kanpurmetro.com/career"
+  },
+  "Lucknow Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "UPMRCL",
+    "website": "https://lkmmrc.com/career"
+  },
+  "Noida Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "UPMRCL",
+    "website": "https://nmrcnoida.com/career"
+  },
+  "Pune Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "Maha-Metro & Pune IT City Metro Rail Ltd.",
+    "website": "https://mahametro.org/career"
+  },
+  "Navi Mumbai Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "CIDCO",
+    "website": "https://cidco.maharashtra.gov.in/career"
+  },
+  "Nagpur Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "Maha-Metro",
+    "website": "https://mahametro.org/career"
+  },
+  "Mumbai Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "MMRC",
+    "website": "https://recruitment.mmrcl.com"
+  },
+  "Ahmedabad Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "GMRC",
+    "website": "https://gujaratmetrorail.com/career"
+  },
+  "Surat Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "SURMRCL",
+    "website": "https://suratmetrorail.com/career"
+  },
+  "Hyderabad Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "HMRL",
+    "website": "https://ltmetro.com/career"
+  },
+  "Kochi Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "KMRL",
+    "website": "https://kochimetro.org/career"
+  },
+  "Jaipur Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "JMRC",
+    "website": "https://transport.rajasthan.gov.in/jmrc/career"
+  },
+  "Chennai Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "CMRL",
+    "website": "https://chennaimetrorail.org/career"
+  },
+  "Kolkata Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "Metro Railway & KMRC",
+    "website": "https://mtp.indianrailways.gov.in/recruitment"
+  },
+  "Namma Metro (Bengaluru) Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "BMRCL",
+    "website": "https://bmrc.co.in/careers"
+  },
+  "Delhi Metro Recruitment": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "DMRC",
+    "website": "https://delhimetrorail.com/career"
+  },
+  "Gurgaon Rapid Metro,": {
+    "state_or_ut": "Central",
+    "category": "Metro Rail",
+    "conducting_body": "GRMFL",
+    "website": "https://rapidmetroindia.com/career"
+  },
+  "SSC CGL\n(Combined Graduate Level)": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "SSC",
+    "conducting_body": "Staff Selection Commission",
+    "website": "https://ssc.gov.in"
+  },
+  "SSC CHSL\n(Combined Higher Secondary Level)": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "SSC",
+    "conducting_body": "",
+    "website": "https://ssc.gov.in"
+  },
+  "IBPS Clerk / PO / RRB": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "BANKING",
+    "conducting_body": "IBPS",
+    "website": "https://www.ibps.in/"
+  },
+  "SBI PO / Clerk": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "BANKING",
+    "conducting_body": "SBI",
+    "website": "https://sbi.co.in/web/careers"
+  },
+  "Combined Graduate Level Exam": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "ADMINISTRATIVE",
+    "conducting_body": "A&N Administration",
+    "website": "https://andaman.gov.in/"
+  },
+  "Lower Division Clerk (LDC)": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "ADMINISTRATIVE",
+    "conducting_body": "A&N Administration",
+    "website": "https://andaman.gov.in/"
+  },
+  "Upper Division Clerk (UDC)": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "ADMINISTRATIVE",
+    "conducting_body": "A&N Administration",
+    "website": "https://andaman.gov.in/"
+  },
+  "Junior Secretariat Assistant / Stenographer": {
+    "state_or_ut": "Andaman and Nicobar Islands",
+    "category": "ADMINISTRATIVE",
+    "conducting_body": "A&N Administration",
+    "website": "https://andaman.gov.in/"
+  }
+}

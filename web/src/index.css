@@ -96,6 +96,42 @@ button, .btn-primary, .btn-gold {
   border-radius: 9999px;
 }
 
+/* Learning Center Styles */
+.learning-header {
+  padding: 3rem 0;
+}
+
+.tab-switcher {
+  display: flex;
+  gap: 0.5rem;
+  background: var(--ios-secondary);
+  padding: 0.25rem;
+  border-radius: 12px;
+  width: fit-content;
+  margin-top: 1rem;
+}
+
+.tab-switcher button {
+  padding: 0.5rem 1.25rem;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  background: transparent;
+  color: var(--text-secondary);
+  font-family: inherit;
+  font-weight: 600;
+}
+
+.tab-switcher button.active {
+  background: white;
+  color: var(--ios-olive);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.filter-controls select:focus, .filter-controls input:focus {
+  outline: 2px solid var(--ios-olive);
+  outline-offset: 2px;
+}
+
 /* Animations */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }

@@ -1,0 +1,31 @@
+{
+  "processing_summary": {
+    "total_questions": 537,
+    "processed_files": [
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 1.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 2.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 3.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 4.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 6.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 7.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 8.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 9.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section10.docx",
+      "K:\\H DRIVE\\Quantum Climb\\APPS\\VeerNXT\\DocumentEngine\\Example Resources\\SSC Stenographer Grade C&D\\4. 10 YEARS PYQ\\PAPER 3.pdf"
+    ],
+    "errors": [],
+    "timestamp": "2026-04-27T11:00:41.041590"
+  },
+  "question_breakdown": {
+    "Section 1.docx": 93,
+    "Section 2.docx": 93,
+    "Section 3.docx": 2,
+    "Section 4.docx": 1,
+    "Section 6.docx": 2,
+    "Section 7.docx": 50,
+    "Section 8.docx": 99,
+    "Section 9.docx": 99,
+    "Section10.docx": 97,
+    "PAPER 3.pdf": 1
+  }
+}

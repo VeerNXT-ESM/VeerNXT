@@ -4,7 +4,7 @@ import axios from 'axios';
 import { supabase } from '../lib/supabase';
 import { Check, ChevronRight, ChevronLeft, Loader2, Award, Target, BookOpen, Clock, Shield, Briefcase, GraduationCap, Heart } from 'lucide-react';
 
-const ENGINE_URL = 'https://veernxt-profiling-engine.onrender.com';
+const ENGINE_URL = import.meta.env.VITE_ENGINE_URL || 'https://veernxt-profiling-engine.onrender.com';
 
 const STEPS = [
   { id: 'identity', label: 'Identity', icon: Shield },
@@ -59,11 +59,31 @@ const Profiling = () => {
   useEffect(() => {
     const fetchUser = async () => {
       const { data: { session } } = await supabase.auth.getSession();
+      
+      // 1. Pre-fill from session (Auth metadata)
       if (session?.user) {
         setFormData(prev => ({
           ...prev,
-          fullName: session.user.user_metadata?.full_name || '',
-          email: session.user.email || ''
+          fullName: session.user.user_metadata?.full_name || prev.fullName,
+          email: session.user.email || prev.email
+        }));
+      }
+
+      // 2. Pre-fill from existing profile table
+      const userId = session?.user?.id || '00000000-0000-0000-0000-000000000000';
+      const { data: profile } = await supabase
+        .from('user_profiles')
+        .select('*')
+        .eq('id', userId)
+        .single();
+
+      if (profile && profile.raw_profile_data) {
+        console.log("Pre-filling with existing profile data:", profile.raw_profile_data);
+        setFormData(prev => ({
+          ...prev,
+          ...profile.raw_profile_data,
+          // Ensure display names match what's in the table if they differ
+          fullName: profile.full_name || profile.raw_profile_data.fullName
         }));
       }
     };
@@ -343,7 +363,7 @@ const Profiling = () => {
     <div className="profiling-wrapper">
       <div className="profiling-content animate-fade-in">
         <div className="profiling-hero">
-          <div style={{ textAlign: 'center', position: 'relative', z-index: 2 }}>
+          <div style={{ textAlign: 'center', position: 'relative', zIndex: 2 }}>
             <h1 style={{ fontSize: '2.5rem', tracking: '-0.03em', color: 'white' }}>Career Profiling</h1>
             <p style={{ color: 'rgba(255,255,255,0.8)' }}>Identify your strengths and match with ideal career tracks.</p>
           </div>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VeerNXT | Document Engine Preview</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+<body>
+    <div class="glass-bg"></div>
+    
+    <header>
+        <div class="container">
+            <div class="logo">Veer<span>NXT</span></div>
+            <nav>
+                <div class="subject-tag">SSC STENOGRAPHER GRADE C&D</div>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Intro Section -->
+        <section id="intro" class="hero">
+            <div class="hero-content">
+                <span class="badge freemium">Freemium</span>
+                <h1 id="intro-title">Loading Intro...</h1>
+                <div id="intro-preview" class="preview-text">
+                    Select a resource to begin your learning journey.
+                </div>
+                <button class="btn-primary" onclick="viewResource('intro')">Read Introduction</button>
+            </div>
+            <div class="hero-image">
+                <div class="abstract-shape"></div>
+            </div>
+        </section>
+
+        <!-- Resources Section -->
+        <section class="grid-section">
+            <div class="section-header">
+                <h2>Study Resources</h2>
+                <p>Guides and Textbooks for comprehensive learning</p>
+            </div>
+            <div id="resources-grid" class="card-grid">
+                <!-- Cards will be injected here -->
+            </div>
+        </section>
+
+        <!-- Quizzes Section -->
+        <section class="grid-section">
+            <div class="section-header">
+                <h2>Practice Arena</h2>
+                <p>Test your knowledge with PYQs and Mock Tests</p>
+            </div>
+            <div id="quizzes-grid" class="card-grid">
+                <!-- Quiz cards will be injected here -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal for Reading -->
+    <div id="reader-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="reader-body"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

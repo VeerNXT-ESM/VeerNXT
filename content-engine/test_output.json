@@ -1,0 +1,2173 @@
+{
+  "source_file": "Example Resources\\SSC Stenographer Grade C&D\\5. TEST SERIES-10\\Section 1.docx",
+  "question_count": 95,
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Which Indian state recently became the first to launch an exclusive \"AI-Powered Climate Risk Map\" for its coastal districts in 2026?",
+      "question_raw": "Q.1 Which Indian state recently became the first to launch an exclusive \"AI-Powered Climate Risk Map\" for its coastal districts in 2026?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Odisha"
+        },
+        {
+          "label": "B",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "C",
+          "text": "Gujarat"
+        },
+        {
+          "label": "D",
+          "text": "West Bengal"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question_text": "The 'Gaganyaan-3' mission, which saw a major milestone in early 2026, is India's project to:",
+      "question_raw": "Q.2 The 'Gaganyaan-3' mission, which saw a major milestone in early 2026, is India's project to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Land a rover on the South Pole of the Moon"
+        },
+        {
+          "label": "B",
+          "text": "Send a manned mission to the International Space Station"
+        },
+        {
+          "label": "C",
+          "text": "Send Indian astronauts into a Low Earth Orbit"
+        },
+        {
+          "label": "D",
+          "text": "Study the atmosphere of Venus"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question_text": "Who was recently appointed as the 'President of the World Bank' for a term starting in late 2025?",
+      "question_raw": "Q.3 Who was recently appointed as the 'President of the World Bank' for a term starting in late 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ajay Banga"
+        },
+        {
+          "label": "B",
+          "text": "Indermit Gill"
+        },
+        {
+          "label": "C",
+          "text": "Kristalina Georgieva"
+        },
+        {
+          "label": "D",
+          "text": "Gita Gopinath"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question_text": "The 'PM-FME' scheme, frequently in the news in 2026, is related to the formalization of:",
+      "question_raw": "Q.4 The 'PM-FME' scheme, frequently in the news in 2026, is related to the formalization of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Micro Food Processing Enterprises"
+        },
+        {
+          "label": "B",
+          "text": "Textile Manufacturing Units"
+        },
+        {
+          "label": "C",
+          "text": "Rural Medical Clinics"
+        },
+        {
+          "label": "D",
+          "text": "Digital Payment Gateways"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question_text": "What is the main objective of 'Open Market Operations' (OMO) conducted by the RBI?",
+      "question_raw": "Q.5 What is the main objective of 'Open Market Operations' (OMO) conducted by the RBI?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Regulate the export of gold"
+        },
+        {
+          "label": "B",
+          "text": "Control the liquidity in the economy"
+        },
+        {
+          "label": "C",
+          "text": "Fix the exchange rate of the Rupee"
+        },
+        {
+          "label": "D",
+          "text": "Provide loans to farmers"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question_text": "The 'World Development Report' is an annual publication of:",
+      "question_raw": "Q.6 The 'World Development Report' is an annual publication of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "IMF"
+        },
+        {
+          "label": "B",
+          "text": "UNDP"
+        },
+        {
+          "label": "C",
+          "text": "World Bank"
+        },
+        {
+          "label": "D",
+          "text": "WTO"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question_text": "Which type of curve represents the relationship between 'Inflation' and 'Unemployment'?",
+      "question_raw": "Q.7 Which type of curve represents the relationship between 'Inflation' and 'Unemployment'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laffer Curve"
+        },
+        {
+          "label": "B",
+          "text": "Phillips Curve"
+        },
+        {
+          "label": "C",
+          "text": "Lorenz Curve"
+        },
+        {
+          "label": "D",
+          "text": "Engel Curve"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question_text": "The 'Gig Economy' primarily refers to a labor market characterized by:",
+      "question_raw": "Q.8 The 'Gig Economy' primarily refers to a labor market characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lifetime government employment"
+        },
+        {
+          "label": "B",
+          "text": "Short-term contracts or freelance work"
+        },
+        {
+          "label": "C",
+          "text": "Heavy industrial manufacturing"
+        },
+        {
+          "label": "D",
+          "text": "Agricultural cooperatives"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question_text": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "question_raw": "Q.9 Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hyderabad"
+        },
+        {
+          "label": "B",
+          "text": "Pune"
+        },
+        {
+          "label": "C",
+          "text": "Bengaluru"
+        },
+        {
+          "label": "D",
+          "text": "Gurgaon"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question_text": "The 'FDI' limit in the 'Defense Sector' under the automatic route in India is currently:",
+      "question_raw": "Q.10 The 'FDI' limit in the 'Defense Sector' under the automatic route in India is currently:",
+      "options": [
+        {
+          "label": "A",
+          "text": "49%"
+        },
+        {
+          "label": "B",
+          "text": "51%"
+        },
+        {
+          "label": "C",
+          "text": "74%"
+        },
+        {
+          "label": "D",
+          "text": "100% Section 2: General Science"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question_text": "Which of the following is the 'Lightest Metal' known?",
+      "question_raw": "Q.11 Which of the following is the 'Lightest Metal' known?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lithium"
+        },
+        {
+          "label": "B",
+          "text": "Osmium"
+        },
+        {
+          "label": "C",
+          "text": "Sodium"
+        },
+        {
+          "label": "D",
+          "text": "Aluminum"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "question_text": "'Goitre' is a medical condition caused by the deficiency of which mineral?",
+      "question_raw": "Q.12 'Goitre' is a medical condition caused by the deficiency of which mineral?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Calcium"
+        },
+        {
+          "label": "C",
+          "text": "Iodine"
+        },
+        {
+          "label": "D",
+          "text": "Magnesium"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question_text": "What is the SI unit of 'Frequency'?",
+      "question_raw": "Q.13 What is the SI unit of 'Frequency'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Watt"
+        },
+        {
+          "label": "B",
+          "text": "Hertz"
+        },
+        {
+          "label": "C",
+          "text": "Tesla"
+        },
+        {
+          "label": "D",
+          "text": "Henry"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question_text": "The 'Newton’s Third Law of Motion' is best described as:",
+      "question_raw": "Q.14 The 'Newton’s Third Law of Motion' is best described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Law of Inertia"
+        },
+        {
+          "label": "B",
+          "text": "F=ma"
+        },
+        {
+          "label": "C",
+          "text": "Action and Reaction are equal and opposite"
+        },
+        {
+          "label": "D",
+          "text": "Universal Law of Gravitation"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question_text": "What is the chemical name of 'Plaster of Paris'?",
+      "question_raw": "Q.15 What is the chemical name of 'Plaster of Paris'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcium Sulphate Hemihydrate"
+        },
+        {
+          "label": "B",
+          "text": "Calcium Carbonate"
+        },
+        {
+          "label": "C",
+          "text": "Sodium Chloride"
+        },
+        {
+          "label": "D",
+          "text": "Magnesium Sulphate"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question_text": "Which part of the human brain is responsible for 'Memory' and 'Intelligence'?",
+      "question_raw": "Q.16 Which part of the human brain is responsible for 'Memory' and 'Intelligence'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cerebellum"
+        },
+        {
+          "label": "B",
+          "text": "Medulla Oblongata"
+        },
+        {
+          "label": "C",
+          "text": "Cerebrum"
+        },
+        {
+          "label": "D",
+          "text": "Thalamus"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question_text": "'Bronze' is an alloy of which two metals?",
+      "question_raw": "Q.17 'Bronze' is an alloy of which two metals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper and Zinc"
+        },
+        {
+          "label": "B",
+          "text": "Copper and Tin"
+        },
+        {
+          "label": "C",
+          "text": "Iron and Nickel"
+        },
+        {
+          "label": "D",
+          "text": "Lead and Tin"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question_text": "What is the average 'Lifespan of a Human Red Blood Cell' (RBC)?",
+      "question_raw": "Q.18 What is the average 'Lifespan of a Human Red Blood Cell' (RBC)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 days"
+        },
+        {
+          "label": "B",
+          "text": "60 days"
+        },
+        {
+          "label": "C",
+          "text": "120 days"
+        },
+        {
+          "label": "D",
+          "text": "200 days"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question_text": "Which gas is used in 'Neon Signs' for a bright reddish-orange glow?",
+      "question_raw": "Q.19 Which gas is used in 'Neon Signs' for a bright reddish-orange glow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helium"
+        },
+        {
+          "label": "B",
+          "text": "Argon"
+        },
+        {
+          "label": "C",
+          "text": "Neon"
+        },
+        {
+          "label": "D",
+          "text": "Krypton"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question_text": "'Ophthalmology' is the branch of medicine that deals with:",
+      "question_raw": "Q.20 'Ophthalmology' is the branch of medicine that deals with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skin diseases"
+        },
+        {
+          "label": "B",
+          "text": "Heart conditions"
+        },
+        {
+          "label": "C",
+          "text": "Eye disorders"
+        },
+        {
+          "label": "D",
+          "text": "Bone health Section 3: History"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question_text": "Who was the founder of the 'Khilji Dynasty'?",
+      "question_raw": "Q.21 Who was the founder of the 'Khilji Dynasty'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alauddin Khilji"
+        },
+        {
+          "label": "B",
+          "text": "Jalaluddin Khilji"
+        },
+        {
+          "label": "C",
+          "text": "Mubarak Shah"
+        },
+        {
+          "label": "D",
+          "text": "Khizr Khan"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": 22,
+      "question_text": "The famous 'Iron Pillar' at Mehrauli, Delhi, was built during the reign of:",
+      "question_raw": "Q.22 The famous 'Iron Pillar' at Mehrauli, Delhi, was built during the reign of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chandragupta II"
+        },
+        {
+          "label": "B",
+          "text": "Ashoka"
+        },
+        {
+          "label": "C",
+          "text": "Akbar"
+        },
+        {
+          "label": "D",
+          "text": "Kanishka"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question_text": "In which year did the 'Battle of Plassey' take place?",
+      "question_raw": "Q.23 In which year did the 'Battle of Plassey' take place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1757"
+        },
+        {
+          "label": "B",
+          "text": "1764"
+        },
+        {
+          "label": "C",
+          "text": "1857"
+        },
+        {
+          "label": "D",
+          "text": "1739"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question_text": "Who was the first 'Governor-General of Bengal'?",
+      "question_raw": "Q.24 Who was the first 'Governor-General of Bengal'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Robert Clive"
+        },
+        {
+          "label": "B",
+          "text": "Warren Hastings"
+        },
+        {
+          "label": "C",
+          "text": "Lord Cornwallis"
+        },
+        {
+          "label": "D",
+          "text": "Lord William Bentinck"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question_text": "The 'All India Muslim League' was founded in 1906 at which place?",
+      "question_raw": "Q.25 The 'All India Muslim League' was founded in 1906 at which place?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aligarh"
+        },
+        {
+          "label": "B",
+          "text": "Dhaka"
+        },
+        {
+          "label": "C",
+          "text": "Lucknow"
+        },
+        {
+          "label": "D",
+          "text": "Lahore"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question_text": "Which Mughal Emperor shifted the Mughal capital from Agra to Delhi?",
+      "question_raw": "Q.26 Which Mughal Emperor shifted the Mughal capital from Agra to Delhi?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Akbar"
+        },
+        {
+          "label": "B",
+          "text": "Jahangir"
+        },
+        {
+          "label": "C",
+          "text": "Shah Jahan"
+        },
+        {
+          "label": "D",
+          "text": "Aurangzeb"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question_text": "'Swaraj is my birthright and I shall have it' was the slogan of:",
+      "question_raw": "Q.27 'Swaraj is my birthright and I shall have it' was the slogan of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "label": "B",
+          "text": "Bal Gangadhar Tilak"
+        },
+        {
+          "label": "C",
+          "text": "Lala Lajpat Rai"
+        },
+        {
+          "label": "D",
+          "text": "Bipin Chandra Pal"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question_text": "The 'Rowlatt Act' was passed in which year?",
+      "question_raw": "Q.28 The 'Rowlatt Act' was passed in which year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1917"
+        },
+        {
+          "label": "B",
+          "text": "1919"
+        },
+        {
+          "label": "C",
+          "text": "1921"
+        },
+        {
+          "label": "D",
+          "text": "1923 Section 4: Geography"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question_text": "Which is the 'Largest Cold Desert' in the world?",
+      "question_raw": "Q.29 Which is the 'Largest Cold Desert' in the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sahara"
+        },
+        {
+          "label": "B",
+          "text": "Gobi"
+        },
+        {
+          "label": "C",
+          "text": "Antarctica"
+        },
+        {
+          "label": "D",
+          "text": "Atacama"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question_text": "The 'Tehri Dam' is located on which river?",
+      "question_raw": "Q.30 The 'Tehri Dam' is located on which river?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhagirathi"
+        },
+        {
+          "label": "B",
+          "text": "Alaknanda"
+        },
+        {
+          "label": "C",
+          "text": "Yamuna"
+        },
+        {
+          "label": "D",
+          "text": "Sutlej"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "question_text": "Which Indian state is the largest producer of 'Cotton'?",
+      "question_raw": "Q.31 Which Indian state is the largest producer of 'Cotton'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "label": "B",
+          "text": "Gujarat"
+        },
+        {
+          "label": "C",
+          "text": "Punjab"
+        },
+        {
+          "label": "D",
+          "text": "Madhya Pradesh"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": 32,
+      "question_text": "The 'Ten Degree Channel' separates which of the following?",
+      "question_raw": "Q.32 The 'Ten Degree Channel' separates which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "India and Sri Lanka"
+        },
+        {
+          "label": "B",
+          "text": "Andaman and Nicobar Islands"
+        },
+        {
+          "label": "C",
+          "text": "Lakshadweep and Maldives"
+        },
+        {
+          "label": "D",
+          "text": "North and South Korea"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question_text": "Which layer of the atmosphere contains the 'Ionosphere'?",
+      "question_raw": "Q.33 Which layer of the atmosphere contains the 'Ionosphere'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Troposphere"
+        },
+        {
+          "label": "B",
+          "text": "Stratosphere"
+        },
+        {
+          "label": "C",
+          "text": "Mesosphere"
+        },
+        {
+          "label": "D",
+          "text": "Thermosphere"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question_text": "'Mount Etna', a famous active volcano, is located in which country?",
+      "question_raw": "Q.34 'Mount Etna', a famous active volcano, is located in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japan"
+        },
+        {
+          "label": "B",
+          "text": "Iceland"
+        },
+        {
+          "label": "C",
+          "text": "Italy"
+        },
+        {
+          "label": "D",
+          "text": "Indonesia"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question_text": "Which river is known as the 'Lorrow of Bengal'?",
+      "question_raw": "Q.35 Which river is known as the 'Lorrow of Bengal'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kosi"
+        },
+        {
+          "label": "B",
+          "text": "Damodar"
+        },
+        {
+          "label": "C",
+          "text": "Hooghly"
+        },
+        {
+          "label": "D",
+          "text": "Mahanadi Section 5: Indian Polity"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question_text": "Which Article of the Constitution deals with the 'Right to Freedom of Religion'?",
+      "question_raw": "Q.36 Which Article of the Constitution deals with the 'Right to Freedom of Religion'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Articles 14–18"
+        },
+        {
+          "label": "B",
+          "text": "Articles 19–22"
+        },
+        {
+          "label": "C",
+          "text": "Articles 25–28"
+        },
+        {
+          "label": "D",
+          "text": "Articles 32–35"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question_text": "The 'Council of Ministers' is collectively responsible to the:",
+      "question_raw": "Q.37 The 'Council of Ministers' is collectively responsible to the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Prime Minister"
+        },
+        {
+          "label": "C",
+          "text": "Rajya Sabha"
+        },
+        {
+          "label": "D",
+          "text": "Lok Sabha"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question_text": "Who was the first 'Woman Speaker' of the Lok Sabha?",
+      "question_raw": "Q.38 Who was the first 'Woman Speaker' of the Lok Sabha?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sumitra Mahajan"
+        },
+        {
+          "label": "B",
+          "text": "Meira Kumar"
+        },
+        {
+          "label": "C",
+          "text": "Sarojini Naidu"
+        },
+        {
+          "label": "D",
+          "text": "Pratibha Patil"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question_text": "'Anti-Defection Law' is contained in which Schedule of the Constitution?",
+      "question_raw": "Q.39 'Anti-Defection Law' is contained in which Schedule of the Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8th Schedule"
+        },
+        {
+          "label": "B",
+          "text": "9th Schedule"
+        },
+        {
+          "label": "C",
+          "text": "10th Schedule"
+        },
+        {
+          "label": "D",
+          "text": "11th Schedule"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question_text": "What is the minimum age to be elected as a member of the 'Rajya Sabha'?",
+      "question_raw": "Q.40 What is the minimum age to be elected as a member of the 'Rajya Sabha'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 years"
+        },
+        {
+          "label": "B",
+          "text": "30 years"
+        },
+        {
+          "label": "C",
+          "text": "35 years"
+        },
+        {
+          "label": "D",
+          "text": "21 years"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question_text": "The 'Union List', 'State List', and 'Concurrent List' are part of which Schedule?",
+      "question_raw": "Q.41 The 'Union List', 'State List', and 'Concurrent List' are part of which Schedule?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5th Schedule"
+        },
+        {
+          "label": "B",
+          "text": "6th Schedule"
+        },
+        {
+          "label": "C",
+          "text": "7th Schedule"
+        },
+        {
+          "label": "D",
+          "text": "12th Schedule"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": 42,
+      "question_text": "Who can preside over a 'Joint Sitting' of the Parliament?",
+      "question_raw": "Q.42 Who can preside over a 'Joint Sitting' of the Parliament?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President"
+        },
+        {
+          "label": "B",
+          "text": "Chairman of Rajya Sabha"
+        },
+        {
+          "label": "C",
+          "text": "Speaker of Lok Sabha"
+        },
+        {
+          "label": "D",
+          "text": "Prime Minister Section 6: Static GK & General Awareness"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question_text": "'Davis Cup' is associated with which sport?",
+      "question_raw": "Q.43 'Davis Cup' is associated with which sport?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cricket"
+        },
+        {
+          "label": "B",
+          "text": "Tennis"
+        },
+        {
+          "label": "C",
+          "text": "Golf ) Football"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question_text": "Who was the first Indian to win a 'Nobel Prize in Literature'?",
+      "question_raw": "Q.44 Who was the first Indian to win a 'Nobel Prize in Literature'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C.V. Raman"
+        },
+        {
+          "label": "B",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "label": "C",
+          "text": "Amartya Sen"
+        },
+        {
+          "label": "D",
+          "text": "Mother Teresa"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question_text": "'Odissi' is the classical dance form of which state?",
+      "question_raw": "Q.45 'Odissi' is the classical dance form of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Andhra Pradesh"
+        },
+        {
+          "label": "B",
+          "text": "Odisha"
+        },
+        {
+          "label": "C",
+          "text": "West Bengal"
+        },
+        {
+          "label": "D",
+          "text": "Bihar"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "question_text": "Where is the headquarters of the 'International Atomic Energy Agency' (IAEA)?",
+      "question_raw": "Q.46 Where is the headquarters of the 'International Atomic Energy Agency' (IAEA)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vienna"
+        },
+        {
+          "label": "B",
+          "text": "Geneva"
+        },
+        {
+          "label": "C",
+          "text": "New York"
+        },
+        {
+          "label": "D",
+          "text": "Brussels"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question_text": "Which day is observed as 'National Voters' Day' in India?",
+      "question_raw": "Q.47 Which day is observed as 'National Voters' Day' in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12th January"
+        },
+        {
+          "label": "B",
+          "text": "25th January"
+        },
+        {
+          "label": "C",
+          "text": "26th November"
+        },
+        {
+          "label": "D",
+          "text": "10th December"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "question_text": "The book 'An Era of Darkness' was written by:",
+      "question_raw": "Q.48 The book 'An Era of Darkness' was written by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vikram Seth"
+        },
+        {
+          "label": "B",
+          "text": "Shashi Tharoor"
+        },
+        {
+          "label": "C",
+          "text": "Arundhati Roy"
+        },
+        {
+          "label": "D",
+          "text": "Khushwant Singh"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 49,
+      "question_text": "'Yakshagana' is a traditional theater form of which state?",
+      "question_raw": "Q.49 'Yakshagana' is a traditional theater form of which state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kerala"
+        },
+        {
+          "label": "B",
+          "text": "Karnataka"
+        },
+        {
+          "label": "C",
+          "text": "Tamil Nadu"
+        },
+        {
+          "label": "D",
+          "text": "Maharashtra"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "question_text": "Which is the 'Deepest Port' in India?",
+      "question_raw": "Q.50 Which is the 'Deepest Port' in India?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mumbai Port"
+        },
+        {
+          "label": "B",
+          "text": "Kandla Port"
+        },
+        {
+          "label": "C",
+          "text": "Visakhapatnam Port"
+        },
+        {
+          "label": "D",
+          "text": "Chennai Port General Intelligence & Reasoning"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 1,
+      "question_text": "Select the option that is related to the third term in the same way as the second term is related to the first term. Ammeter : Current :: Hygrometer : ?",
+      "question_raw": "Q.1 Select the option that is related to the third term in the same way as the second term is related to the first term.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speed"
+        },
+        {
+          "label": "B",
+          "text": "Humidity"
+        },
+        {
+          "label": "C",
+          "text": "Pressure"
+        },
+        {
+          "label": "D",
+          "text": "Density"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question_text": "Select the odd word out of the given alternatives.",
+      "question_raw": "Q.2 Select the odd word out of the given alternatives.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dispur"
+        },
+        {
+          "label": "B",
+          "text": "Kohima"
+        },
+        {
+          "label": "C",
+          "text": "Shillong"
+        },
+        {
+          "label": "D",
+          "text": "Darjeeling"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question_text": "Select the option that is related to the third number in the same way as the second number is related to the first number.",
+      "question_raw": "Q.3 Select the option that is related to the third number in the same way as the second number is related to the first number.",
+      "options": [],
+      "answer": "D"
+    },
+    {
+      "id": 16,
+      "question_text": ": 68 :: 28 : ?",
+      "question_raw": "16 : 68 :: 28 : ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "119"
+        },
+        {
+          "label": "B",
+          "text": "112"
+        },
+        {
+          "label": "C",
+          "text": "124"
+        },
+        {
+          "label": "D",
+          "text": "108"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question_text": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd one.",
+      "question_raw": "Q.4 Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd one.",
+      "options": [
+        {
+          "label": "A",
+          "text": "DGLS"
+        },
+        {
+          "label": "B",
+          "text": "MPSW"
+        },
+        {
+          "label": "C",
+          "text": "KNSX"
+        },
+        {
+          "label": "D",
+          "text": "HKNQ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question_text": "Select the option in which the words share the same relationship as that shared by the given pair of words.   Architect : House::",
+      "question_raw": "Q.5 Select the option in which the words share the same relationship as that shared by the given pair of words.   Architect : House::",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sculptor : Statue"
+        },
+        {
+          "label": "B",
+          "text": "Doctor : Medicine"
+        },
+        {
+          "label": "C",
+          "text": "Teacher : Student"
+        },
+        {
+          "label": "D",
+          "text": "Lawyer : Court"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question_text": "In a certain code language, 'PEAR' is written as '7519' and 'TOIL' is written as '2683'. How will 'LATE' be written in that code?",
+      "question_raw": "Q.6 In a certain code language, 'PEAR' is written as '7519' and 'TOIL' is written as '2683'. How will 'LATE' be written in that code?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3125"
+        },
+        {
+          "label": "B",
+          "text": "3527"
+        },
+        {
+          "label": "C",
+          "text": "3127"
+        },
+        {
+          "label": "D",
+          "text": "3215"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question_text": "If 'CANDLE' is coded as 'EDPFNC', how will 'MODERN' be coded in that language?",
+      "question_raw": "Q.7 If 'CANDLE' is coded as 'EDPFNC', how will 'MODERN' be coded in that language?",
+      "options": [
+        {
+          "label": "A",
+          "text": "OQFGTN"
+        },
+        {
+          "label": "B",
+          "text": "OQFGTP"
+        },
+        {
+          "label": "C",
+          "text": "OPEFTP"
+        },
+        {
+          "label": "D",
+          "text": "OQEGTP"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "question_text": "In a code language, 'SKY' is coded as '82' and 'SEA' is coded as '56'. How will 'OCEAN' be coded in that language?",
+      "question_raw": "Q.8 In a code language, 'SKY' is coded as '82' and 'SEA' is coded as '56'. How will 'OCEAN' be coded in that language?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100"
+        },
+        {
+          "label": "B",
+          "text": "98"
+        },
+        {
+          "label": "C",
+          "text": "112"
+        },
+        {
+          "label": "D",
+          "text": "105"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question_text": "Select the number that can replace the question mark (?) in the following series. 11, 13, 17, 23, 31, 41, ?",
+      "question_raw": "Q.9 Select the number that can replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "label": "A",
+          "text": "51"
+        },
+        {
+          "label": "B",
+          "text": "53"
+        },
+        {
+          "label": "C",
+          "text": "55"
+        },
+        {
+          "label": "D",
+          "text": "57"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question_text": "Select the letter-cluster that can replace the question mark (?) in the following series. ADG, GJM, MPS, ?",
+      "question_raw": "Q.10 Select the letter-cluster that can replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "label": "A",
+          "text": "SVY"
+        },
+        {
+          "label": "B",
+          "text": "TWZ"
+        },
+        {
+          "label": "C",
+          "text": "RUX"
+        },
+        {
+          "label": "D",
+          "text": "SUX"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question_text": "Find the missing number in the following matrix.",
+      "question_raw": "Q.11 Find the missing number in the following matrix.",
+      "options": [
+        {
+          "label": "A",
+          "text": "45"
+        },
+        {
+          "label": "B",
+          "text": "54"
+        },
+        {
+          "label": "C",
+          "text": "63"
+        },
+        {
+          "label": "D",
+          "text": "48"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": 12,
+      "question_text": "Statements: I. All apples are red. II. Some red things are fruits. Conclusions: I. Some apples are fruits. II. No apple is a fruit.",
+      "question_raw": "Q.12 Statements:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only conclusion I follows"
+        },
+        {
+          "label": "B",
+          "text": "Only conclusion II follows"
+        },
+        {
+          "label": "C",
+          "text": "Either conclusion I or II follows"
+        },
+        {
+          "label": "D",
+          "text": "Neither conclusion I nor II follows"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question_text": "Which Venn diagram best represents the relationship between: Parents, Mothers, Fathers?",
+      "question_raw": "Q.13 Which Venn diagram best represents the relationship between:",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question_text": "Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
+      "question_raw": "Q.14 Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mother"
+        },
+        {
+          "label": "B",
+          "text": "Grandmother"
+        },
+        {
+          "label": "C",
+          "text": "Sister-in-law"
+        },
+        {
+          "label": "D",
+          "text": "Mother-in-law"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question_text": "A man starts walking towards the North. After walking 30m, he turns left and walks 40m. He then turns left and walks 30m. How far and in which direction is he from his starting point?",
+      "question_raw": "Q.15 A man starts walking towards the North. After walking 30m, he turns left and walks 40m. He then turns left and walks 30m. How far and in which direction is he from his starting point?",
+      "options": [
+        {
+          "label": "A",
+          "text": "40m, West"
+        },
+        {
+          "label": "B",
+          "text": "40m, North"
+        },
+        {
+          "label": "C",
+          "text": "70m, East"
+        },
+        {
+          "label": "D",
+          "text": "30m, West"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question_text": "If '+' means '÷', '−' means '+', '×' means '−' and '÷' means '×', then what is the value of: 24+6÷2−15×10",
+      "question_raw": "Q.16 If '+' means '÷', '−' means '+', '×' means '−' and '÷' means '×', then what is the value of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "13"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "18"
+        },
+        {
+          "label": "D",
+          "text": "24"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question_text": "The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages was four times the father's age at that time. The present age of the father is:",
+      "question_raw": "Q.17 The sum of the ages of a father and his son is 45 years. Five years ago, the product of their ages was four times the father's age at that time. The present age of the father is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "35"
+        },
+        {
+          "label": "B",
+          "text": "36"
+        },
+        {
+          "label": "C",
+          "text": "39"
+        },
+        {
+          "label": "D",
+          "text": "40"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question_text": "A square sheet of paper along the dotted line successively along the direction shown and its punched at middle. How would the paper look when unfolded?",
+      "question_raw": "Q.18 A square sheet of paper along the dotted line successively along the direction shown and its punched at middle. How would the paper look when unfolded?",
+      "options": [],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question_text": "A park has an average number of 420 visitors on Sunday and 120 on other days. The average number of visitors per day in a month of 30 days beginning with Sunday, is: 170 160 270 150",
+      "question_raw": "Q.19   A park has an average number of 420 visitors on Sunday and 120 on other days. The average number of visitors per day in a month of 30 days beginning with Sunday, is:",
+      "options": [],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question_text": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+      "question_raw": "Q.20 Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+      "options": [],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question_text": "Arrange the following words in a logical and meaningful order. Probation 2. Interview 3. Selection 4. Appointment 5. Advertisement 6. Application",
+      "question_raw": "Q.21 Arrange the following words in a logical and meaningful order.",
+      "options": [
+        {
+          "label": "A",
+          "text": "5, 6, 2, 3, 4, 1"
+        },
+        {
+          "label": "B",
+          "text": "5, 6, 3, 2, 4, 1"
+        },
+        {
+          "label": "C",
+          "text": "6, 5, 2, 3, 4, 1"
+        },
+        {
+          "label": "D",
+          "text": "5, 6, 2, 3, 1, 4"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": 22,
+      "question_text": "In a row of 40 students, R is 11th from the right end and M is 14th from the left end. How many students are between R and M?",
+      "question_raw": "Q.22 In a row of 40 students, R is 11th from the right end and M is 14th from the left end. How many students are between R and M?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15"
+        },
+        {
+          "label": "B",
+          "text": "16"
+        },
+        {
+          "label": "C",
+          "text": "14"
+        },
+        {
+          "label": "D",
+          "text": "13"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question_text": "Which word CANNOT be formed from the letters of the word 'CONSOLIDATE'?",
+      "question_raw": "Q.23 Which word CANNOT be formed from the letters of the word 'CONSOLIDATE'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "LENTIL"
+        },
+        {
+          "label": "B",
+          "text": "DETAIL"
+        },
+        {
+          "label": "C",
+          "text": "SOLID"
+        },
+        {
+          "label": "D",
+          "text": "SLATE"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question_text": "If 1st January 2024 was a Monday, what day of the week was 1st January 2025?",
+      "question_raw": "Q.24 If 1st January 2024 was a Monday, what day of the week was 1st January 2025?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tuesday"
+        },
+        {
+          "label": "B",
+          "text": "Wednesday"
+        },
+        {
+          "label": "C",
+          "text": "Thursday"
+        },
+        {
+          "label": "D",
+          "text": "Monday"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question_text": "Select the option that is different from the others (Odd one out).",
+      "question_raw": "Q.25 Select the option that is different from the others (Odd one out).",
+      "options": [
+        {
+          "label": "A",
+          "text": "12-144"
+        },
+        {
+          "label": "B",
+          "text": "13-169"
+        },
+        {
+          "label": "C",
+          "text": "15-225"
+        },
+        {
+          "label": "D",
+          "text": "18-320"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question_text": "Arrange the following words in the order in which they appear in an English dictionary. Magnify 2. Magnetic 3. Moderate 4. Magical 5. Martial",
+      "question_raw": "Q.26 Arrange the following words in the order in which they appear in an English dictionary.",
+      "options": [
+        {
+          "label": "A",
+          "text": "4, 2, 1, 5, 3"
+        },
+        {
+          "label": "B",
+          "text": "4, 1, 2, 5, 3"
+        },
+        {
+          "label": "C",
+          "text": "2, 4, 1, 5, 3"
+        },
+        {
+          "label": "D",
+          "text": "4, 2, 1, 3, 5"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question_text": "From the given alternatives, select the word which CANNOT be formed using the letters of the given word: 'TRANSPORT'",
+      "question_raw": "Q.27 From the given alternatives, select the word which CANNOT be formed using the letters of the given word:",
+      "options": [
+        {
+          "label": "A",
+          "text": "TRAP"
+        },
+        {
+          "label": "B",
+          "text": "SPORT"
+        },
+        {
+          "label": "C",
+          "text": "START"
+        },
+        {
+          "label": "D",
+          "text": "TRUST"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 28,
+      "question_text": "From the given alternatives, select the word which CAN be formed using the letters of the given word: 'PREPARATION'",
+      "question_raw": "Q.28 From the given alternatives, select the word which CAN be formed using the letters of the given word:",
+      "options": [
+        {
+          "label": "A",
+          "text": "REPEAT"
+        },
+        {
+          "label": "B",
+          "text": "PARTITION"
+        },
+        {
+          "label": "C",
+          "text": "PARROT"
+        },
+        {
+          "label": "D",
+          "text": "PERSON Section 10: Logic & Missing Figures"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question_text": "Which two numbers should be interchanged to make the given equation correct?",
+      "question_raw": "Q.29 Which two numbers should be interchanged to make the given equation correct?",
+      "options": [],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question_text": "× 4− (60 ÷ 5) + 15 + (33÷ 3)× 2 = 59",
+      "question_raw": "6 × 4− (60 ÷ 5) + 15 + (33÷ 3)× 2 = 59",
+      "options": [],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question_text": "and 5",
+      "question_raw": "2 and 5",
+      "options": [],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question_text": "and 4",
+      "question_raw": "2 and 4",
+      "options": [],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question_text": "and 5",
+      "question_raw": "6 and 5",
+      "options": [],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question_text": "and 15",
+      "question_raw": "5 and 15",
+      "options": [],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question_text": "In a certain code, 'RAIN' is written as 'OHBQ'. How is 'SUMMER' written in that code?",
+      "question_raw": "Q.30 In a certain code, 'RAIN' is written as 'OHBQ'. How is 'SUMMER' written in that code?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SFNNVT"
+        },
+        {
+          "label": "B",
+          "text": "SFNNTV"
+        },
+        {
+          "label": "C",
+          "text": "RFMMVT"
+        },
+        {
+          "label": "D",
+          "text": "SFMMVT"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "question_text": "Find the odd pair of numbers.",
+      "question_raw": "Q.31 Find the odd pair of numbers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "14 - 196"
+        },
+        {
+          "label": "B",
+          "text": "12 - 144"
+        },
+        {
+          "label": "C",
+          "text": "17 - 289"
+        },
+        {
+          "label": "D",
+          "text": "15 - 255"
+        }
+      ],
+      "answer": null
+    },
+    {
+      "id": 32,
+      "question_text": "In a row of boys, Srinath is 7th from the left and Venkat is 12th from the right. If they interchange their positions, Srinath becomes 22nd from the left. How many boys are there in the row?",
+      "question_raw": "Q.32 In a row of boys, Srinath is 7th from the left and Venkat is 12th from the right. If they interchange their positions, Srinath becomes 22nd from the left. How many boys are there in the row?",
+      "options": [
+        {
+          "label": "A",
+          "text": "33"
+        },
+        {
+          "label": "B",
+          "text": "31"
+        },
+        {
+          "label": "C",
+          "text": "34"
+        },
+        {
+          "label": "D",
+          "text": "28"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question_text": "A, B, C, D and E are five friends. A is shorter than B but taller than E. C is the tallest. D is slightly shorter than B and slightly taller than A. Who is the second shortest?",
+      "question_raw": "Q.33 A, B, C, D and E are five friends. A is shorter than B but taller than E. C is the tallest. D is slightly shorter than B and slightly taller than A. Who is the second shortest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "B"
+        },
+        {
+          "label": "B",
+          "text": "D"
+        },
+        {
+          "label": "C",
+          "text": "A"
+        },
+        {
+          "label": "D",
+          "text": "E"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question_text": "Identify the number of square in the given figure.",
+      "question_raw": "Q.34 Identify the number of square in the given figure.",
+      "options": [
+        {
+          "label": "A",
+          "text": "120"
+        },
+        {
+          "label": "B",
+          "text": "60"
+        },
+        {
+          "label": "C",
+          "text": "50"
+        },
+        {
+          "label": "D",
+          "text": "55"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question_text": "A, B, C, D, E, F and G are sitting around a circular table facing the centre (but not necessarily in the same order). B sits to the immediate left of E. C sits to the immediate left of F. F sits second to the left of G. D sits third to the left of E. Who sits third to the left of A? F B G E",
+      "question_raw": "Q.35 A, B, C, D, E, F and G are sitting around a circular table facing the centre (but not necessarily in the same order). B sits to the immediate left of E. C sits to the immediate left of F. F sits second to the left of G. D sits third to the left of E. Who sits third to the left of A?",
+      "options": [],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question_text": "Select the option that will replace the question mark (?) and complete the given figure series.",
+      "question_raw": "Q.36 Select the option that will replace the question mark (?) and complete the given figure series.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question_text": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+      "question_raw": "Q.37 Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
+      "options": [
+        {
+          "label": "A",
+          "text": ""
+        },
+        {
+          "label": "B",
+          "text": ""
+        },
+        {
+          "label": "C",
+          "text": ""
+        },
+        {
+          "label": "D",
+          "text": ""
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question_text": "A shepherd had 17 sheep. All but nine died. How many sheep are left?",
+      "question_raw": "Q.38 A shepherd had 17 sheep. All but nine died. How many sheep are left?",
+      "options": [
+        {
+          "label": "A",
+          "text": "17"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "0"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question_text": "If 'A' denotes 'add', 'B' denotes 'subtract', 'C' denotes 'multiply' and 'D' denotes 'divide', then what is the value of:",
+      "question_raw": "Q.39 If 'A' denotes 'add', 'B' denotes 'subtract', 'C' denotes 'multiply' and 'D' denotes 'divide', then what is the value of:",
+      "options": [],
+      "answer": "B"
+    }
+  ],
+  "answer_lookup": {
+    "100": "B",
+    "20": "C",
+    "3": "D",
+    "10": "B",
+    "44": "B",
+    "0": "A",
+    "99": "A",
+    "1": "A",
+    "120": "D",
+    "25": "A",
+    "2": "C",
+    "9": "B",
+    "4": "C",
+    "5": "B",
+    "6": "C",
+    "7": "D",
+    "8": "C",
+    "12": "A",
+    "13": "B",
+    "14": "B",
+    "15": "A",
+    "16": "A",
+    "17": "A",
+    "18": "B",
+    "19": "A",
+    "22": "B",
+    "23": "A",
+    "24": "B",
+    "26": "B",
+    "27": "D",
+    "28": "B",
+    "29": "A",
+    "30": "A",
+    "32": "B",
+    "33": "C",
+    "34": "B",
+    "35": "B",
+    "36": "B",
+    "37": "B",
+    "38": "B",
+    "39": "B",
+    "40": "C",
+    "42": "B",
+    "43": "A",
+    "45": "B",
+    "46": "B",
+    "47": "B",
+    "48": "C",
+    "49": "C",
+    "50": "B",
+    "52": "C",
+    "53": "B",
+    "54": "B",
+    "55": "C",
+    "56": "A",
+    "57": "B",
+    "58": "B",
+    "59": "A",
+    "60": "B",
+    "62": "B",
+    "63": "B",
+    "64": "A",
+    "65": "A",
+    "66": "A",
+    "67": "C",
+    "68": "A",
+    "69": "B",
+    "70": "A",
+    "72": "A",
+    "73": "A",
+    "74": "B",
+    "75": "B",
+    "76": "B",
+    "77": "B",
+    "78": "B",
+    "79": "B",
+    "80": "B",
+    "82": "B",
+    "83": "B",
+    "84": "B",
+    "85": "B",
+    "86": "B",
+    "87": "B",
+    "88": "A",
+    "89": "B",
+    "90": "B",
+    "92": "B",
+    "93": "B",
+    "94": "B",
+    "95": "B",
+    "96": "A",
+    "97": "B",
+    "98": "B"
+  }
+}

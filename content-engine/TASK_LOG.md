@@ -1,0 +1,10 @@
+- [x] Read and parse new info documents (Central list, State list, UT list)
+- [x] Generate `master_exam_registry.json`
+- [x] Update database schema in `schema.sql`
+- [x] Apply schema changes to Supabase
+- [x] Update `textbook_processor.py` with metadata support
+- [x] Update `unified_parser.py` with metadata support
+- [x] Refactor `batch_processor.py` to be recursive and registry-aware
+- [x] Run full batch processing (`batch_processor.py`)
+- [x] Upload results to Supabase (`supabase_uploader.py`)
+- [x] Verify ingestion in Supabase dashboard
