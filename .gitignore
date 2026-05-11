@@ -1,20 +1,8 @@
 node_modules/
-.env
-.env.local
-.DS_Store
-dist/
 build/
-.next/
-.vercel/
+dist/
+coverage/
+.DS_Store
 *.log
-.gemini/
-.venv/
-venv/
-__pycache__/
-
-# Content Engine
-master_payload.json
-Example Resources/
-
-# Web
-public/hero/
+.env*
+!.env.example

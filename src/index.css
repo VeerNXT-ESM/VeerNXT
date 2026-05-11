@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Quicksand:wght@600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-cta: "Quicksand", sans-serif;
+  --color-ios-bg: #FFFFFF;
+  --color-ios-secondary: #F2F2F7;
+  --color-ios-olive: #4b6b32;
+  --color-ios-text: #333333;
+  --radius-ios: 20px;
+  --shadow-ios: 0 10px 40px rgba(0, 0, 0, 0.04);
+}
+
+@layer base {
+  body {
+    @apply bg-ios-bg text-ios-text font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight;
+  }
+
+  button, .ios-btn-primary, .ios-btn-secondary {
+    @apply font-cta;
+  }
+}
+
+.glass-header {
+  @apply sticky top-0 z-50;
+  backdrop-filter: blur(20px);
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.ios-card {
+  @apply bg-white border border-gray-100;
+  border-radius: var(--radius-ios);
+  box-shadow: var(--shadow-ios);
+}
+
+.ios-pill {
+  border-radius: 9999px;
+}
+
+.ios-btn-primary {
+  @apply bg-ios-olive text-white font-semibold transition-all hover:opacity-90 active:scale-95;
+}
+
+.ios-btn-secondary {
+  @apply bg-ios-secondary text-ios-olive font-semibold transition-all hover:opacity-90 active:scale-95;
+}
