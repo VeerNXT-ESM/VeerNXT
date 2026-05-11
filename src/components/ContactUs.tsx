@@ -58,7 +58,7 @@ export const ContactUs = () => {
                   </div>
                   <div>
                     <h4 className="text-xs font-black text-gray-400 tracking-widest mb-1">Phone Numbers</h4>
-                    <p className="text-base font-bold text-gray-800">+91 +91-8883336753</p>
+                    <p className="text-base font-bold text-gray-800">+91-7889530025</p>
                   </div>
                 </div>
 
@@ -69,7 +69,7 @@ export const ContactUs = () => {
                   </div>
                   <div>
                     <h4 className="text-xs font-black text-gray-400 tracking-widest mb-1">Email Addresses</h4>
-                    <p className="text-base font-bold text-gray-800">support@projectveer.org</p>
+                    <p className="text-base font-bold text-gray-800">support@veernxt.in</p>
                   </div>
                 </div>
 
@@ -81,7 +81,7 @@ export const ContactUs = () => {
                   <div>
                     <h4 className="text-xs font-black text-gray-400 tracking-widest mb-1">Our Address</h4>
                     <p className="text-sm font-bold text-gray-800 leading-relaxed">
-                      6th Floor, Cosmos Vijay, Shivaji Path, Opp Jagdish Book Depot, Navpada, Thane (West), Maharashtra - 400 601.
+                      225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079
                     </p>
                   </div>
                 </div>
