@@ -403,61 +403,54 @@ const Workflow = () => {
 const Footer = () => {
   const { t } = useTranslation();
   return (
-    <footer className="bg-ios-bg pt-20 pb-10 border-t border-gray-100">
+    <footer className="bg-ios-bg pt-12 pb-8 border-t border-gray-100">
       <div className="max-w-7xl mx-auto px-6">
-        <div className="grid md:grid-cols-4 gap-12 mb-16">
+        <div className="grid md:grid-cols-3 gap-12 mb-12">
+          {/* Column 1: About */}
           <div className="space-y-6">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 bg-ios-olive rounded-lg flex items-center justify-center text-white font-bold">V</div>
               <span className="text-xl font-bold tracking-tight">VeerNXT</span>
             </div>
-            <p className="text-sm text-gray-400 font-light leading-relaxed">
+            <p className="text-sm text-gray-400 font-light leading-relaxed max-w-xs">
               {t('footer.desc')}
             </p>
           </div>
 
+          {/* Column 2: Address */}
           <div>
-            <h4 className="font-bold mb-6 text-sm underline decoration-ios-olive decoration-2 underline-offset-4 tracking-tighter">{t('footer.links.title')}</h4>
-            <ul className="space-y-4 text-sm text-gray-400 font-medium tracking-wide">
-              <li><Link to="/" className="hover:text-ios-olive transition-colors">{t('footer.links.home')}</Link></li>
-              <li><Link to="/services/career-guidance" className="hover:text-ios-olive transition-colors">{t('footer.links.services')}</Link></li>
-              <li><Link to="/about-us" className="hover:text-ios-olive transition-colors">{t('footer.links.about')}</Link></li>
-              <li><Link to="/contact-us" className="hover:text-ios-olive transition-colors">{t('footer.links.contact')}</Link></li>
-            </ul>
+            <h4 className="font-bold mb-6 text-sm underline decoration-ios-olive decoration-2 underline-offset-4">{t('footer.address.title')}</h4>
+            <div className="flex items-start gap-3 text-sm text-gray-400 font-light max-w-xs">
+              <MapPin className="w-5 h-5 text-ios-olive flex-shrink-0" />
+              <span>{t('footer.address.value')}</span>
+            </div>
           </div>
 
-          <div>
-            <h4 className="font-bold mb-6 text-sm underline decoration-ios-olive decoration-2 underline-offset-4">Veteran Sewa Kendra</h4>
-            <ul className="space-y-4 text-sm text-gray-400 font-medium tracking-wide">
-              <li className="hover:text-ios-olive cursor-pointer transition-colors">ECHS Application</li>
-              <li className="hover:text-ios-olive cursor-pointer transition-colors">Resume Service</li>
-              <li className="hover:text-ios-olive cursor-pointer transition-colors">Important Contacts</li>
-              <li className="hover:text-ios-olive cursor-pointer transition-colors">Community Safety</li>
-              <li className="hover:text-ios-olive cursor-pointer transition-colors">Welfare Schemes</li>
-            </ul>
-          </div>
-
-          <div>
-             <h4 className="font-bold mb-6 text-sm underline decoration-ios-olive decoration-2 underline-offset-4">{t('footer.address.title')}</h4>
+          {/* Column 3: Contact & Social stacked */}
+          <div className="space-y-6">
+            <h4 className="font-bold mb-6 text-sm underline decoration-ios-olive decoration-2 underline-offset-4">Connect with Us</h4>
             <ul className="space-y-4 text-sm text-gray-400 font-light">
-              <li className="flex items-start gap-3">
-                <MapPin className="w-5 h-5 text-ios-olive flex-shrink-0" />
-                <span>{t('footer.address.value')}</span>
-              </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-ios-olive" />
-                <span className="hover:text-ios-olive cursor-pointer transition-colors">support@projectveer.org</span>
+                <span className="hover:text-ios-olive cursor-pointer transition-colors">support@veernxt.in</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-ios-olive" />
-                <span className="hover:text-ios-olive cursor-pointer transition-colors">+91-8883336753</span>
+                <span className="hover:text-ios-olive cursor-pointer transition-colors">+91-7889530025</span>
               </li>
             </ul>
           </div>
         </div>
         
-        <div className="pt-10 border-t border-gray-100 text-center text-xs text-gray-300">
-          {t('footer.copy')}
+        <div className="pt-8 border-t border-gray-100 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-400">
+          <div className="font-medium">
+            {t('footer.copy')}
+          </div>
+          <div className="flex gap-6 font-bold uppercase tracking-widest">
+            <Link to="/privacy" className="hover:text-ios-olive transition-colors">Privacy Policy</Link>
+            <Link to="/support" className="hover:text-ios-olive transition-colors">Support</Link>
+            <Link to="/legal" className="hover:text-ios-olive transition-colors">Legal</Link>
+          </div>
         </div>
       </div>
     </footer>
