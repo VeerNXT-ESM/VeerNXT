@@ -1,46 +1,55 @@
 import React from 'react';
-import { HelpCircle, Mail, MessageSquare, Phone } from 'lucide-react';
+import { Mail, Phone, MapPin, ShieldCheck } from 'lucide-react';
 
 export const Support = () => {
   return (
-    <div className="min-h-screen bg-ios-bg pt-32 pb-20 px-6">
-      <div className="max-w-4xl mx-auto space-y-12">
-        <div className="space-y-4">
-          <div className="w-12 h-12 bg-ios-olive/10 rounded-2xl flex items-center justify-center text-ios-olive">
-            <HelpCircle className="w-6 h-6" />
-          </div>
-          <h1 className="text-4xl font-extrabold tracking-tight">Support Center</h1>
-          <p className="text-gray-500">How can we help you today?</p>
-        </div>
+    <div className="animate-fade-in" style={{ padding: '8rem 2rem 4rem 2rem', maxWidth: '800px', margin: '0 auto' }}>
+      <div className="bg-white rounded-[2.5rem] shadow-sm border border-gray-100" style={{ padding: '3rem' }}>
+        <h1 style={{ fontSize: '2.5rem', fontWeight: '800', marginBottom: '1rem', color: 'var(--ios-olive)' }}>Support & Contact</h1>
+        <p style={{ color: '#666', marginBottom: '3rem', fontSize: '1.1rem' }}>
+          We're here to help you on your second mission. If you have any questions regarding our platform, profiling engine, or preparation materials, please reach out to us.
+        </p>
 
-        <div className="grid md:grid-cols-2 gap-6">
-          <div className="ios-card p-8 space-y-4 hover:shadow-xl transition-all group">
-            <Mail className="w-8 h-8 text-ios-olive group-hover:scale-110 transition-transform" />
-            <h3 className="text-xl font-bold">Email Support</h3>
-            <p className="text-gray-500 text-sm">Reach out to our team for general inquiries and technical assistance.</p>
-            <p className="font-bold text-ios-olive">support@veernxt.in</p>
-          </div>
-
-          <div className="ios-card p-8 space-y-4 hover:shadow-xl transition-all group">
-            <Phone className="w-8 h-8 text-ios-olive group-hover:scale-110 transition-transform" />
-            <h3 className="text-xl font-bold">Phone Support</h3>
-            <p className="text-gray-500 text-sm">Our helpdesk is available Monday to Friday, 9:00 AM - 6:00 PM.</p>
-            <p className="font-bold text-ios-olive">+91-7889530025</p>
-          </div>
-        </div>
-
-        <div className="ios-card p-8 space-y-6 bg-white/50 backdrop-blur-sm">
-          <h2 className="text-2xl font-bold">Frequently Asked Questions</h2>
-          <div className="space-y-6">
-            <div className="space-y-2">
-              <h4 className="font-bold text-gray-900">How do I access the profiling tool?</h4>
-              <p className="text-gray-500 text-sm leading-relaxed">Login using your candidate credentials and navigate to the "Profile" section to begin your assessment.</p>
+        <div style={{ display: 'grid', gap: '2rem' }}>
+          <div style={{ display: 'flex', gap: '1.5rem', alignItems: 'flex-start' }}>
+            <div style={{ background: 'var(--ios-secondary)', padding: '1rem', borderRadius: '16px', color: 'var(--ios-olive)' }}>
+              <Mail size={24} />
             </div>
-            <div className="space-y-2">
-              <h4 className="font-bold text-gray-900">Where can I see my Sewa Nidhi balance?</h4>
-              <p className="text-gray-500 text-sm leading-relaxed">The Financial Guidance module provides a calculator and dashboard to manage your transition funds.</p>
+            <div>
+              <h3 style={{ fontSize: '1.1rem', fontWeight: '700', marginBottom: '0.25rem' }}>Email Us</h3>
+              <p style={{ color: '#666' }}>Our support team typically responds within 24 hours.</p>
+              <a href="mailto:support@veernxt.in" style={{ color: 'var(--ios-olive)', fontWeight: '700', textDecoration: 'none', fontSize: '1.1rem' }}>support@veernxt.in</a>
             </div>
           </div>
+
+          <div style={{ display: 'flex', gap: '1.5rem', alignItems: 'flex-start' }}>
+            <div style={{ background: 'var(--ios-secondary)', padding: '1rem', borderRadius: '16px', color: 'var(--ios-olive)' }}>
+              <Phone size={24} />
+            </div>
+            <div>
+              <h3 style={{ fontSize: '1.1rem', fontWeight: '700', marginBottom: '0.25rem' }}>Call Us</h3>
+              <p style={{ color: '#666' }}>Available Monday to Friday, 9:00 AM - 6:00 PM.</p>
+              <a href="tel:+917889530025" style={{ color: 'var(--ios-olive)', fontWeight: '700', textDecoration: 'none', fontSize: '1.1rem' }}>+91-7889530025</a>
+            </div>
+          </div>
+
+          <div style={{ display: 'flex', gap: '1.5rem', alignItems: 'flex-start' }}>
+            <div style={{ background: 'var(--ios-secondary)', padding: '1rem', borderRadius: '16px', color: 'var(--ios-olive)' }}>
+              <MapPin size={24} />
+            </div>
+            <div>
+              <h3 style={{ fontSize: '1.1rem', fontWeight: '700', marginBottom: '0.25rem' }}>Our Office</h3>
+              <p style={{ color: '#666' }}>Registered office address for legal correspondence.</p>
+              <p style={{ color: '#1a1a1a', fontWeight: '600', maxWidth: '300px' }}>
+                225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div style={{ marginTop: '4rem', paddingTop: '2rem', borderTop: '1px solid #eee', display: 'flex', alignItems: 'center', gap: '1rem', color: '#999' }}>
+          <ShieldCheck size={20} />
+          <span style={{ fontSize: '0.85rem' }}>Official Support Channel for VETERAN WORKS PRIVATE LIMITED</span>
         </div>
       </div>
     </div>
