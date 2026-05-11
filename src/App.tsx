@@ -30,6 +30,10 @@ import { AboutUs } from './components/AboutUs';
 import { ContactUs } from './components/ContactUs';
 import { StudentLogin } from './components/StudentLogin';
 import { Profile } from './components/Profile';
+import { PrivacyPolicy } from './components/PrivacyPolicy';
+import { Support } from './components/Support';
+import { Legal } from './components/Legal';
+import { JobBoard } from './components/JobBoard';
 
 const Navbar = () => {
   const { t, i18n } = useTranslation();
@@ -130,6 +134,7 @@ const Navbar = () => {
           </div>
 
           <Link to="/about-us" className="hover:text-ios-olive transition-colors">{t('nav.about')}</Link>
+          <Link to="/jobs" className="hover:text-ios-olive transition-colors flex items-center gap-1"><div className="w-2 h-2 bg-red-500 rounded-full animate-pulse"></div> Live Jobs</Link>
           <Link to="/contact-us" className="hover:text-ios-olive transition-colors">{t('nav.contact')}</Link>
         </div>
 
@@ -484,6 +489,10 @@ export default function App() {
           <Route path="/contact-us" element={<ContactUs />} />
           <Route path="/student-login" element={<StudentLogin />} />
           <Route path="/profile" element={<Profile />} />
+          <Route path="/jobs" element={<div className="bg-ios-bg min-h-screen"><JobBoard /></div>} />
+          <Route path="/privacy" element={<PrivacyPolicy />} />
+          <Route path="/support" element={<Support />} />
+          <Route path="/legal" element={<Legal />} />
         </Routes>
         <Footer />
       </div>
