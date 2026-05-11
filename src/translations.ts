@@ -67,9 +67,9 @@ export const resources = {
         },
         address: {
           title: "Our Address",
-          value: "6th Floor, Cosmos Vijay, Shivaji Path, Opp Jagdish Book Depot, Navpada, Thane (West), Maharashtra - 400 601."
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© 2026 VeerNXT. All Rights Reserved. Built with Discipline."
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. All Rights Reserved. Built with Discipline."
       }
     }
   },
@@ -140,9 +140,9 @@ export const resources = {
         },
         address: {
           title: "हमारा पता",
-          value: "छठी मंजिल, कॉसमॉस विजय, शिवाजी पथ, जगदीश बुक डिपो के सामने, नवपाड़ा, ठाणे (पश्चिम), महाराष्ट्र - 400 601।"
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© 2026 VeerNXT. सर्वाधिकार सुरक्षित। अनुशासन के साथ निर्मित।"
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. सर्वाधिकार सुरक्षित। अनुशासन के साथ निर्मित।"
       }
     }
   },
@@ -213,9 +213,9 @@ export const resources = {
         },
         address: {
           title: "எங்கள் முகவரி",
-          value: "6வது தளம், காஸ்மோஸ் விஜய், சிவாஜி பாதை, ஜகதீஷ் புத்தகக் கடைக்கு எதிரில், நவ்பாடா, தானே (மேற்கு), மகாராஷ்டிரா - 400 601."
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© 2026 VeerNXT. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை. ஒழுக்கத்துடன் கட்டப்பட்டது."
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை. ஒழுக்கத்துடன் கட்டப்பட்டது."
       }
     }
   },
@@ -286,9 +286,9 @@ export const resources = {
         },
         address: {
           title: "আমাদের ঠিকানা",
-          value: "৬ষ্ঠ তলা, কসমস বিজয়, শিবাজি পথ, জগদীশ বুক ডিপোর বিপরীতে, নবপাড়া, থানে (পশ্চিম), মহারাষ্ট্র - ৪০০ ৬০১।"
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© ২০২৬ VeerNXT। সর্বস্বত্ব সংরক্ষিত। শৃঙ্খলার সাথে নির্মিত।"
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. সর্বস্বত্ব সংরক্ষিত। শৃঙ্খলার সাথে নির্মিত।"
       }
     }
   },
@@ -359,9 +359,9 @@ export const resources = {
         },
         address: {
           title: "आमचा पत्ता",
-          value: "6वा मजला, कॉसमॉस विजय, शिवाजी पथ, जगदीश बुक डेपो समोर, नवपाडा, ठाणे (पश्चिम), महाराष्ट्र - 400 601."
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© 2026 VeerNXT. सर्व हक्क राखीव. शिस्तीने निर्मित."
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. सर्व हक्क राखीव. शिस्तीने निर्मित."
       }
     }
   },
@@ -432,9 +432,9 @@ export const resources = {
         },
         address: {
           title: "ഞങ്ങളുടെ വിലാസം",
-          value: "6-ാം നില, കോസ്മോസ് വിജയ്, ശിവാജി റോഡ്, താനെ (വെസ്റ്റ്), മഹാരാഷ്ട്ര - 400 601."
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© 2026 VeerNXT. എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം."
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം."
       }
     }
   },
@@ -505,9 +505,9 @@ export const resources = {
         },
         address: {
           title: "మా చిరునామా",
-          value: "6వ అంతస్తు, కాస్మోస్ విజయ్, శివాజీ రోడ్, థానే (వెస్ట్), మహారాష్ట్ర - 400 601."
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© 2026 VeerNXT. అన్ని హక్కులు ప్రత్యేకించబడ్డాయి."
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. అన్ని హక్కులు ప్రత్యేకించబడ్డాయి."
       }
     }
   },
@@ -578,9 +578,9 @@ export const resources = {
         },
         address: {
           title: "અમારું સરનામું",
-          value: "6ઠ્ઠો માળ, કોસ્મોસ વિજય, શિવાજી પાથ, થાણે (વેસ્ટ), મહારાષ્ટ્ર - 400 601."
+          value: "225, 3rd C Cross Rd, Block 2, 3rd Stage, Basaveshwar Nagar, Bengaluru, Karnataka 560079"
         },
-        copy: "© 2026 VeerNXT. સર્વાધિકાર સુરક્ષિત."
+        copy: "© 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. સર્વાધિકાર સુરક્ષિત."
       }
     }
   }
