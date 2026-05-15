@@ -57,8 +57,8 @@ const JobBoard = ({ isAdmin = false }) => {
     }
   };
 
-  const filteredJobs = jobs.filter(job => 
-    job.title.toLowerCase().includes(search.toLowerCase()) || 
+  const filteredJobs = jobs.filter(job =>
+    job.title.toLowerCase().includes(search.toLowerCase()) ||
     job.body.toLowerCase().includes(search.toLowerCase())
   );
 
@@ -67,9 +67,9 @@ const JobBoard = ({ isAdmin = false }) => {
       <div className="jobs-header">
         <div className="header-text">
           {isAdmin && (
-            <button 
-              onClick={() => navigate('/admin')} 
-              className="btn-secondary ios-pill" 
+            <button
+              onClick={() => navigate('/admin')}
+              className="btn-secondary ios-pill"
               style={{ marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem', padding: '0.4rem 0.8rem', fontSize: '0.8rem' }}
             >
               <ArrowLeft size={14} /> Back to Admin
@@ -78,10 +78,10 @@ const JobBoard = ({ isAdmin = false }) => {
           <h1 style={{ fontSize: '2.5rem', fontWeight: '800', letterSpacing: '-0.03em' }}>Live Job Board</h1>
           <p style={{ color: '#666', fontSize: '1.1rem' }}>Aggregated notifications from SSC, IBPS, Railways, and State PSCs.</p>
         </div>
-        
+
         {isAdmin && (
-          <button 
-            onClick={handleRefresh} 
+          <button
+            onClick={handleRefresh}
             disabled={refreshing}
             className="btn-secondary ios-pill"
             style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', background: 'white' }}
@@ -95,9 +95,9 @@ const JobBoard = ({ isAdmin = false }) => {
       <div className="search-bar-wrapper">
         <div className="search-input-container">
           <Search size={18} className="search-icon" />
-          <input 
-            type="text" 
-            placeholder="Search by exam name, department or keyword..." 
+          <input
+            type="text"
+            placeholder="Search by exam name, department or keyword..."
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             className="ios-input"
@@ -133,9 +133,9 @@ const JobBoard = ({ isAdmin = false }) => {
                     </div>
                   )}
                 </div>
-                
+
                 <h3 className="job-title">{job.title}</h3>
-                
+
                 <div className="job-details">
                   <div className="detail-item">
                     <Calendar size={14} />
@@ -166,7 +166,8 @@ const JobBoard = ({ isAdmin = false }) => {
         </div>
       )}
 
-      <style dangerouslySetInnerHTML={{ __html: `
+      <style dangerouslySetInnerHTML={{
+        __html: `
         .jobs-container {
           padding: 4rem 2rem;
           max-width: 1200px;

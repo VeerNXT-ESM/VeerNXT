@@ -63,7 +63,7 @@ const Navbar = () => {
     <nav className="glass-header border-b border-gray-100/20 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
-          <div className="w-8 h-8 bg-ios-olive rounded-lg flex items-center justify-center text-white font-bold">V</div>
+          <img src="/logo.png" alt="VeerNXT" className="w-8 h-8 object-contain" />
           <span className="text-xl font-bold tracking-tight">VeerNXT</span>
         </Link>
         
@@ -409,7 +409,7 @@ const Footer = () => {
           {/* Column 1: About */}
           <div className="space-y-6">
             <div className="flex items-center gap-2">
-              <div className="w-8 h-8 bg-ios-olive rounded-lg flex items-center justify-center text-white font-bold">V</div>
+              <img src="/logo.png" alt="VeerNXT" className="w-8 h-8 object-contain" />
               <span className="text-xl font-bold tracking-tight">VeerNXT</span>
             </div>
             <p className="text-sm text-gray-400 font-light leading-relaxed max-w-xs">
