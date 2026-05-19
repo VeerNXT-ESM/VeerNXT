@@ -21,7 +21,7 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { CareerGuidance } from './components/CareerGuidance';
 import { FinancialGuidance } from './components/FinancialGuidance';
@@ -34,6 +34,7 @@ import { PrivacyPolicy } from './components/PrivacyPolicy';
 import { Support } from './components/Support';
 import { Legal } from './components/Legal';
 import { JobBoard } from './components/JobBoard';
+import { LandingPage } from './components/landing/LandingPage';
 
 const Navbar = () => {
   const { t, i18n } = useTranslation();
@@ -457,7 +458,7 @@ const Footer = () => {
   );
 };
 
-const Home = () => (
+const HomeV1 = () => (
   <>
     <Hero />
     <WhyVeerNXT />
@@ -466,29 +467,37 @@ const Home = () => (
   </>
 );
 
+const LegacyShell = ({ children }: { children: React.ReactNode }) => (
+  <div className="min-h-screen">
+    <Navbar />
+    {children}
+    <Footer />
+  </div>
+);
+
 export default function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen">
-        <Navbar />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<AboutUs />} />
-          <Route path="/community" element={<CommunitySupport />} />
-          <Route path="/services/career-guidance" element={<CareerGuidance />} />
-          <Route path="/services/financial-guidance" element={<FinancialGuidance />} />
-          <Route path="/services/community-support" element={<CommunitySupport />} />
-          <Route path="/about-us" element={<AboutUs />} />
-          <Route path="/contact-us" element={<ContactUs />} />
-          <Route path="/student-login" element={<StudentLogin />} />
-          <Route path="/profile" element={<Profile />} />
-          <Route path="/jobs" element={<div className="bg-ios-bg min-h-screen"><JobBoard /></div>} />
-          <Route path="/privacy" element={<PrivacyPolicy />} />
-          <Route path="/support" element={<Support />} />
-          <Route path="/legal" element={<Legal />} />
-        </Routes>
-        <Footer />
-      </div>
+      <Routes>
+        {/* ── NEW single-page landing (entry point) ── */}
+        <Route path="/" element={<LandingPage />} />
+
+        {/* ── Legacy multi-page site (preserved) ── */}
+        <Route path="/home-v1" element={<LegacyShell><HomeV1 /></LegacyShell>} />
+        <Route path="/about" element={<LegacyShell><AboutUs /></LegacyShell>} />
+        <Route path="/community" element={<LegacyShell><CommunitySupport /></LegacyShell>} />
+        <Route path="/services/career-guidance" element={<LegacyShell><CareerGuidance /></LegacyShell>} />
+        <Route path="/services/financial-guidance" element={<LegacyShell><FinancialGuidance /></LegacyShell>} />
+        <Route path="/services/community-support" element={<LegacyShell><CommunitySupport /></LegacyShell>} />
+        <Route path="/about-us" element={<LegacyShell><AboutUs /></LegacyShell>} />
+        <Route path="/contact-us" element={<LegacyShell><ContactUs /></LegacyShell>} />
+        <Route path="/student-login" element={<LegacyShell><StudentLogin /></LegacyShell>} />
+        <Route path="/profile" element={<LegacyShell><Profile /></LegacyShell>} />
+        <Route path="/jobs" element={<LegacyShell><div className="bg-ios-bg min-h-screen"><JobBoard /></div></LegacyShell>} />
+        <Route path="/privacy" element={<LegacyShell><PrivacyPolicy /></LegacyShell>} />
+        <Route path="/support" element={<LegacyShell><Support /></LegacyShell>} />
+        <Route path="/legal" element={<LegacyShell><Legal /></LegacyShell>} />
+      </Routes>
     </BrowserRouter>
   );
 }
