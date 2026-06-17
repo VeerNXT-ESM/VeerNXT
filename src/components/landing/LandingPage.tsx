@@ -29,7 +29,7 @@ const Hero = () => (
       >
         <div className="flex items-center gap-2 mb-6">
           <span className="w-8 h-[2px] bg-ios-olive" />
-          <span className="text-xs font-bold tracking-[0.2em] text-ios-olive uppercase">India's First Defence Reintegration Platform</span>
+          <span className="text-xs font-bold tracking-[0.2em] text-ios-olive uppercase">Professional transition services for Military Personnel.</span>
         </div>
 
         <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6 leading-[0.95]">
@@ -38,8 +38,8 @@ const Hero = () => (
           Starts Here.
         </h1>
 
-        <p className="text-gray-300 text-lg md:text-xl mb-8 leading-relaxed font-light max-w-xl">
-          Jobs, career guidance, financial clarity, and veteran mentorship — unified into one platform built for India's service veterans.
+        <p className="text-white text-xl md:text-2xl mb-8 leading-relaxed font-medium max-w-2xl bg-black/20 p-4 rounded-xl border border-white/10 backdrop-blur-sm">
+          A veteran-led career platform enabling Agniveers and short-term military officials to transition efficiently into premium government and private service sector roles.
         </p>
 
         <div className="flex flex-wrap gap-4 mb-10">
@@ -55,7 +55,7 @@ const Hero = () => (
 
         <div className="flex flex-wrap gap-4">
           <a
-            href="https://app.veernxt.in"
+            href="http://localhost:8080"
             className="ios-btn-primary ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase flex items-center gap-2 group"
           >
             Open App
@@ -95,27 +95,8 @@ const Hero = () => (
   </section>
 );
 
-// ─── PROBLEM ─────────────────────────────────────────────────────────────────
-
-const painCards = [
-  {
-    icon: Target,
-    title: 'Career Uncertainty',
-    desc: 'No civilian resume. No mapped career path. Years of military expertise that the corporate world cannot read.'
-  },
-  {
-    icon: TrendingUp,
-    title: 'Financial Confusion',
-    desc: 'Sewa Nidhi sitting idle. No guidance on investments, insurance, or how to build long-term financial stability.'
-  },
-  {
-    icon: Users,
-    title: 'No Civilian Network',
-    desc: 'Brotherhood is everything in service. But outside the uniform, there is no professional network to lean on.'
-  }
-];
-
-const Problem = () => (
+// ─── WHAT IS VEERNXT? ────────────────────────────────────────────────────────
+const WhatIsVeerNXT = () => (
   <section className="py-24 bg-[#0d0d0d] text-white">
     <div className="max-w-7xl mx-auto px-6">
       <motion.div
@@ -123,73 +104,66 @@ const Problem = () => (
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.6 }}
-        className="mb-16"
+        className="text-center"
       >
-        <div className="flex items-center gap-2 text-xs font-bold text-ios-olive tracking-widest mb-4 uppercase">
-          The Reality <span className="w-8 h-[2px] bg-ios-olive" />
+        <div className="flex items-center justify-center gap-2 text-xs font-bold text-ios-olive tracking-widest mb-4 uppercase">
+          <span className="w-8 h-[2px] bg-ios-olive" /> About The Platform <span className="w-8 h-[2px] bg-ios-olive" />
         </div>
-        <h2 className="text-4xl md:text-5xl font-black tracking-tighter max-w-2xl leading-tight">
-          Leaving Service Should Not Mean<br />
-          <span className="text-ios-olive">Starting From Zero.</span>
+        <h2 className="text-4xl md:text-5xl font-black tracking-tighter mb-8">
+          What is <span className="text-ios-olive">VeerNXT?</span>
         </h2>
+        <p className="text-gray-300 text-lg md:text-2xl leading-relaxed font-light max-w-4xl mx-auto">
+          VeerNXT operates as a specialized career transition and wealth management ecosystem designed exclusively for short-term military personnel. The platform delivers dual-spectrum support, ensuring both professional re-alignment in the civilian workforce and the strategic preservation and growth of accumulated financial assets.
+        </p>
       </motion.div>
-
-      <div className="grid md:grid-cols-3 gap-6">
-        {painCards.map((card, i) => (
-          <motion.div
-            key={i}
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ duration: 0.5, delay: i * 0.1 }}
-            className="bg-white/5 border border-white/10 rounded-3xl p-8 hover:bg-white/10 hover:border-ios-olive/30 transition-all group"
-          >
-            <div className="w-12 h-12 rounded-2xl bg-ios-olive/10 border border-ios-olive/20 flex items-center justify-center mb-6 group-hover:bg-ios-olive/20 transition-colors">
-              <card.icon className="w-6 h-6 text-ios-olive" />
-            </div>
-            <h3 className="text-xl font-bold tracking-tight mb-3">{card.title}</h3>
-            <p className="text-gray-400 text-sm leading-relaxed font-light">{card.desc}</p>
-          </motion.div>
-        ))}
-      </div>
     </div>
   </section>
 );
 
-// ─── ECOSYSTEM ───────────────────────────────────────────────────────────────
+// ─── PRIMARY SERVICE OFFERINGS ───────────────────────────────────────────────
 
-const ecosystemBlocks = [
-  {
-    icon: Target,
-    label: 'A',
-    title: 'Career Navigation',
-    desc: 'AI-powered career roadmaps built for military experience.',
-    bullets: ['500+ Govt exam pathways', 'Resume & profile building', 'VR interview preparation']
-  },
+const serviceOfferings = [
   {
     icon: Briefcase,
-    label: 'B',
-    title: 'Opportunity Discovery',
-    desc: 'Curated roles matched to your military background.',
-    bullets: ['Veteran-specific job board', 'Skill pathway mapping', 'Corporate role matching']
+    title: '01. Career Transition & Examination Preparation',
+    objective: 'To facilitate seamless entry into high-value civilian and government roles.',
+    bullets: [
+      {
+        title: 'Eligibility-Based Mapping',
+        desc: 'Algorithmic identification of corporate and civil service roles aligned with specific military tenures and experience profiles.'
+      },
+      {
+        title: 'Targeted Preparatory Modules',
+        desc: 'High-yield technical study materials, curriculum-mapped modules, and mock examinations for competitive selection processes.'
+      },
+      {
+        title: 'Strategic Guidance',
+        desc: 'Direct mentorship from industry professionals and veteran executives to navigate civilian corporate hiring pipelines.'
+      }
+    ]
   },
   {
     icon: TrendingUp,
-    label: 'C',
-    title: 'Financial Readiness',
-    desc: 'Maximise your Sewa Nidhi and plan for civilian life.',
-    bullets: ['Investment & insurance guidance', 'Loan & mutual fund access', 'Entrepreneurship support']
-  },
-  {
-    icon: Users,
-    label: 'D',
-    title: 'Veteran Network',
-    desc: 'Brotherhood that extends beyond the uniform.',
-    bullets: ['10,000+ active members', 'Expert mentorship access', 'Industry networking events']
+    title: '02. Financial Consolidation & Wealth Growth',
+    objective: 'To maximize the long-term utility of the candidate’s separation corpus.',
+    bullets: [
+      {
+        title: 'Corpus Consolidation',
+        desc: 'Comprehensive aggregation of separation funds, gratuities, and savings into a single, structured management framework.'
+      },
+      {
+        title: 'Strategic Investment Vehicles',
+        desc: 'Access to curated, risk-mitigated investment portfolios designed to generate sustainable wealth post-separation.'
+      },
+      {
+        title: 'Capital Preservation',
+        desc: 'Advisory services focused on asset allocation, tax optimization, and structured financial planning for long-term stability.'
+      }
+    ]
   }
 ];
 
-const Ecosystem = () => (
+const PrimaryServiceOfferings = () => (
   <section className="py-24 bg-ios-secondary">
     <div className="max-w-7xl mx-auto px-6">
       <motion.div
@@ -199,45 +173,39 @@ const Ecosystem = () => (
         className="mb-16"
       >
         <div className="flex items-center gap-2 text-xs font-bold text-ios-olive tracking-widest mb-4 uppercase">
-          The Platform <span className="w-8 h-[2px] bg-ios-olive" />
+          Our Services <span className="w-8 h-[2px] bg-ios-olive" />
         </div>
         <h2 className="text-4xl md:text-5xl font-black tracking-tighter">
-          Everything Needed For<br />
-          <span className="text-ios-olive">Veteran Transition</span>
+          Primary <span className="text-ios-olive">Service Offerings</span>
         </h2>
-        <p className="text-gray-500 mt-4 text-lg font-light max-w-xl">
-          Four pillars. One platform. No more navigating civilian life alone.
-        </p>
       </motion.div>
 
-      <div className="grid md:grid-cols-2 gap-6">
-        {ecosystemBlocks.map((block, i) => (
+      <div className="grid md:grid-cols-2 gap-8">
+        {serviceOfferings.map((service, i) => (
           <motion.div
             key={i}
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: i * 0.1 }}
-            className="ios-card bg-white p-8 flex gap-6 hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/10 transition-all duration-300 group"
+            className="ios-card bg-white p-8 hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/10 transition-all duration-300 group"
           >
-            <div className="flex-shrink-0">
-              <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
-                <block.icon className="w-7 h-7 text-white" />
-              </div>
+            <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
+              <service.icon className="w-7 h-7 text-white" />
             </div>
-            <div>
-              <span className="text-[10px] font-black text-ios-olive tracking-[0.2em] uppercase">{block.label}</span>
-              <h3 className="text-xl font-bold tracking-tight mt-1 mb-2">{block.title}</h3>
-              <p className="text-gray-500 text-sm font-light mb-4">{block.desc}</p>
-              <ul className="space-y-1.5">
-                {block.bullets.map((b, j) => (
-                  <li key={j} className="flex items-center gap-2 text-sm text-gray-600">
-                    <ChevronRight className="w-3 h-3 text-ios-olive flex-shrink-0" />
-                    {b}
-                  </li>
-                ))}
-              </ul>
-            </div>
+            <h3 className="text-2xl font-bold tracking-tight mb-2 text-ios-olive">{service.title}</h3>
+            <p className="text-gray-600 font-semibold mb-6">Objective: {service.objective}</p>
+            <ul className="space-y-4">
+              {service.bullets.map((b, j) => (
+                <li key={j} className="flex items-start gap-3">
+                  <CheckCircle2 className="w-5 h-5 text-ios-olive flex-shrink-0 mt-0.5" />
+                  <div>
+                    <strong className="text-gray-800 text-sm block">{b.title}</strong>
+                    <span className="text-gray-500 text-sm font-light leading-relaxed">{b.desc}</span>
+                  </div>
+                </li>
+              ))}
+            </ul>
           </motion.div>
         ))}
       </div>
@@ -245,27 +213,32 @@ const Ecosystem = () => (
   </section>
 );
 
-// ─── HOW IT WORKS ─────────────────────────────────────────────────────────────
+// ─── ONBOARDING PROCESS ──────────────────────────────────────────────────────
 
-const steps = [
+const onboardingSteps = [
   {
-    num: '01',
-    title: 'Create Your Profile',
-    desc: 'Tell us your branch, rank, education, and goals. Takes 30 seconds. Our AI does the rest.'
+    num: 'Step 01',
+    title: 'Profile Authentication & Verification',
+    desc: 'Establish a secure account by verifying service credentials, regiment details, and tenure duration to unlock eligible service tracks.'
   },
   {
-    num: '02',
-    title: 'Get AI Recommendations',
-    desc: 'Receive a personalised career roadmap, exam shortlist, and financial action plan built for your background.'
+    num: 'Step 02',
+    title: 'Dual-Track Diagnostic Assessment',
+    desc: 'Complete the integrated career eligibility mapping and input financial corpus optimization objectives to generate a personalized transition blueprint.'
   },
   {
-    num: '03',
-    title: 'Start Your Transition',
-    desc: 'Daily tasks, practice tests, mentorship sessions, and job applications — your second mission begins.'
+    num: 'Step 03',
+    title: 'Resource Engagement',
+    desc: 'Activate targeted examination preparation modules or engage with curated investment vehicles based on the diagnostic output.'
+  },
+  {
+    num: 'Step 04',
+    title: 'Continuous Monitoring & Execution',
+    desc: 'Monitor job application statuses, track academic preparation metrics, and review investment portfolio performance via the centralized interface.'
   }
 ];
 
-const HowItWorks = () => (
+const OnboardingProcess = () => (
   <section id="how-it-works" className="py-24 bg-[#111] text-white">
     <div className="max-w-7xl mx-auto px-6">
       <motion.div
@@ -275,15 +248,16 @@ const HowItWorks = () => (
         className="mb-16"
       >
         <div className="flex items-center gap-2 text-xs font-bold text-ios-olive tracking-widest mb-4 uppercase">
-          Mission Workflow <span className="w-8 h-[2px] bg-ios-olive" />
+          Scroll 4 <span className="w-8 h-[2px] bg-ios-olive" />
         </div>
         <h2 className="text-4xl md:text-5xl font-black tracking-tighter">
-          How VeerNXT Works
+          Onboarding & Service<br />
+          <span className="text-ios-olive">Utilization Process</span>
         </h2>
       </motion.div>
 
-      <div className="grid md:grid-cols-3 gap-8">
-        {steps.map((step, i) => (
+      <div className="grid md:grid-cols-4 gap-6">
+        {onboardingSteps.map((step, i) => (
           <motion.div
             key={i}
             initial={{ opacity: 0, y: 30 }}
@@ -292,65 +266,47 @@ const HowItWorks = () => (
             transition={{ duration: 0.5, delay: i * 0.15 }}
             className="relative"
           >
-            {i < steps.length - 1 && (
-              <div className="hidden md:block absolute top-8 left-full w-full h-[2px] bg-gradient-to-r from-ios-olive to-transparent z-0 -translate-y-1/2" style={{ width: 'calc(100% - 2rem)', left: 'calc(100% + 1rem)' }} />
+            {i < onboardingSteps.length - 1 && (
+              <div className="hidden md:block absolute top-8 left-full w-full h-[2px] bg-gradient-to-r from-ios-olive to-transparent z-0 -translate-y-1/2" style={{ width: 'calc(100% - 1.5rem)', left: 'calc(100% + 0.75rem)' }} />
             )}
-            <div className="bg-white/5 border border-white/10 rounded-3xl p-8 hover:bg-white/10 hover:border-ios-olive/30 transition-all group h-full">
-              <div className="text-5xl font-black text-ios-olive/20 mb-4 tracking-tighter group-hover:text-ios-olive/40 transition-colors">
+            <div className="bg-white/5 border border-white/10 rounded-3xl p-6 hover:bg-white/10 hover:border-ios-olive/30 transition-all group h-full">
+              <div className="text-2xl font-black text-ios-olive/40 mb-4 tracking-tighter group-hover:text-ios-olive transition-colors">
                 {step.num}
               </div>
-              <h3 className="text-xl font-bold tracking-tight mb-3 text-ios-olive">{step.title}</h3>
+              <h3 className="text-lg font-bold tracking-tight mb-3 text-white group-hover:text-ios-olive transition-colors">{step.title}</h3>
               <p className="text-gray-400 text-sm leading-relaxed font-light">{step.desc}</p>
             </div>
           </motion.div>
         ))}
       </div>
-
-      <motion.div
-        initial={{ opacity: 0 }}
-        whileInView={{ opacity: 1 }}
-        viewport={{ once: true }}
-        transition={{ delay: 0.5 }}
-        className="mt-12 text-center"
-      >
-        <a
-          href="https://app.veernxt.in"
-          className="ios-btn-primary ios-pill px-10 py-4 text-sm font-black tracking-widest uppercase inline-flex items-center gap-2 group"
-        >
-          Begin Your Profile
-          <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-        </a>
-      </motion.div>
     </div>
   </section>
 );
 
-// ─── TRUST ────────────────────────────────────────────────────────────────────
+// ─── REGULATORY COMPLIANCE ────────────────────────────────────────────────────
 
-const trustPillars = [
+const validations = [
   {
     icon: Award,
-    title: 'Veteran-First Platform',
-    desc: 'Built by ex-servicemen for ex-servicemen. Every feature is designed with military context in mind.'
+    title: 'Government-Accredited Career Track',
+    subtitle: '100% Mapped',
+    desc: 'All examination preparation modules and career pathways are mapped directly against official government-accredited curricula and civil service recruitment frameworks.'
   },
   {
     icon: Lock,
-    title: 'Secure Data Handling',
-    desc: 'Your service records and personal data are encrypted and handled with military-grade security protocols.'
+    title: 'Government-Regulated Financial Security',
+    subtitle: 'SEBI-Compliant Ecosystem',
+    desc: 'Wealth management, corpus consolidation, and investment advisory services are executed exclusively through government-regulated financial entities.'
   },
   {
-    icon: Star,
-    title: 'Transition Proven',
-    desc: '350+ veterans have successfully moved into corporate, government, and entrepreneurial roles through VeerNXT.'
-  },
-  {
-    icon: Globe,
-    title: "India's First Defence EdTech",
-    desc: 'The only platform purpose-built for Agniveers and ex-servicemen transitioning to civilian careers.'
+    icon: Users,
+    title: 'Impact Driven',
+    subtitle: 'X000 Agniveers Enrolled',
+    desc: 'Retired personnel are currently onboarded and are utilizing the platform to execute their career and financial milestones.'
   }
 ];
 
-const Trust = () => (
+const RegulatoryCompliance = () => (
   <section className="py-24 bg-white">
     <div className="max-w-7xl mx-auto px-6">
       <motion.div
@@ -359,30 +315,28 @@ const Trust = () => (
         viewport={{ once: true }}
         className="text-center mb-16"
       >
-        <div className="flex items-center justify-center gap-2 text-xs font-bold text-ios-olive tracking-widest mb-4 uppercase">
-          <span className="w-8 h-[2px] bg-ios-olive" /> Why Trust Us <span className="w-8 h-[2px] bg-ios-olive" />
-        </div>
         <h2 className="text-4xl md:text-5xl font-black tracking-tighter">
-          Built On Service.<br />
-          <span className="text-ios-olive">Backed By Trust.</span>
+          Regulatory Compliance &<br />
+          <span className="text-ios-olive">Institutional Validation</span>
         </h2>
       </motion.div>
 
-      <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-        {trustPillars.map((pillar, i) => (
+      <div className="grid md:grid-cols-3 gap-6">
+        {validations.map((val, i) => (
           <motion.div
             key={i}
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: i * 0.1 }}
-            className="text-center p-8 rounded-3xl bg-ios-secondary hover:bg-ios-olive/5 border border-transparent hover:border-ios-olive/20 transition-all group"
+            className="p-8 rounded-3xl bg-ios-secondary hover:bg-ios-olive/5 border border-transparent hover:border-ios-olive/20 transition-all group"
           >
-            <div className="w-16 h-16 rounded-2xl bg-ios-olive flex items-center justify-center mx-auto mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
-              <pillar.icon className="w-8 h-8 text-white" />
+            <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
+              <val.icon className="w-7 h-7 text-white" />
             </div>
-            <h3 className="text-base font-bold tracking-tight mb-3">{pillar.title}</h3>
-            <p className="text-gray-500 text-sm leading-relaxed font-light">{pillar.desc}</p>
+            <h3 className="text-xl font-bold tracking-tight mb-1">{val.title}</h3>
+            <p className="text-sm font-bold text-ios-olive mb-4">{val.subtitle}</p>
+            <p className="text-gray-500 text-sm leading-relaxed font-light">{val.desc}</p>
           </motion.div>
         ))}
       </div>
@@ -390,44 +344,68 @@ const Trust = () => (
   </section>
 );
 
-// ─── FINAL CTA ───────────────────────────────────────────────────────────────
+// ─── CTA SECTION ─────────────────────────────────────────────────────────────
 
-const FinalCTA = () => (
+const CTASection = () => (
   <section className="relative py-32 overflow-hidden">
     <div className="absolute inset-0 z-0">
       <img
         src="/hero/about.png"
         className="w-full h-full object-cover"
         alt=""
-        style={{ filter: 'brightness(0.2)' }}
+        style={{ filter: 'brightness(0.15)' }}
       />
       <div className="absolute inset-0 bg-gradient-to-br from-black via-black/80 to-ios-olive/30" />
     </div>
 
-    <div className="relative z-10 max-w-4xl mx-auto px-6 text-center text-white">
+    <div className="relative z-10 max-w-6xl mx-auto px-6 text-white">
       <motion.div
         initial={{ opacity: 0, y: 30 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.7 }}
       >
-        <div className="flex items-center justify-center gap-2 text-xs font-bold text-ios-olive tracking-widest mb-6 uppercase">
-          <span className="w-8 h-[2px] bg-ios-olive" /> Your Second Mission Awaits <span className="w-8 h-[2px] bg-ios-olive" />
+        <div className="text-center mb-16">
+          <h2 className="text-4xl md:text-6xl font-black tracking-tighter mb-6 leading-tight">
+            Secure Your <span className="text-ios-olive">Future</span>
+          </h2>
+          <p className="text-gray-300 text-lg font-light max-w-4xl mx-auto leading-relaxed">
+            The complete suite of career optimization tools, eligibility matrices, and financial consolidation frameworks is hosted securely within the VeerNXT mobile application. Desktop access is restricted for security and real-time portfolio management tracking.
+          </p>
         </div>
-        <h2 className="text-5xl md:text-7xl font-black tracking-tighter mb-6 leading-tight">
-          Start Your<br />
-          <span className="text-ios-olive">Next Mission.</span>
-        </h2>
-        <p className="text-gray-300 text-lg mb-10 font-light max-w-xl mx-auto">
-          Join 10,000+ veterans who have already taken their first step toward a future they deserve.
-        </p>
-        <a
-          href="https://app.veernxt.in"
-          className="ios-btn-primary ios-pill px-12 py-5 text-base font-black tracking-widest uppercase inline-flex items-center gap-3 group shadow-2xl shadow-ios-olive/30"
-        >
-          Open VeerNXT App
-          <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-        </a>
+        
+        <div className="bg-white/5 border border-white/10 rounded-3xl p-8 lg:p-12 max-w-5xl mx-auto flex flex-col md:flex-row items-center justify-between gap-12 backdrop-blur-md">
+          <div className="flex-1">
+            <h3 className="text-2xl font-bold text-white mb-6">Immediate Next Steps</h3>
+            <ol className="space-y-4 text-base text-gray-300 font-light list-decimal pl-5">
+              <li>Download the verified VeerNXT application.</li>
+              <li>Complete your secure military identity verification.</li>
+              <li>Initialize your dual-track career and corpus growth strategy immediately.</li>
+            </ol>
+            
+            <div className="flex flex-wrap gap-4 mt-8">
+              <a
+                href="http://localhost:8080"
+                className="ios-btn-primary ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 group shadow-2xl shadow-ios-olive/30"
+              >
+                Download on the App Store
+              </a>
+              <a
+                href="http://localhost:8080"
+                className="bg-white/10 hover:bg-white/20 text-white border border-white/20 ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 transition-all"
+              >
+                Get it on Google Play
+              </a>
+            </div>
+          </div>
+          
+          <div className="flex flex-col items-center gap-4 md:border-l md:border-white/10 md:pl-12">
+            <p className="text-sm font-bold tracking-widest uppercase">Scan to Download</p>
+            <div className="w-48 h-48 bg-white rounded-2xl flex items-center justify-center shadow-2xl">
+              <span className="text-black text-sm font-bold text-center px-4">[ QR Code Placeholder ]</span>
+            </div>
+          </div>
+        </div>
       </motion.div>
     </div>
   </section>
@@ -494,11 +472,11 @@ const LandingFooter = () => (
 export const LandingPage = () => (
   <>
     <Hero />
-    <Problem />
-    <Ecosystem />
-    <HowItWorks />
-    <Trust />
-    <FinalCTA />
+    <WhatIsVeerNXT />
+    <PrimaryServiceOfferings />
+    <OnboardingProcess />
+    <RegulatoryCompliance />
+    <CTASection />
     <LandingFooter />
   </>
 );
