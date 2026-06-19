@@ -184,16 +184,10 @@ const PrimaryServiceOfferings = () => (
             transition={{ duration: 0.5, delay: i * 0.1 }}
             className="ios-card bg-white p-8 hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/10 transition-all duration-300 group flex flex-col"
           >
-            {service.image ? (
               <div className="w-full aspect-square rounded-xl overflow-hidden mb-6 shadow-lg relative">
                 <img src={service.image} alt={service.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
               </div>
-            ) : (
-              <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
-                <service.icon className="w-7 h-7 text-white" />
-              </div>
-            )}
             <h3 className="text-2xl font-bold tracking-tight mb-2 text-ios-olive">{service.title}</h3>
             <p className="text-gray-600 font-semibold mb-6">Objective: {service.objective}</p>
             <ul className="space-y-4">
@@ -357,16 +351,10 @@ const RegulatoryCompliance = () => (
             transition={{ duration: 0.5, delay: i * 0.1 }}
             className="ios-card bg-white p-8 hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/10 transition-all duration-300 group flex flex-col"
           >
-            {val.image ? (
               <div className="w-full aspect-square rounded-xl overflow-hidden mb-6 shadow-lg relative">
                 <img src={val.image} alt={val.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
               </div>
-            ) : (
-              <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
-                <val.icon className="w-7 h-7 text-white" />
-              </div>
-            )}
             <h3 className="text-xl font-bold tracking-tight mb-1">{val.title}</h3>
             <p className="text-sm font-bold text-ios-olive mb-4">{val.subtitle}</p>
             <p className="text-gray-500 text-sm leading-relaxed font-medium flex-grow">{val.desc}</p>
