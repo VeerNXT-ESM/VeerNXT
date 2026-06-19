@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 
 const NavBar = () => (
   <nav className="w-full bg-[#0a0a0a] py-6 flex justify-center items-center relative border-b border-white/5 z-50">
-    <img src="/logo.png" alt="VeerNXT" className="h-[120px] object-contain" />
+    <img src="/logo.png" alt="VeerNXT" className="h-[80px] md:h-[120px] max-w-[90vw] object-contain" />
   </nav>
 );
 
@@ -448,8 +448,8 @@ const CTASection = () => (
             </div>
           </div>
           
-          <div className="flex flex-col items-center justify-center md:border-l md:border-white/10 md:pl-12">
-            <img src="/homepage/F6_Phone.png" alt="VeerNXT App Preview" className="h-[768px] w-auto object-contain drop-shadow-2xl hover:scale-[1.02] transition-transform" />
+          <div className="flex flex-col items-center justify-center md:border-l md:border-white/10 md:pl-12 w-full mt-12 md:mt-0">
+            <img src="/homepage/F6_Phone.png" alt="VeerNXT App Preview" className="h-auto md:h-[768px] max-h-[60vh] md:max-h-none w-full max-w-[280px] md:max-w-none object-contain drop-shadow-2xl hover:scale-[1.02] transition-transform mx-auto" />
           </div>
         </div>
       </motion.div>
