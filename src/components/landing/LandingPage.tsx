@@ -2,25 +2,34 @@ import { motion } from 'motion/react';
 import {
   Target, Users, TrendingUp, Briefcase, ArrowRight,
   ChevronRight, ShieldCheck, CheckCircle2, MapPin, Phone, Mail,
-  Award, Globe, Lock, Star
+  Award, Globe, Lock, Star, Apple, PlaySquare
 } from 'lucide-react';
 import { Link } from 'react-router-dom';
+
+// ─── NAVBAR ──────────────────────────────────────────────────────────────────
+
+const NavBar = () => (
+  <nav className="w-full bg-[#0a0a0a] py-6 flex justify-center items-center relative border-b border-white/5 z-50">
+    <img src="/logo.png" alt="VeerNXT" className="h-[120px] object-contain" />
+  </nav>
+);
 
 // ─── HERO ────────────────────────────────────────────────────────────────────
 
 const Hero = () => (
-  <section className="relative h-screen flex items-center overflow-hidden">
+  <section className="relative min-h-[calc(100vh-168px)] flex items-center overflow-hidden">
     <div className="absolute inset-0 z-0">
-      <img
-        src="/hero/hero_image.png"
+      <video
+        autoPlay
+        loop
+        muted
+        playsInline
+        src="/hero_video.mp4"
         className="w-full h-full object-cover"
-        alt="Veterans"
-        style={{ filter: 'brightness(0.35)' }}
       />
-      <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/40 to-transparent" />
     </div>
 
-    <div className="max-w-7xl mx-auto px-6 relative z-10 w-full">
+    <div className="max-w-7xl mx-auto px-6 pt-24 md:pt-32 pb-12 relative z-10 w-full">
       <motion.div
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
@@ -29,67 +38,37 @@ const Hero = () => (
       >
         <div className="flex items-center gap-2 mb-6">
           <span className="w-8 h-[2px] bg-ios-olive" />
-          <span className="text-xs font-bold tracking-[0.2em] text-ios-olive uppercase">Professional transition services for Military Personnel.</span>
+          <span className="text-xs font-bold tracking-[0.2em] text-white uppercase">Professional transition services for Military Personnel.</span>
         </div>
 
-        <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-6 leading-[0.95]">
+        <h1 className="text-6xl md:text-8xl font-black tracking-tighter mb-8 leading-[0.95] drop-shadow-[0_8px_16px_rgba(0,0,0,0.9)]">
           Your Next<br />
-          <span className="text-ios-olive">Mission</span><br />
-          Starts Here.
+          <span className="text-white">Mission</span><br />
+          Starts Here
         </h1>
-
-        <p className="text-white text-xl md:text-2xl mb-8 leading-relaxed font-medium max-w-2xl bg-black/20 p-4 rounded-xl border border-white/10 backdrop-blur-sm">
-          A veteran-led career platform enabling Agniveers and short-term military officials to transition efficiently into premium government and private service sector roles.
-        </p>
 
         <div className="flex flex-wrap gap-4 mb-10">
           <div className="flex items-center gap-2">
             <CheckCircle2 className="w-4 h-4 text-ios-olive" />
-            <span className="text-sm font-medium text-gray-200">Government of India Approved</span>
+            <span className="text-sm font-medium text-gray-200 drop-shadow-md">Government of India Aligned</span>
           </div>
           <div className="flex items-center gap-2">
             <ShieldCheck className="w-4 h-4 text-ios-olive" />
-            <span className="text-sm font-medium text-gray-200">Veteran Led &amp; Veteran Driven</span>
+            <span className="text-sm font-medium text-gray-200 drop-shadow-md">Veteran Led &amp; Veteran Driven</span>
           </div>
         </div>
 
         <div className="flex flex-wrap gap-4">
           <a
             href="http://localhost:8080"
-            className="ios-btn-primary ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase flex items-center gap-2 group"
+            className="ios-btn-primary ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase flex items-center gap-2 group shadow-2xl shadow-ios-olive/30"
           >
             Open App
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
           </a>
-          <a
-            href="#how-it-works"
-            className="border border-white/30 text-white ios-pill px-8 py-4 text-sm font-bold tracking-wider hover:bg-white/10 transition-all"
-          >
-            How It Works
-          </a>
-          <Link
-            to="/home-v1"
-            className="bg-white/10 hover:bg-white/20 text-white border border-white/20 ios-pill px-8 py-4 text-sm font-bold tracking-wider transition-all"
-          >
-            Legacy Site (V1)
-          </Link>
         </div>
 
-        {/* Stat bar */}
-        <div className="flex gap-10 mt-14 pt-8 border-t border-white/10">
-          <div>
-            <p className="text-3xl font-black text-white">1,250+</p>
-            <p className="text-xs text-gray-400 font-medium uppercase tracking-wider mt-1">Veterans Helped</p>
-          </div>
-          <div>
-            <p className="text-3xl font-black text-white">350+</p>
-            <p className="text-xs text-gray-400 font-medium uppercase tracking-wider mt-1">Successful Transitions</p>
-          </div>
-          <div>
-            <p className="text-3xl font-black text-white">10K+</p>
-            <p className="text-xs text-gray-400 font-medium uppercase tracking-wider mt-1">Community Members</p>
-          </div>
-        </div>
+
       </motion.div>
     </div>
   </section>
@@ -115,6 +94,21 @@ const WhatIsVeerNXT = () => (
         <p className="text-gray-300 text-lg md:text-2xl leading-relaxed font-light max-w-4xl mx-auto">
           VeerNXT operates as a specialized career transition and wealth management ecosystem designed exclusively for short-term military personnel. The platform delivers dual-spectrum support, ensuring both professional re-alignment in the civilian workforce and the strategic preservation and growth of accumulated financial assets.
         </p>
+
+        <div className="inline-flex flex-wrap justify-center gap-8 md:gap-16 mt-16 p-8 bg-white/5 backdrop-blur-md rounded-3xl border border-white/10 shadow-2xl">
+          <div className="text-center">
+            <p className="text-4xl md:text-5xl font-black text-white">1,250+</p>
+            <p className="text-xs md:text-sm text-ios-olive font-bold uppercase tracking-widest mt-2">Veterans Helped</p>
+          </div>
+          <div className="text-center">
+            <p className="text-4xl md:text-5xl font-black text-white">350+</p>
+            <p className="text-xs md:text-sm text-ios-olive font-bold uppercase tracking-widest mt-2">Successful Transitions</p>
+          </div>
+          <div className="text-center">
+            <p className="text-4xl md:text-5xl font-black text-white">10K+</p>
+            <p className="text-xs md:text-sm text-ios-olive font-bold uppercase tracking-widest mt-2">Community Members</p>
+          </div>
+        </div>
       </motion.div>
     </div>
   </section>
@@ -124,7 +118,7 @@ const WhatIsVeerNXT = () => (
 
 const serviceOfferings = [
   {
-    icon: Briefcase,
+    image: '/homepage/F3A.png',
     title: '01. Career Transition & Examination Preparation',
     objective: 'To facilitate seamless entry into high-value civilian and government roles.',
     bullets: [
@@ -143,7 +137,7 @@ const serviceOfferings = [
     ]
   },
   {
-    icon: TrendingUp,
+    image: '/homepage/F3_B.png',
     title: '02. Financial Consolidation & Wealth Growth',
     objective: 'To maximize the long-term utility of the candidate’s separation corpus.',
     bullets: [
@@ -188,11 +182,18 @@ const PrimaryServiceOfferings = () => (
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: i * 0.1 }}
-            className="ios-card bg-white p-8 hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/10 transition-all duration-300 group"
+            className="ios-card bg-white p-8 hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/10 transition-all duration-300 group flex flex-col"
           >
-            <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
-              <service.icon className="w-7 h-7 text-white" />
-            </div>
+            {service.image ? (
+              <div className="w-full aspect-square rounded-xl overflow-hidden mb-6 shadow-lg relative">
+                <img src={service.image} alt={service.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
+              </div>
+            ) : (
+              <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
+                <service.icon className="w-7 h-7 text-white" />
+              </div>
+            )}
             <h3 className="text-2xl font-bold tracking-tight mb-2 text-ios-olive">{service.title}</h3>
             <p className="text-gray-600 font-semibold mb-6">Objective: {service.objective}</p>
             <ul className="space-y-4">
@@ -201,13 +202,22 @@ const PrimaryServiceOfferings = () => (
                   <CheckCircle2 className="w-5 h-5 text-ios-olive flex-shrink-0 mt-0.5" />
                   <div>
                     <strong className="text-gray-800 text-sm block">{b.title}</strong>
-                    <span className="text-gray-500 text-sm font-light leading-relaxed">{b.desc}</span>
+                    <span className="text-gray-500 text-sm font-medium leading-relaxed">{b.desc}</span>
                   </div>
                 </li>
               ))}
             </ul>
           </motion.div>
         ))}
+      </div>
+
+      <div className="mt-16 flex justify-center">
+        <Link
+          to="/register"
+          className="ios-btn-primary ios-pill px-10 py-5 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 group shadow-2xl shadow-ios-olive/30 hover:scale-105 transition-transform"
+        >
+          Get Started <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+        </Link>
       </div>
     </div>
   </section>
@@ -219,22 +229,26 @@ const onboardingSteps = [
   {
     num: 'Step 01',
     title: 'Profile Authentication & Verification',
-    desc: 'Establish a secure account by verifying service credentials, regiment details, and tenure duration to unlock eligible service tracks.'
+    desc: 'Establish a secure account by verifying service credentials, regiment details, and tenure duration to unlock eligible service tracks.',
+    image: '/homepage/F4_A.png'
   },
   {
     num: 'Step 02',
     title: 'Dual-Track Diagnostic Assessment',
-    desc: 'Complete the integrated career eligibility mapping and input financial corpus optimization objectives to generate a personalized transition blueprint.'
+    desc: 'Complete the integrated career eligibility mapping and input financial corpus optimization objectives to generate a personalized transition blueprint.',
+    image: '/homepage/F4B.png'
   },
   {
     num: 'Step 03',
     title: 'Resource Engagement',
-    desc: 'Activate targeted examination preparation modules or engage with curated investment vehicles based on the diagnostic output.'
+    desc: 'Activate targeted examination preparation modules or engage with curated investment vehicles based on the diagnostic output.',
+    image: '/homepage/F4C.png'
   },
   {
     num: 'Step 04',
     title: 'Continuous Monitoring & Execution',
-    desc: 'Monitor job application statuses, track academic preparation metrics, and review investment portfolio performance via the centralized interface.'
+    desc: 'Monitor job application statuses, track academic preparation metrics, and review investment portfolio performance via the centralized interface.',
+    image: '/homepage/F4D.png'
   }
 ];
 
@@ -248,7 +262,7 @@ const OnboardingProcess = () => (
         className="mb-16"
       >
         <div className="flex items-center gap-2 text-xs font-bold text-ios-olive tracking-widest mb-4 uppercase">
-          Scroll 4 <span className="w-8 h-[2px] bg-ios-olive" />
+          ONBOARDING <span className="w-8 h-[2px] bg-ios-olive" />
         </div>
         <h2 className="text-4xl md:text-5xl font-black tracking-tighter">
           Onboarding & Service<br />
@@ -266,18 +280,30 @@ const OnboardingProcess = () => (
             transition={{ duration: 0.5, delay: i * 0.15 }}
             className="relative"
           >
-            {i < onboardingSteps.length - 1 && (
-              <div className="hidden md:block absolute top-8 left-full w-full h-[2px] bg-gradient-to-r from-ios-olive to-transparent z-0 -translate-y-1/2" style={{ width: 'calc(100% - 1.5rem)', left: 'calc(100% + 0.75rem)' }} />
-            )}
-            <div className="bg-white/5 border border-white/10 rounded-3xl p-6 hover:bg-white/10 hover:border-ios-olive/30 transition-all group h-full">
+            <div className="bg-white/5 border border-white/10 rounded-3xl p-6 hover:bg-white/10 hover:border-ios-olive/30 transition-all group h-full flex flex-col">
+              {step.image && (
+                <div className="w-full h-40 rounded-2xl overflow-hidden mb-6 shadow-2xl relative">
+                  <img src={step.image} alt={step.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent" />
+                </div>
+              )}
               <div className="text-2xl font-black text-ios-olive/40 mb-4 tracking-tighter group-hover:text-ios-olive transition-colors">
                 {step.num}
               </div>
               <h3 className="text-lg font-bold tracking-tight mb-3 text-white group-hover:text-ios-olive transition-colors">{step.title}</h3>
-              <p className="text-gray-400 text-sm leading-relaxed font-light">{step.desc}</p>
+              <p className="text-gray-400 text-sm leading-relaxed font-medium flex-grow">{step.desc}</p>
             </div>
           </motion.div>
         ))}
+      </div>
+
+      <div className="mt-16 flex justify-center">
+        <Link
+          to="/register"
+          className="ios-btn-primary ios-pill px-10 py-5 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 group shadow-2xl shadow-ios-olive/30 hover:scale-105 transition-transform"
+        >
+          Get Started <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+        </Link>
       </div>
     </div>
   </section>
@@ -287,27 +313,27 @@ const OnboardingProcess = () => (
 
 const validations = [
   {
-    icon: Award,
+    image: '/homepage/F5A.png',
     title: 'Government-Accredited Career Track',
     subtitle: '100% Mapped',
     desc: 'All examination preparation modules and career pathways are mapped directly against official government-accredited curricula and civil service recruitment frameworks.'
   },
   {
-    icon: Lock,
+    image: '/homepage/F5B.png',
     title: 'Government-Regulated Financial Security',
     subtitle: 'SEBI-Compliant Ecosystem',
     desc: 'Wealth management, corpus consolidation, and investment advisory services are executed exclusively through government-regulated financial entities.'
   },
   {
-    icon: Users,
+    image: '/homepage/F5C.png',
     title: 'Impact Driven',
-    subtitle: 'X000 Agniveers Enrolled',
+    subtitle: 'Built for Agniveers.',
     desc: 'Retired personnel are currently onboarded and are utilizing the platform to execute their career and financial milestones.'
   }
 ];
 
 const RegulatoryCompliance = () => (
-  <section className="py-24 bg-white">
+  <section className="py-24 bg-ios-secondary">
     <div className="max-w-7xl mx-auto px-6">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
@@ -329,16 +355,32 @@ const RegulatoryCompliance = () => (
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: i * 0.1 }}
-            className="p-8 rounded-3xl bg-ios-secondary hover:bg-ios-olive/5 border border-transparent hover:border-ios-olive/20 transition-all group"
+            className="ios-card bg-white p-8 hover:-translate-y-1 hover:shadow-2xl hover:shadow-black/10 transition-all duration-300 group flex flex-col"
           >
-            <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
-              <val.icon className="w-7 h-7 text-white" />
-            </div>
+            {val.image ? (
+              <div className="w-full aspect-square rounded-xl overflow-hidden mb-6 shadow-lg relative">
+                <img src={val.image} alt={val.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
+              </div>
+            ) : (
+              <div className="w-14 h-14 rounded-2xl bg-ios-olive flex items-center justify-center mb-6 group-hover:scale-110 transition-transform shadow-lg shadow-ios-olive/20">
+                <val.icon className="w-7 h-7 text-white" />
+              </div>
+            )}
             <h3 className="text-xl font-bold tracking-tight mb-1">{val.title}</h3>
             <p className="text-sm font-bold text-ios-olive mb-4">{val.subtitle}</p>
-            <p className="text-gray-500 text-sm leading-relaxed font-light">{val.desc}</p>
+            <p className="text-gray-500 text-sm leading-relaxed font-medium flex-grow">{val.desc}</p>
           </motion.div>
         ))}
+      </div>
+
+      <div className="mt-16 flex justify-center">
+        <Link
+          to="/register"
+          className="ios-btn-primary ios-pill px-10 py-5 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 group shadow-2xl shadow-ios-olive/30 hover:scale-105 transition-transform"
+        >
+          Get Started <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+        </Link>
       </div>
     </div>
   </section>
@@ -384,26 +426,30 @@ const CTASection = () => (
             </ol>
             
             <div className="flex flex-wrap gap-4 mt-8">
-              <a
-                href="http://localhost:8080"
-                className="ios-btn-primary ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 group shadow-2xl shadow-ios-olive/30"
+              <div
+                className="bg-white/5 text-white/60 border border-white/10 ios-pill px-6 py-3 text-sm font-bold tracking-widest uppercase inline-flex items-center gap-3 select-none"
               >
-                Download on the App Store
-              </a>
-              <a
-                href="http://localhost:8080"
-                className="bg-white/10 hover:bg-white/20 text-white border border-white/20 ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 transition-all"
+                Coming soon to <Apple className="w-5 h-5" />
+              </div>
+              <div
+                className="bg-white/5 text-white/60 border border-white/10 ios-pill px-6 py-3 text-sm font-bold tracking-widest uppercase inline-flex items-center gap-3 select-none"
               >
-                Get it on Google Play
-              </a>
+                Coming soon to <PlaySquare className="w-5 h-5" />
+              </div>
+            </div>
+            
+            <div className="mt-8 pt-8 border-t border-white/10 flex justify-center w-full">
+              <Link
+                to="/register"
+                className="ios-btn-primary ios-pill px-10 py-5 text-sm font-black tracking-widest uppercase inline-flex items-center gap-3 group shadow-2xl shadow-ios-olive/30 w-full justify-center md:w-auto hover:scale-105 transition-transform"
+              >
+                Get Started <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+              </Link>
             </div>
           </div>
           
-          <div className="flex flex-col items-center gap-4 md:border-l md:border-white/10 md:pl-12">
-            <p className="text-sm font-bold tracking-widest uppercase">Scan to Download</p>
-            <div className="w-48 h-48 bg-white rounded-2xl flex items-center justify-center shadow-2xl">
-              <span className="text-black text-sm font-bold text-center px-4">[ QR Code Placeholder ]</span>
-            </div>
+          <div className="flex flex-col items-center justify-center md:border-l md:border-white/10 md:pl-12">
+            <img src="/homepage/F6_Phone.png" alt="VeerNXT App Preview" className="h-[768px] w-auto object-contain drop-shadow-2xl hover:scale-[1.02] transition-transform" />
           </div>
         </div>
       </motion.div>
@@ -459,9 +505,9 @@ const LandingFooter = () => (
         <p className="text-xs text-gray-500">
           © 2026 VeerNXT. VETERAN WORKS PRIVATE LIMITED. All Rights Reserved. Built With Discipline.
         </p>
-        <p className="text-xs text-gray-600 uppercase tracking-widest">
-          Agniveer · Ex-Servicemen · CRPF · BSF · CISF
-        </p>
+        <div className="text-xs font-bold tracking-widest text-white/40 uppercase mb-4 md:mb-0">
+          BUILT BY QUANTUM CLIMB
+        </div>
       </div>
     </div>
   </footer>
@@ -470,7 +516,8 @@ const LandingFooter = () => (
 // ─── LANDING PAGE ─────────────────────────────────────────────────────────────
 
 export const LandingPage = () => (
-  <>
+  <div className="bg-[#0a0a0a]">
+    <NavBar />
     <Hero />
     <WhatIsVeerNXT />
     <PrimaryServiceOfferings />
@@ -478,5 +525,5 @@ export const LandingPage = () => (
     <RegulatoryCompliance />
     <CTASection />
     <LandingFooter />
-  </>
+  </div>
 );
