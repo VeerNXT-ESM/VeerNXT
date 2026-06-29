@@ -178,7 +178,7 @@ const Navbar = () => {
           </div>
 
           <a 
-            href="http://localhost:8080" 
+            href="https://app.veernxt.in/login" 
             className="text-sm font-bold bg-ios-olive text-white px-5 py-2 rounded-full hover:bg-opacity-90 transition-all flex items-center gap-2"
           >
             <LogIn className="w-4 h-4" />

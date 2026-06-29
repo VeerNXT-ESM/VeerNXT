@@ -60,7 +60,7 @@ const Hero = () => (
 
         <div className="flex flex-wrap gap-4">
           <a
-            href="http://localhost:8080"
+            href="https://app.veernxt.in/login"
             className="ios-btn-primary ios-pill px-8 py-4 text-sm font-black tracking-widest uppercase flex items-center gap-2 group shadow-2xl shadow-ios-olive/30"
           >
             Open App
