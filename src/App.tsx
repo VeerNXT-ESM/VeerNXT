@@ -35,6 +35,7 @@ import { Support } from './components/Support';
 import { Legal } from './components/Legal';
 import { JobBoard } from './components/JobBoard';
 import { LandingPage } from './components/landing/LandingPage';
+import { PaymentPage } from './components/PaymentPage';
 
 const Navbar = () => {
   const { t, i18n } = useTranslation();
@@ -497,6 +498,9 @@ export default function App() {
         <Route path="/privacy" element={<LegacyShell><PrivacyPolicy /></LegacyShell>} />
         <Route path="/support" element={<LegacyShell><Support /></LegacyShell>} />
         <Route path="/legal" element={<LegacyShell><Legal /></LegacyShell>} />
+        
+        {/* Payment bridge route */}
+        <Route path="/pay" element={<PaymentPage />} />
       </Routes>
     </BrowserRouter>
   );
