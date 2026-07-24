@@ -133,7 +133,9 @@ const Hero = () => {
 
 // ─── WHAT IS VEERNXT? ────────────────────────────────────────────────────────
 const WhatIsVeerNXT = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const videoId = i18n.language === 'hi' ? 'wG--TwXf6yI' : '3HBSfoM2Sls';
+
   return (
     <section className="py-24 bg-[#0d0d0d] text-white">
       <div className="max-w-7xl mx-auto px-6">
@@ -154,18 +156,14 @@ const WhatIsVeerNXT = () => {
             {t('landing.whatIs.desc')}
           </p>
 
-          <div className="max-w-4xl mx-auto rounded-3xl overflow-hidden shadow-2xl border border-white/10 relative">
-            <video 
-              controls 
-              className="w-full h-auto aspect-video bg-black"
-              poster="/hero/about.png"
-            >
-              <source src="" type="video/mp4" />
-              Your browser does not support the video tag.
-            </video>
-            <div className="absolute top-4 left-4 bg-ios-olive text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">
-              Video Placeholder
-            </div>
+          <div className="max-w-4xl mx-auto rounded-3xl overflow-hidden shadow-2xl border border-white/10 relative aspect-video bg-black">
+            <iframe
+              className="w-full h-full"
+              src={`https://www.youtube.com/embed/${videoId}?autoplay=0&mute=1&rel=0&modestbranding=1`}
+              title="VeerNXT Introduction Video"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
           </div>
 
           <div className="inline-flex flex-wrap justify-center gap-8 md:gap-16 mt-16 p-8 bg-white/5 backdrop-blur-md rounded-3xl border border-white/10 shadow-2xl">
