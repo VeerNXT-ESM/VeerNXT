@@ -47,11 +47,9 @@ const Navbar = () => {
     { code: 'en', name: 'English' },
     { code: 'hi', name: 'हिन्दी (Hindi)' },
     { code: 'ta', name: 'தமிழ் (Tamil)' },
-    { code: 'bn', name: 'বাংলা (Bengali)' },
     { code: 'mr', name: 'मराठी (Marathi)' },
-    { code: 'ml', name: 'മലയാളം (Malayalam)' },
     { code: 'te', name: 'తెలుగు (Telugu)' },
-    { code: 'gu', name: 'ગુજરાતી (Gujarati)' },
+    { code: 'kn', name: 'ಕನ್ನಡ (Kannada)' },
   ];
 
   const currentLang = languages.find(l => l.code === i18n.language) || languages[0];
