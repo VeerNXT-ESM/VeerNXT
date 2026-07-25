@@ -159,9 +159,10 @@ const WhatIsVeerNXT = () => {
           <div className="max-w-4xl mx-auto rounded-3xl overflow-hidden shadow-2xl border border-white/10 relative aspect-video bg-black">
             <iframe
               className="w-full h-full"
-              src={`https://www.youtube.com/embed/${videoId}?autoplay=0&mute=1&rel=0&modestbranding=1`}
+              src={`https://www.youtube-nocookie.com/embed/${videoId}?autoplay=0&mute=1&rel=0&modestbranding=1`}
               title="VeerNXT Introduction Video"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              referrerPolicy="strict-origin-when-cross-origin"
               allowFullScreen
             ></iframe>
           </div>
