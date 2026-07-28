@@ -134,7 +134,14 @@ const Hero = () => {
 // ─── WHAT IS VEERNXT? ────────────────────────────────────────────────────────
 const WhatIsVeerNXT = () => {
   const { t, i18n } = useTranslation();
-  const videoId = i18n.language === 'hi' ? 'wG--TwXf6yI' : '3HBSfoM2Sls';
+  const videoIds: Record<string, string> = {
+    hi: 'wG--TwXf6yI',
+    mr: 'VXhSDvpQOPk',
+    te: 'LMnM9SU5rAM',
+    ta: 'OdeYjGGomXY',
+    kn: 'mgT1G9y8J3E',
+  };
+  const videoId = videoIds[i18n.language] || '3HBSfoM2Sls';
 
   return (
     <section className="py-24 bg-[#0d0d0d] text-white">

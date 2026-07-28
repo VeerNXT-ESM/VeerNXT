@@ -9,6 +9,10 @@ i18n
   .init({
     resources,
     fallbackLng: 'en',
+    detection: {
+      order: ['localStorage', 'cookie', 'sessionStorage', 'htmlTag'],
+      caches: ['localStorage', 'cookie'],
+    },
     interpolation: {
       escapeValue: false, // react already safes from xss
     }
